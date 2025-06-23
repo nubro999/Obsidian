@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/일기 템플릿.md",
+                "file": "블록체인공부/0604_bay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일기 템플릿"
+              "title": "0604_bay"
             }
           }
         ],
@@ -213,10 +213,10 @@
   "active": "8cf630c1b55d561a",
   "lastOpenFiles": [
     "주간계획/6_3.md",
-    "README.md",
-    "template/일기 템플릿.md",
-    "주간계획",
     "주간계획/2025-Weekly Review.md",
+    "template/일기 템플릿.md",
+    "README.md",
+    "주간계획",
     "2021-Weekly Review.md",
     "GO_GET_A_JOB/할 것.md",
     "GO_GET_A_JOB/Untitled.md",
