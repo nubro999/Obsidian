@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블록체인공부/0604_bay.md",
+                "file": "블록체인공부/what is block chain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0604_bay"
+              "title": "what is block chain"
             }
           }
         ],
@@ -212,8 +212,11 @@
   },
   "active": "8cf630c1b55d561a",
   "lastOpenFiles": [
-    "주간계획/6_3.md",
+    "블록체인공부/0604_bay.md",
+    "블록체인공부/what is block chain.md",
+    "주간계획/6_4.md",
     "주간계획/2025-Weekly Review.md",
+    "주간계획/6_3.md",
     "template/일기 템플릿.md",
     "README.md",
     "주간계획",
@@ -227,7 +230,6 @@
     "GO_GET_A_JOB/Pasted image 20250617155728.png",
     "GO_GET_A_JOB",
     "2025-1/영미문학강독 시험.md",
-    "블록체인공부/0604_bay.md",
     "블록체인공부/README.md",
     "2025-1/소공수업/시험 정리.md",
     "2025-1/소공수업/12주차.md",
@@ -244,8 +246,6 @@
     "네트워크공부/물리계층_1.md",
     "네트워크공부/네트워크 계층_3.md",
     "2025-1/영미문학강독/13주차.md",
-    "2025-1/영미문학강독/12주차.md",
-    "2025-1/영미문학강독/9주차.md",
     "2025-1/영미문학강독",
     "2025-1/소공수업",
     "Untitled 2.canvas",
