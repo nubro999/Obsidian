@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,13 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dd94b497854aefe",
+  "active": "2f99748d40fd366a",
   "lastOpenFiles": [
-    "블록체인공부/bitcoin.pdf",
     "블록체인공부/지문 - 해시값 암호검증.md",
+    "블록체인공부/bitcoin.pdf",
+    "블록체인공부/what is block chain.md",
     "블록체인공부/블록체인의 기본 구조와 작동 원리.md",
     "블록체인공부/README.md",
-    "블록체인공부/what is block chain.md",
     "template/일기 템플릿.md",
     "nonce.md",
     "블록체인공부/bitcoin.pdf.crdownload",
