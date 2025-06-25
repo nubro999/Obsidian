@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/일기 템플릿.md",
+                "file": "블록체인공부/블록체인의 기본 구조와 작동 원리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일기 템플릿"
-            }
-          },
-          {
-            "id": "8cf630c1b55d561a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블록체인공부/what is block chain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what is block chain"
+              "title": "블록체인의 기본 구조와 작동 원리"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,14 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf630c1b55d561a",
+  "active": "1dd94b497854aefe",
   "lastOpenFiles": [
-    "블록체인공부/0604_bay.md",
     "블록체인공부/what is block chain.md",
+    "블록체인공부/README.md",
+    "블록체인공부/bitcoin.pdf",
+    "블록체인공부/블록체인의 기본 구조와 작동 원리.md",
+    "template/일기 템플릿.md",
+    "nonce.md",
+    "블록체인공부/bitcoin.pdf.crdownload",
+    "블록체인공부/0604_bay.md",
     "주간계획/6_4.md",
     "주간계획/2025-Weekly Review.md",
     "주간계획/6_3.md",
-    "template/일기 템플릿.md",
     "README.md",
     "주간계획",
     "2021-Weekly Review.md",
@@ -230,7 +221,6 @@
     "GO_GET_A_JOB/Pasted image 20250617155728.png",
     "GO_GET_A_JOB",
     "2025-1/영미문학강독 시험.md",
-    "블록체인공부/README.md",
     "2025-1/소공수업/시험 정리.md",
     "2025-1/소공수업/12주차.md",
     "2025-1",
@@ -243,15 +233,10 @@
     "네트워크공부/응용계층_5.md",
     "네트워크공부/전송계층_4.md",
     "네트워크공부/데이터 링크 계층_2.md",
-    "네트워크공부/물리계층_1.md",
-    "네트워크공부/네트워크 계층_3.md",
-    "2025-1/영미문학강독/13주차.md",
     "2025-1/영미문학강독",
     "2025-1/소공수업",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "네트워크공부",
-    "2025-1/소공과제",
-    "desktop.ini"
+    "네트워크공부"
   ]
 }
