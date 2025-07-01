@@ -62,19 +62,9 @@
               "icon": "lucide-file",
               "title": "6_4"
             }
-          },
-          {
-            "id": "30981733a5261fdb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,12 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30981733a5261fdb",
+  "active": "775fd940f27f2f2e",
   "lastOpenFiles": [
-    "2025-1/소공수업/소공수업.md",
-    "주간계획/7_1.md",
     "주간계획/6_3.md",
+    "주간계획/7_1.md",
     "주간계획/6_4.md",
+    "2025-1/소공수업/소공수업.md",
     "2025-1/영미문학강독/영미문학강독.md",
     "2025-1/영미문학강독/영미문학강독 시험.md",
     "2025-1/소공과제/소공과제.md",
