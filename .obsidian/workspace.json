@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c1488c90894edc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Apply/업사이드아카데미.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "업사이드아카데미"
-            }
-          },
-          {
             "id": "73863229e1556b80",
             "type": "leaf",
             "state": {
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "22f6aa323d380694",
+            "id": "f14bdf3e12566e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/Ethereum/Transaction.md",
+                "file": "01.BlockChain/Ethereum/합의클라이언트.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Transaction"
+              "title": "합의클라이언트"
+            }
+          },
+          {
+            "id": "22f6aa323d380694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.SoftwareEngineering/What is Software Engineering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What is Software Engineering"
+            }
+          },
+          {
+            "id": "1f4067af52d21979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.SoftwareEngineering/What is Software Engineering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What is Software Engineering"
             }
           },
           {
@@ -127,7 +151,8 @@
               "title": "TuringComplete"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,23 +313,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c784a1655cea7b7e",
+  "active": "1f4067af52d21979",
   "lastOpenFiles": [
+    "03.SoftwareEngineering/의존성 주입.md",
+    "03.SoftwareEngineering/What is Software Engineering.md",
+    "20.YEAR/2025-1/소공수업/소공수업.md",
+    "20.YEAR/2025-1/소공과제/소공과제.md",
+    "20.YEAR/2025-1/소공과제/Analysis class diagram - association.md",
+    "20.YEAR/2025-1/소공과제/과제 2.md",
+    "01.BlockChain/Ethereum/Transaction.md",
+    "03.SoftwareEngineering",
+    "03.System/What.md",
+    "03.System",
+    "00.inbox/Untitled.md",
+    "00.inbox/Untitled",
+    "01.BlockChain/Ethereum/합의클라이언트.md",
+    "01.BlockChain/Ethereum/Gas.md",
+    "01.BlockChain/Ethereum/SmartContract.md",
+    "01.BlockChain/Ethereum/TuringComplete.md",
+    "30.JOB/Apply/업사이드아카데미.md",
     "30.JOB/Apply/0604_bay.md",
     "01.BlockChain/Ethereum/What is EVM.md",
     "99.Attachment/Pasted image 20250628165920.png",
-    "00.inbox/Untitled.md",
     "01.BlockChain/Ethereum/What is Ethereum.md",
     "99.Attachment/Pasted image 20250617155728.png",
     "30.JOB/GO_GET_A_JOB/영어공부.md",
-    "30.JOB/Apply/업사이드아카데미.md",
     "01.BlockChain/Ethereum/Dapp.md",
     "30.JOB/Apply",
     "01.BlockChain/What is Blockchain.md",
-    "01.BlockChain/Ethereum/TuringComplete.md",
-    "01.BlockChain/Ethereum/SmartContract.md",
-    "01.BlockChain/Ethereum/Transaction.md",
-    "01.BlockChain/Ethereum/Gas.md",
     "11.Weekly Plan/7_1.md",
     "01.BlockChain/Ethereum",
     "30.JOB/GO_GET_A_JOB/공부할 분야.md",
@@ -312,21 +348,11 @@
     "10.DailyNote/2025-07-01.md",
     "10.DailyNote/2025-07-02.md",
     "11.Weekly Plan/6_3.md",
-    "01.BlockChain/블록체인공부/what is block chain(학습계획).md",
-    "01.BlockChain/블록체인공부/StableCoin/What is stablecoin.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
-    "01.BlockChain/블록체인공부/블록체인보안/What is Blockchain Security.md",
-    "01.BlockChain/블록체인공부/bitcoin/What is bitcoin.md",
-    "01.BlockChain/블록체인공부/코볼금융한계/코볼금융한계.md",
-    "01.BlockChain/블록체인공부/아이디어/지문 - 해시값 암호검증.md",
-    "01.BlockChain/블록체인공부/심층분석/온체인용량증가시문제점.md",
     "30.JOB",
     "20.YEAR",
     "11.Weekly Plan",
     "02.Network",
-    "01.BlockChain",
-    "블록체인공부/블록체인공부",
-    "01.BlockChain/블록체인공부/블록체인보안",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
