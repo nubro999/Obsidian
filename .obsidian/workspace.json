@@ -8,63 +8,126 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f96ba60297966e",
+            "id": "6c1488c90894edc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주간계획/6_3.md",
+                "file": "30.JOB/Apply/업사이드아카데미.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "6_3"
+              "title": "업사이드아카데미"
             }
           },
           {
-            "id": "1dd94b497854aefe",
+            "id": "73863229e1556b80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블록체인공부/블록체인의 기본 구조와 작동 원리.md",
+                "file": "01.BlockChain/Ethereum/Gas.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "블록체인의 기본 구조와 작동 원리"
+              "title": "Gas"
             }
           },
           {
-            "id": "30b163726b62b299",
+            "id": "22f6aa323d380694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-1/영미문학강독/영미문학강독 시험.md",
+                "file": "01.BlockChain/Ethereum/Transaction.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "영미문학강독 시험"
+              "title": "Transaction"
             }
           },
           {
-            "id": "775fd940f27f2f2e",
+            "id": "0c0b98b2f453df13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주간계획/6_4.md",
+                "file": "01.BlockChain/Ethereum/SmartContract.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "6_4"
+              "title": "SmartContract"
+            }
+          },
+          {
+            "id": "a88f8052f6ec66cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.BlockChain/Ethereum/TuringComplete.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TuringComplete"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -221,50 +284,51 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "775fd940f27f2f2e",
+  "active": "c784a1655cea7b7e",
   "lastOpenFiles": [
-    "주간계획/6_3.md",
-    "주간계획/7_1.md",
-    "주간계획/6_4.md",
-    "2025-1/소공수업/소공수업.md",
-    "2025-1/영미문학강독/영미문학강독.md",
-    "2025-1/영미문학강독/영미문학강독 시험.md",
-    "2025-1/소공과제/소공과제.md",
-    "2025-1/소공과제/과제 2.md",
-    "2025-1/소공과제/Analysis class diagram - association.md",
-    "2025-1/소공과제/Communication diagram.md",
-    "2025-1/소공과제/Requirementlist.md",
-    "블록체인공부/지원서/0604_bay.md",
-    "블록체인공부/블록체인보안/DID.md",
-    "블록체인공부/블록체인보안/What is Blockchain Security.md",
-    "블록체인공부/블록체인공부/Welcome.md",
+    "30.JOB/Apply/0604_bay.md",
+    "01.BlockChain/Ethereum/What is EVM.md",
+    "99.Attachment/Pasted image 20250628165920.png",
+    "00.inbox/Untitled.md",
+    "01.BlockChain/Ethereum/What is Ethereum.md",
+    "99.Attachment/Pasted image 20250617155728.png",
+    "30.JOB/GO_GET_A_JOB/영어공부.md",
+    "30.JOB/Apply/업사이드아카데미.md",
+    "01.BlockChain/Ethereum/Dapp.md",
+    "30.JOB/Apply",
+    "01.BlockChain/What is Blockchain.md",
+    "01.BlockChain/Ethereum/TuringComplete.md",
+    "01.BlockChain/Ethereum/SmartContract.md",
+    "01.BlockChain/Ethereum/Transaction.md",
+    "01.BlockChain/Ethereum/Gas.md",
+    "11.Weekly Plan/7_1.md",
+    "01.BlockChain/Ethereum",
+    "30.JOB/GO_GET_A_JOB/공부할 분야.md",
+    "11.Weekly Plan/6_4.md",
+    "10.DailyNote/2025-07-01.md",
+    "10.DailyNote/2025-07-02.md",
+    "11.Weekly Plan/6_3.md",
+    "01.BlockChain/블록체인공부/what is block chain(학습계획).md",
+    "01.BlockChain/블록체인공부/StableCoin/What is stablecoin.md",
+    "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
+    "01.BlockChain/블록체인공부/블록체인보안/What is Blockchain Security.md",
+    "01.BlockChain/블록체인공부/bitcoin/What is bitcoin.md",
+    "01.BlockChain/블록체인공부/코볼금융한계/코볼금융한계.md",
+    "01.BlockChain/블록체인공부/아이디어/지문 - 해시값 암호검증.md",
+    "01.BlockChain/블록체인공부/심층분석/온체인용량증가시문제점.md",
+    "30.JOB",
+    "20.YEAR",
+    "11.Weekly Plan",
+    "02.Network",
+    "01.BlockChain",
     "블록체인공부/블록체인공부",
-    "블록체인공부/코볼금융한계/코볼금융한계.md",
-    "블록체인공부/블록체인보안",
-    "블록체인공부/what is block chain(학습계획).md",
-    "블록체인공부/bitcoin/What is bitcoin.md",
-    "블록체인공부/StableCoin/What is stablecoin.md",
-    "블록체인공부/README.md",
-    "블록체인공부/지원서",
-    "블록체인공부/bitcoin",
-    "블록체인공부/아이디어",
-    "블록체인공부/코볼금융한계/Untitled",
-    "블록체인공부/코볼금융한계",
-    "블록체인공부/StableCoin",
-    "블록체인공부/아이디어/지문 - 해시값 암호검증.md",
-    "블록체인공부/bitcoin/bitcoin.pdf",
-    "README.md",
-    "주간계획/2025-Weekly Review.md",
-    "블록체인공부/심층분석/고아블록.md",
-    "블록체인공부/심층분석/가장긴체인.md",
-    "블록체인공부/심층분석/블록은 모두에게 검증받나.md",
-    "블록체인공부/심층분석",
+    "01.BlockChain/블록체인공부/블록체인보안",
     "Untitled.canvas",
-    "GO_GET_A_JOB/Pasted image 20250617155728.png",
-    "네트워크공부/Pasted image 20250529213850.png",
+    "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
