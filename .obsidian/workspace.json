@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4b6d794f4349e370",
+            "id": "7c3e759c0dd7b12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/0604_bay.md",
+                "file": "00.inbox/Solidity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0604_bay"
+              "title": "Solidity"
+            }
+          },
+          {
+            "id": "0a5cf47e9c324772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-07-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-03"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 279.5
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -217,36 +241,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a0783b702048750e",
+  "active": "0a5cf47e9c324772",
   "lastOpenFiles": [
-    "11.WeeklyPlan/7_1.md",
-    "11.WeeklyPlan/6_4.md",
-    "11.WeeklyPlan/2025-Weekly Review.md",
-    "11.WeeklyPlan/6_3.md",
-    "11.WeeklyPlan",
-    "30.JOB/Apply/업사이드아카데미.md",
-    "01.BlockChain/Ethereum/Dapp.md",
-    "새 텍스트 문서.txt",
-    "01.BlockChain/블록체인공부/Untitled.md",
-    "00.inbox/Pos.md",
-    "01.BlockChain/블록체인공부/블록체인보안/DID.md",
-    "10.DailyNote/2025-07-03.md",
-    "10.DailyNote/2025-07-01.md",
-    "10.DailyNote/2025-07-02.md",
-    "03.SoftwareEngineering/의존성 주입.md",
-    "03.SoftwareEngineering/What is Software Engineering.md",
-    "02.Network/네트워크공부/패킷분석.md",
-    "02.Network/네트워크공부/전송계층_4.md",
-    "02.Network/네트워크공부/응용계층_5.md",
-    "02.Network/네트워크공부/물리계층_1.md",
-    "02.Network/네트워크공부/데이터 링크 계층_2.md",
-    "02.Network/네트워크공부/네트워크 보안 기초.md",
-    "02.Network/네트워크공부/네트워크 계층_3.md",
-    "01.BlockChain/What is Blockchain.md",
+    "01.BlockChain/블록체인공부/What is Blockchain.md",
+    "01.BlockChain/블록체인공부/Ethereum/합의클라이언트.md",
+    "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
+    "01.BlockChain/블록체인공부/Ethereum/영지식증명.md",
+    "01.BlockChain/블록체인공부/Ethereum/What is Ethereum.md",
+    "01.BlockChain/블록체인공부/Ethereum/TuringComplete.md",
+    "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
+    "01.BlockChain/블록체인공부/Ethereum/Dapp.md",
+    "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
+    "01.BlockChain/블록체인공부/Ethereum/Pos.md",
+    "01.BlockChain/블록체인공부/Ethereum/IPFS.md",
+    "01.BlockChain/블록체인공부/Ethereum/Gas.md",
+    "01.BlockChain/블록체인공부/Ethereum/DAO해킹사건.md",
+    "01.BlockChain/블록체인공부/Ethereum",
     "01.BlockChain/Ethereum/What is EVM.md",
     "01.BlockChain/Ethereum/TuringComplete.md",
-    "01.BlockChain/Ethereum/What is Ethereum.md",
     "01.BlockChain/Ethereum/SmartContract.md",
+    "01.BlockChain/Ethereum/What is Ethereum.md",
+    "00.inbox/Solidity.md",
+    "01.BlockChain/Ethereum/Dapp.md",
+    "01.BlockChain/블록체인공부/블록체인보안/DID.md",
+    "01.BlockChain/Ethereum/IPFS.md",
+    "00.inbox/Trupel.md",
+    "01.BlockChain/Ethereum/영지식증명.md",
+    "01.BlockChain/Ethereum/Pos.md",
+    "30.JOB/Apply/0604_bay.md",
+    "11.WeeklyPlan/7_1.md",
+    "11.WeeklyPlan",
+    "새 텍스트 문서.txt",
     "80.Information",
     "03.SoftwareEngineering",
     "03.System",
@@ -256,7 +281,6 @@
     "30.JOB/Apply",
     "01.BlockChain/Ethereum",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
-    "30.JOB",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
