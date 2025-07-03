@@ -217,8 +217,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b6d794f4349e370",
+  "active": "a0783b702048750e",
   "lastOpenFiles": [
+    "11.WeeklyPlan/7_1.md",
+    "11.WeeklyPlan/6_4.md",
+    "11.WeeklyPlan/2025-Weekly Review.md",
+    "11.WeeklyPlan/6_3.md",
+    "11.WeeklyPlan",
     "30.JOB/Apply/업사이드아카데미.md",
     "01.BlockChain/Ethereum/Dapp.md",
     "새 텍스트 문서.txt",
@@ -242,10 +247,6 @@
     "01.BlockChain/Ethereum/TuringComplete.md",
     "01.BlockChain/Ethereum/What is Ethereum.md",
     "01.BlockChain/Ethereum/SmartContract.md",
-    "01.BlockChain/Ethereum/Gas.md",
-    "01.BlockChain/Ethereum/DAO해킹사건.md",
-    "01.BlockChain/Ethereum/Transaction.md",
-    "01.BlockChain/Ethereum/합의클라이언트.md",
     "80.Information",
     "03.SoftwareEngineering",
     "03.System",
@@ -256,7 +257,6 @@
     "01.BlockChain/Ethereum",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "30.JOB",
-    "20.YEAR",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
