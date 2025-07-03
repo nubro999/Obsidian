@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/Ethereum/Dapp.md",
+                "file": "30.JOB/Apply/0604_bay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dapp"
+              "title": "0604_bay"
             }
           }
         ],
@@ -219,6 +219,10 @@
   },
   "active": "4b6d794f4349e370",
   "lastOpenFiles": [
+    "30.JOB/Apply/업사이드아카데미.md",
+    "01.BlockChain/Ethereum/Dapp.md",
+    "새 텍스트 문서.txt",
+    "01.BlockChain/블록체인공부/Untitled.md",
     "00.inbox/Pos.md",
     "01.BlockChain/블록체인공부/블록체인보안/DID.md",
     "10.DailyNote/2025-07-03.md",
@@ -240,11 +244,8 @@
     "01.BlockChain/Ethereum/SmartContract.md",
     "01.BlockChain/Ethereum/Gas.md",
     "01.BlockChain/Ethereum/DAO해킹사건.md",
-    "01.BlockChain/Ethereum/Dapp.md",
     "01.BlockChain/Ethereum/Transaction.md",
     "01.BlockChain/Ethereum/합의클라이언트.md",
-    "01.BlockChain/블록체인공부/what is block chain(학습계획).md",
-    "01.BlockChain/블록체인공부/블록체인보안/What is Blockchain Security.md",
     "80.Information",
     "03.SoftwareEngineering",
     "03.System",
@@ -256,7 +257,6 @@
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "30.JOB",
     "20.YEAR",
-    "11.Weekly Plan",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
