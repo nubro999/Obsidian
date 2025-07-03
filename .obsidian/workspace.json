@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ce35d9247db949f",
+            "id": "7b14246d12bc301b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/블록체인공부/블록체인보안/DID.md",
+                "file": "04.Security/Hacking/BISCSafe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DID"
-            }
-          },
-          {
-            "id": "7c3e759c0dd7b12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Solidity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Solidity"
-            }
-          },
-          {
-            "id": "0a5cf47e9c324772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-07-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-03"
+              "title": "BISCSafe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +192,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a5cf47e9c324772",
+  "active": "7b14246d12bc301b",
   "lastOpenFiles": [
+    "04.Security/What is Security.md",
+    "04.Security/Hacking/BISCSafe.md",
+    "04.Security/Hacking",
+    "01.BlockChain/블록체인공부/Ethereum/Seplia.md",
+    "80.Information/Hidden.md",
+    "00.inbox/Solidity.md",
+    "02.Network/네트워크공부/README.md",
+    "02.Network/네트워크공부/패킷분석.md",
+    "02.Network/네트워크공부/네트워크 보안 기초.md",
+    "01.BlockChain/블록체인공부/심층분석/고아블록.md",
+    "01.BlockChain/블록체인공부/심층분석/검증과정.md",
+    "01.BlockChain/블록체인공부/블록체인보안/What is Blockchain Security.md",
+    "00.inbox/Truffle.md",
+    "01.BlockChain/블록체인공부/Ethereum/HardHat.md",
+    "01.BlockChain/블록체인공부/블록체인보안/DID.md",
+    "30.JOB/Apply/0604_bay.md",
+    "04.Security",
+    "01.BlockChain/블록체인공부/블록체인보안/Untitled.md",
+    "10.DailyNote/2025-07-03.md",
     "01.BlockChain/블록체인공부/What is Blockchain.md",
     "01.BlockChain/블록체인공부/Ethereum/합의클라이언트.md",
     "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
@@ -252,24 +222,7 @@
     "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
     "01.BlockChain/블록체인공부/Ethereum/Dapp.md",
     "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
-    "01.BlockChain/블록체인공부/Ethereum/Pos.md",
-    "01.BlockChain/블록체인공부/Ethereum/IPFS.md",
-    "01.BlockChain/블록체인공부/Ethereum/Gas.md",
-    "01.BlockChain/블록체인공부/Ethereum/DAO해킹사건.md",
     "01.BlockChain/블록체인공부/Ethereum",
-    "01.BlockChain/Ethereum/What is EVM.md",
-    "01.BlockChain/Ethereum/TuringComplete.md",
-    "01.BlockChain/Ethereum/SmartContract.md",
-    "01.BlockChain/Ethereum/What is Ethereum.md",
-    "00.inbox/Solidity.md",
-    "01.BlockChain/Ethereum/Dapp.md",
-    "01.BlockChain/블록체인공부/블록체인보안/DID.md",
-    "01.BlockChain/Ethereum/IPFS.md",
-    "00.inbox/Trupel.md",
-    "01.BlockChain/Ethereum/영지식증명.md",
-    "01.BlockChain/Ethereum/Pos.md",
-    "30.JOB/Apply/0604_bay.md",
-    "11.WeeklyPlan/7_1.md",
     "11.WeeklyPlan",
     "새 텍스트 문서.txt",
     "80.Information",
@@ -279,8 +232,6 @@
     "99.Attachment/Pasted image 20250628165920.png",
     "99.Attachment/Pasted image 20250617155728.png",
     "30.JOB/Apply",
-    "01.BlockChain/Ethereum",
-    "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
