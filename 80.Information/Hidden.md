@@ -1,2 +1,0 @@
-gemini api key
-AIzaSyBW-0ScybgiU-u8DmyxpFPltZ7kBzJDWj4
