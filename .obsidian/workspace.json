@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Security/Hacking/BISCSafe.md",
+                "file": "04.Security/Hacking/Upside/문제 H.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BISCSafe"
+              "title": "문제 H"
             }
           }
         ]
@@ -194,11 +194,22 @@
   },
   "active": "7b14246d12bc301b",
   "lastOpenFiles": [
-    "04.Security/What is Security.md",
+    "04.Security/Hacking/Upside/문제 F.md",
+    "04.Security/Hacking/Upside/문제 K.md",
+    "04.Security/Hacking/Upside/문제_E.md",
+    "04.Security/Hacking/Upside/문제 G.md",
+    "04.Security/Hacking/Upside/문제 J.md",
+    "04.Security/Hacking/Upside/문제 I.md",
+    "04.Security/Hacking/Upside/문제 H.md",
+    "10.DailyNote/2025-07-04.md",
+    "04.Security/Hacking/Upside/문제 4.md",
+    "80.Information/Hidden.md",
+    "04.Security/Hacking/Upside/문제2 prob.md",
     "04.Security/Hacking/BISCSafe.md",
+    "04.Security/Hacking/Upside",
+    "04.Security/What is Security.md",
     "04.Security/Hacking",
     "01.BlockChain/블록체인공부/Ethereum/Seplia.md",
-    "80.Information/Hidden.md",
     "00.inbox/Solidity.md",
     "02.Network/네트워크공부/README.md",
     "02.Network/네트워크공부/패킷분석.md",
@@ -212,16 +223,6 @@
     "30.JOB/Apply/0604_bay.md",
     "04.Security",
     "01.BlockChain/블록체인공부/블록체인보안/Untitled.md",
-    "10.DailyNote/2025-07-03.md",
-    "01.BlockChain/블록체인공부/What is Blockchain.md",
-    "01.BlockChain/블록체인공부/Ethereum/합의클라이언트.md",
-    "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
-    "01.BlockChain/블록체인공부/Ethereum/영지식증명.md",
-    "01.BlockChain/블록체인공부/Ethereum/What is Ethereum.md",
-    "01.BlockChain/블록체인공부/Ethereum/TuringComplete.md",
-    "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
-    "01.BlockChain/블록체인공부/Ethereum/Dapp.md",
-    "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
     "01.BlockChain/블록체인공부/Ethereum",
     "11.WeeklyPlan",
     "새 텍스트 문서.txt",
@@ -231,7 +232,6 @@
     "00.inbox/Untitled",
     "99.Attachment/Pasted image 20250628165920.png",
     "99.Attachment/Pasted image 20250617155728.png",
-    "30.JOB/Apply",
     "Untitled.canvas",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
