@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Security/Hacking/Upside/문제 H.md",
+                "file": "04.Security/Hacking/Upside/문제 K.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "문제 H"
+              "title": "문제 K"
+            }
+          },
+          {
+            "id": "2dca77b9b96d3951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/Upside/문제 L.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "문제 L"
+            }
+          },
+          {
+            "id": "c7f7dab680d7dbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/Apply/업사이드 아카데미 면접준비.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "업사이드 아카데미 면접준비"
+            }
+          },
+          {
+            "id": "404b932af4726b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/Upside/문제 Z.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "문제 Z"
+            }
+          },
+          {
+            "id": "89be07e647f9e728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/Upside/문제K 상세과정.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "문제K 상세과정"
+            }
+          },
+          {
+            "id": "ac946b2c8f6b0ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/Upside/문제O GHIDRA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "문제O GHIDRA"
+            }
+          },
+          {
+            "id": "7a2535437db0118d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/Upside/문제 N 변수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "문제 N 변수"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,37 +337,47 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b14246d12bc301b",
+  "active": "c7f7dab680d7dbd8",
   "lastOpenFiles": [
-    "04.Security/Hacking/Upside/문제 F.md",
+    "04.Security/Hacking/Upside/문제 M.md",
+    "30.JOB/Apply/업사이드 아카데미 면접준비.md",
+    "99.Attachment/Pasted image 20250707231404.png",
+    "99.Attachment/Pasted image 20250707215107.png",
+    "99.Attachment/Pasted image 20250707215050.png",
+    "04.Security/Hacking/Upside/문제 Z.md",
+    "04.Security/Hacking/Upside/문제 Q.md",
+    "04.Security/Hacking/Upside/문제 N 변수.md",
+    "04.Security/Hacking/Upside/문제O GHIDRA.md",
+    "04.Security/Hacking/Upside/문제 O.md",
+    "04.Security/Hacking/Upside/문제 N.md",
+    "04.Security/Hacking/Upside/문제 L.md",
     "04.Security/Hacking/Upside/문제 K.md",
-    "04.Security/Hacking/Upside/문제_E.md",
-    "04.Security/Hacking/Upside/문제 G.md",
+    "04.Security/Hacking/Upside/문제K 상세과정.md",
     "04.Security/Hacking/Upside/문제 J.md",
     "04.Security/Hacking/Upside/문제 I.md",
     "04.Security/Hacking/Upside/문제 H.md",
-    "10.DailyNote/2025-07-04.md",
-    "04.Security/Hacking/Upside/문제 4.md",
+    "04.Security/Hacking/Upside/문제 G.md",
+    "04.Security/Hacking/Upside/문제 F.md",
+    "04.Security/Hacking/Upside/문제 E.md",
+    "04.Security/Hacking/Upside/문제 D.md",
+    "04.Security/Hacking/Upside/문제 C.md",
+    "04.Security/Hacking/Upside/문제 B.md",
+    "00.inbox/Truffle.md",
+    "00.inbox/Solidity.md",
+    "99.Attachment/Pasted image 20250706201700.png",
+    "99.Attachment/Pasted image 20250706080628.png",
+    "99.Attachment/Pasted image 20250706052628.png",
+    "99.Attachment/Pasted image 20250706052610.png",
+    "99.Attachment/Pasted image 20250706050538.png",
+    "99.Attachment/Pasted image 20250706045211.png",
+    "99.Attachment/Pasted image 20250706044607.png",
     "80.Information/Hidden.md",
-    "04.Security/Hacking/Upside/문제2 prob.md",
+    "10.DailyNote/2025-07-05.md",
+    "10.DailyNote/2025-07-04.md",
     "04.Security/Hacking/BISCSafe.md",
     "04.Security/Hacking/Upside",
-    "04.Security/What is Security.md",
     "04.Security/Hacking",
-    "01.BlockChain/블록체인공부/Ethereum/Seplia.md",
-    "00.inbox/Solidity.md",
-    "02.Network/네트워크공부/README.md",
-    "02.Network/네트워크공부/패킷분석.md",
-    "02.Network/네트워크공부/네트워크 보안 기초.md",
-    "01.BlockChain/블록체인공부/심층분석/고아블록.md",
-    "01.BlockChain/블록체인공부/심층분석/검증과정.md",
-    "01.BlockChain/블록체인공부/블록체인보안/What is Blockchain Security.md",
-    "00.inbox/Truffle.md",
-    "01.BlockChain/블록체인공부/Ethereum/HardHat.md",
-    "01.BlockChain/블록체인공부/블록체인보안/DID.md",
-    "30.JOB/Apply/0604_bay.md",
     "04.Security",
-    "01.BlockChain/블록체인공부/블록체인보안/Untitled.md",
     "01.BlockChain/블록체인공부/Ethereum",
     "11.WeeklyPlan",
     "새 텍스트 문서.txt",
@@ -230,10 +385,7 @@
     "03.SoftwareEngineering",
     "03.System",
     "00.inbox/Untitled",
-    "99.Attachment/Pasted image 20250628165920.png",
-    "99.Attachment/Pasted image 20250617155728.png",
     "Untitled.canvas",
-    "02.Network/네트워크공부/Pasted image 20250529213850.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
