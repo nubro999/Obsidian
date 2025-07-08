@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/업사이드 아카데미 면접준비.md",
+                "file": "10.DailyNote/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "업사이드 아카데미 면접준비"
+              "title": "2025-07-08"
             }
           },
           {
@@ -339,19 +339,23 @@
   },
   "active": "c7f7dab680d7dbd8",
   "lastOpenFiles": [
-    "04.Security/Hacking/Upside/문제 M.md",
     "30.JOB/Apply/업사이드 아카데미 면접준비.md",
+    "30.JOB/Apply/면접 질문 준비.md",
+    "30.JOB/Apply/업사이드아카데미.md",
+    "30.JOB/Apply/0604_bay.md",
+    "04.Security/Hacking/Upside/문제 O.md",
+    "04.Security/Hacking/Upside/문제 Q.md",
+    "04.Security/Hacking/Upside/문제 K.md",
+    "04.Security/Hacking/Upside/문제O GHIDRA.md",
+    "10.DailyNote/2025-07-08.md",
+    "04.Security/Hacking/Upside/문제 M.md",
     "99.Attachment/Pasted image 20250707231404.png",
     "99.Attachment/Pasted image 20250707215107.png",
     "99.Attachment/Pasted image 20250707215050.png",
     "04.Security/Hacking/Upside/문제 Z.md",
-    "04.Security/Hacking/Upside/문제 Q.md",
     "04.Security/Hacking/Upside/문제 N 변수.md",
-    "04.Security/Hacking/Upside/문제O GHIDRA.md",
-    "04.Security/Hacking/Upside/문제 O.md",
     "04.Security/Hacking/Upside/문제 N.md",
     "04.Security/Hacking/Upside/문제 L.md",
-    "04.Security/Hacking/Upside/문제 K.md",
     "04.Security/Hacking/Upside/문제K 상세과정.md",
     "04.Security/Hacking/Upside/문제 J.md",
     "04.Security/Hacking/Upside/문제 I.md",
@@ -371,10 +375,6 @@
     "99.Attachment/Pasted image 20250706050538.png",
     "99.Attachment/Pasted image 20250706045211.png",
     "99.Attachment/Pasted image 20250706044607.png",
-    "80.Information/Hidden.md",
-    "10.DailyNote/2025-07-05.md",
-    "10.DailyNote/2025-07-04.md",
-    "04.Security/Hacking/BISCSafe.md",
     "04.Security/Hacking/Upside",
     "04.Security/Hacking",
     "04.Security",
