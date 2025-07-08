@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b14246d12bc301b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.Security/Hacking/Upside/문제 K.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "문제 K"
-            }
-          },
-          {
-            "id": "2dca77b9b96d3951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.Security/Hacking/Upside/문제 L.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "문제 L"
-            }
-          },
-          {
             "id": "c7f7dab680d7dbd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-08.md",
+                "file": "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-08"
+              "title": "면접 질문 준비_GPT&YOUTUBE"
             }
           },
           {
-            "id": "404b932af4726b97",
+            "id": "518d6ccff9132373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Security/Hacking/Upside/문제 Z.md",
+                "file": "30.JOB/Apply/면접 필수 질문 10가지.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "문제 Z"
+              "title": "면접 필수 질문 10가지"
             }
           },
           {
-            "id": "89be07e647f9e728",
+            "id": "5ca4522635b8dcca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Security/Hacking/Upside/문제K 상세과정.md",
+                "file": "30.JOB/Apply/0604_bay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "문제K 상세과정"
+              "title": "0604_bay"
             }
           },
           {
@@ -176,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,17 +289,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7f7dab680d7dbd8",
+  "active": "518d6ccff9132373",
   "lastOpenFiles": [
-    "30.JOB/Apply/업사이드 아카데미 면접준비.md",
-    "30.JOB/Apply/면접 질문 준비.md",
+    "99.Attachment/Recording 20250709045909.m4a",
+    "99.Attachment/Recording 20250709045813.m4a",
+    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
     "30.JOB/Apply/업사이드아카데미.md",
+    "30.JOB/Apply/업사이드 아카데미 면접준비.md",
+    "30.JOB/Apply/면접 필수 질문 10가지.md",
     "30.JOB/Apply/0604_bay.md",
+    "30.JOB/GO_GET_A_JOB/공부할 분야.md",
+    "10.DailyNote/2025-07-08.md",
+    "99.Attachment/Pasted image 20250708174358.png",
     "04.Security/Hacking/Upside/문제 O.md",
     "04.Security/Hacking/Upside/문제 Q.md",
     "04.Security/Hacking/Upside/문제 K.md",
     "04.Security/Hacking/Upside/문제O GHIDRA.md",
-    "10.DailyNote/2025-07-08.md",
     "04.Security/Hacking/Upside/문제 M.md",
     "99.Attachment/Pasted image 20250707231404.png",
     "99.Attachment/Pasted image 20250707215107.png",
@@ -365,16 +322,12 @@
     "04.Security/Hacking/Upside/문제 E.md",
     "04.Security/Hacking/Upside/문제 D.md",
     "04.Security/Hacking/Upside/문제 C.md",
-    "04.Security/Hacking/Upside/문제 B.md",
-    "00.inbox/Truffle.md",
-    "00.inbox/Solidity.md",
     "99.Attachment/Pasted image 20250706201700.png",
     "99.Attachment/Pasted image 20250706080628.png",
     "99.Attachment/Pasted image 20250706052628.png",
     "99.Attachment/Pasted image 20250706052610.png",
     "99.Attachment/Pasted image 20250706050538.png",
     "99.Attachment/Pasted image 20250706045211.png",
-    "99.Attachment/Pasted image 20250706044607.png",
     "04.Security/Hacking/Upside",
     "04.Security/Hacking",
     "04.Security",
@@ -384,7 +337,6 @@
     "80.Information",
     "03.SoftwareEngineering",
     "03.System",
-    "00.inbox/Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
