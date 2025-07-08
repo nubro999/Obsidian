@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "면접 질문 준비_GPT&YOUTUBE"
+            }
+          },
+          {
+            "id": "16e29afbc806a02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "30.JOB/Apply/면접 필수 질문 10가지.md",
                 "mode": "source",
                 "source": false,
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,15 +313,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "518d6ccff9132373",
+  "active": "16e29afbc806a02f",
   "lastOpenFiles": [
+    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
+    "30.JOB/Apply/면접 필수 질문 10가지.md",
+    "30.JOB/Apply/업사이드 아카데미 면접준비 스크랩.md",
+    "30.JOB/Apply/업사이드아카데미.md",
+    "00.inbox/업사이드 기술 면접 준비.md",
+    "30.JOB/Apply/0604_bay.md",
+    "00.inbox/Solidity.md",
+    "00.inbox/Truffle.md",
+    "10.DailyNote/2025-07-09.md",
     "99.Attachment/Recording 20250709045909.m4a",
     "99.Attachment/Recording 20250709045813.m4a",
-    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
-    "30.JOB/Apply/업사이드아카데미.md",
-    "30.JOB/Apply/업사이드 아카데미 면접준비.md",
-    "30.JOB/Apply/면접 필수 질문 10가지.md",
-    "30.JOB/Apply/0604_bay.md",
     "30.JOB/GO_GET_A_JOB/공부할 분야.md",
     "10.DailyNote/2025-07-08.md",
     "99.Attachment/Pasted image 20250708174358.png",
@@ -319,9 +347,6 @@
     "04.Security/Hacking/Upside/문제 H.md",
     "04.Security/Hacking/Upside/문제 G.md",
     "04.Security/Hacking/Upside/문제 F.md",
-    "04.Security/Hacking/Upside/문제 E.md",
-    "04.Security/Hacking/Upside/문제 D.md",
-    "04.Security/Hacking/Upside/문제 C.md",
     "99.Attachment/Pasted image 20250706201700.png",
     "99.Attachment/Pasted image 20250706080628.png",
     "99.Attachment/Pasted image 20250706052628.png",
@@ -336,7 +361,6 @@
     "새 텍스트 문서.txt",
     "80.Information",
     "03.SoftwareEngineering",
-    "03.System",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
