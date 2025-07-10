@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/session과 jwt비교.md",
+                "file": "30.JOB/Apply/면접 필수 질문 10가지.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +112,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "session과 jwt비교"
+              "title": "면접 필수 질문 10가지"
+            }
+          },
+          {
+            "id": "50cb44bfc81a8bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05.Crypto/MT19937.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MT19937"
+            }
+          },
+          {
+            "id": "453c5a27b9ef15f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05.Crypto/SHA-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SHA-3"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -277,38 +325,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee887a73cbfe30a8",
+  "active": "453c5a27b9ef15f7",
   "lastOpenFiles": [
-    "00.inbox/x64 어셈블러 기본.md",
-    "00.inbox/session과 jwt비교.md",
+    "05.Crypto/MT19937.md",
+    "05.Crypto/SHA-3.md",
+    "05.Crypto/Keccak.md",
+    "05.Crypto/JWT 토큰.md",
+    "05.Crypto/ECDSA.md",
+    "03.SoftwareEngineering/디자인패턴.md",
+    "30.JOB/Apply/면접 필수 질문 10가지.md",
+    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
+    "02.Network/네트워크공부/패킷분석.md",
+    "02.Network/네트워크공부/Pasted image 20250529213850.png",
+    "10.DailyNote/2025-07-11.md",
+    "04.Security/Hacking/Upside/문제K 상세과정.md",
+    "04.Security/Hacking/Upside/문제 Z.md",
     "30.JOB/Apply/Upside_WriteUp.pdf",
-    "04.Security/Hacking/Upside/문제 M.md",
-    "04.Security/Hacking/Upside/문제 N.md",
     "04.Security/Hacking/Upside/문제 O.md",
+    "04.Security/Hacking/Upside/문제 N.md",
+    "00.inbox/session과 jwt비교.md",
+    "00.inbox/x64 어셈블러 기본.md",
+    "04.Security/Hacking/Upside/문제 M.md",
     "04.Security/Hacking/Upside/문제 N 변수.md",
     "04.Security/Hacking/Upside/문제 Q.md",
-    "04.Security/Hacking/Upside/문제 Z.md",
     "01.BlockChain/블록체인공부/Ethereum/Gas.md",
     "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
     "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
     "01.BlockChain/블록체인공부/Ethereum/DAO해킹사건.md",
     "01.BlockChain/블록체인공부/Ethereum/Data field.md",
     "04.Security/Hacking/Upside/문제 L.md",
-    "30.JOB/Apply/면접 필수 질문 10가지.md",
-    "05.Crypto/JWT 토큰.md",
     "99.Attachment/Pasted image 20250710174103.png",
     "04.Security/Hacking/Upside/문제 K.md",
-    "04.Security/Hacking/Upside/문제 G.md",
-    "01.BlockChain/Solidity/인터페이스.md",
-    "06.ComputerArchitecture/자료형.md",
     "06.ComputerArchitecture",
     "Untitled",
-    "05.Crypto/Keccak.md",
-    "05.Crypto/MT19937.md",
-    "04.Security/What is Security.md",
-    "04.Security/Hacking/Upside/문제 E.md",
-    "04.Security/Hacking/Upside/문제 F.md",
-    "00.inbox/ABI의 형식.md",
     "Untitled.canvas",
     "01.BlockChain/Solidity",
     "05.Crypto",
@@ -322,7 +371,6 @@
     "99.Attachment/Pasted image 20250708174358.png",
     "99.Attachment/Pasted image 20250707231404.png",
     "99.Attachment/Pasted image 20250707215107.png",
-    "99.Attachment/Pasted image 20250707215050.png",
     "04.Security/Hacking/Upside",
     "04.Security/Hacking",
     "04.Security",
