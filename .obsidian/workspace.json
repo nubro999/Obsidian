@@ -102,9 +102,43 @@
               "icon": "lucide-file",
               "title": "Truffle"
             }
+          },
+          {
+            "id": "41337a4347eb0067",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2ba366e9596b98fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.ComputerArchitecture/x64 어셈블러 기본.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "x64 어셈블러 기본"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -265,10 +299,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50cb44bfc81a8bce",
+  "active": "2ba366e9596b98fb",
   "lastOpenFiles": [
-    "90.Templetes/Weekly Plan Templete.md",
+    "00.inbox/Untitled.md",
+    "06.ComputerArchitecture/DLL(Dynamic-Link Library).md",
+    "01.BlockChain/블록체인공부/Ethereum/Truffle 1.md",
+    "40.Project/Dapp제작해보기.md",
+    "40.Project",
+    "99.Attachment/Pasted image 20250714042530.png",
     "01.BlockChain/블록체인공부/Ethereum/Truffle.md",
+    "90.Templetes/Weekly Plan Templete.md",
     "90.Templetes/Daily Note Templete.md",
     "80.Information/Hidden.md",
     "30.JOB/GO_GET_A_JOB/할 것.md",
@@ -290,10 +330,6 @@
     "02.Network/네트워크공부/패킷분석.md",
     "02.Network/네트워크공부/전송계층_4.md",
     "01.BlockChain/Solidity/Solidity.md",
-    "01.BlockChain/Solidity/ABI의 형식.md",
-    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
-    "30.JOB/Apply/0604_bay.md",
-    "30.JOB/Apply/면접 필수 질문 10가지.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "07.Web",
     "02.Network/네트워크공부/Pasted image 20250529213850.png",
@@ -312,8 +348,6 @@
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Pasted image 20250708174358.png",
     "99.Attachment/Pasted image 20250707231404.png",
-    "99.Attachment/Pasted image 20250707215107.png",
-    "04.Security/Hacking/Upside",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
