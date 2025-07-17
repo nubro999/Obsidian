@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/블록체인공부/Ethereum/Pos.md",
+                "file": "90.Templetes/BAY Templete.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pos"
+              "title": "BAY Templete"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/BAY/bay0715.md",
+                "file": "01.BlockChain/BAY/BAY 0717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bay0715"
+              "title": "BAY 0717"
             }
           },
           {
@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bay",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.BlockChain/BAY/bay0715.md",
+                "file": "00.inbox/bay 자기 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bay0715"
+              "title": "Backlinks for bay 자기 소개"
             }
           },
           {
@@ -269,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.BlockChain/BAY/bay0715.md",
+                "file": "00.inbox/bay 자기 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bay0715"
+              "title": "Outgoing links from bay 자기 소개"
             }
           },
           {
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.BlockChain/BAY/bay0715.md",
+                "file": "00.inbox/bay 자기 소개.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bay0715"
+              "title": "Outline of bay 자기 소개"
             }
           },
           {
@@ -322,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,11 +337,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c784a1655cea7b7e",
+  "active": "f764ab5ac292b3ee",
   "lastOpenFiles": [
+    "99.Attachment/Pasted image 20250717193642.png",
+    "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
+    "01.BlockChain/BAY/bay0715.md",
+    "01.BlockChain/BAY/BAY 0717.md",
+    "90.Templetes/BAY Templete.md",
+    "90.Templetes/Daily Note Templete.md",
+    "01.BlockChain/블록체인공부/Ethereum/Pos.md",
+    "10.DailyNote/2025-07-17.md",
+    "10.DailyNote/2025-07-15.md",
+    "10.DailyNote/2025-07-16.md",
+    "90.Templetes/Weekly Plan Templete.md",
+    "30.JOB/Apply/0604_bay.md",
+    "00.inbox/bay 자기 소개.md",
     "00.inbox/Casper Protocol.md",
     "99.Attachment/Pasted image 20250716231436.png",
-    "01.BlockChain/블록체인공부/Ethereum/Pos.md",
     "00.inbox/Beacon Chain.md",
     "00.inbox/샤드체인.md",
     "99.Attachment/Pasted image 20250716230751.png",
@@ -361,21 +372,10 @@
     "99.Attachment/Pasted image 20250716220511.png",
     "99.Attachment/Pasted image 20250716220240.png",
     "01.BlockChain/블록체인공부/Ethereum/Contract Account (CA).md",
-    "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
-    "00.inbox/bay 자기 소개.md",
-    "01.BlockChain/BAY/bay0715.md",
     "40.Project/Dapp제작해보기.md",
     "01.BlockChain/블록체인공부/Ethereum/DAO해킹사건.md",
     "01.BlockChain/블록체인공부/Ethereum/합의클라이언트.md",
     "01.BlockChain/블록체인공부/Ethereum/영지식증명.md",
-    "01.BlockChain/블록체인공부/Ethereum/HardHat.md",
-    "01.BlockChain/블록체인공부/Ethereum/Gas.md",
-    "01.BlockChain/블록체인공부/Ethereum/DEX.md",
-    "01.BlockChain/Solidity/Solidity.md",
-    "01.BlockChain/Solidity/ABI의 형식.md",
-    "01.BlockChain/Solidity/ABI.md",
-    "01.BlockChain/Solidity/자주쓰이는 함수.md",
-    "01.BlockChain/Solidity/인터페이스.md",
     "01.BlockChain/BAY",
     "40.Project",
     "30.JOB/Apply/Upside_WriteUp.pdf",
