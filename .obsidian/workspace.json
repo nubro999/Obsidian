@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/변수타입.md",
+                "file": "30.JOB/Apply/프로젝트 정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "변수타입"
+              "title": "프로젝트 정리"
+            }
+          },
+          {
+            "id": "e440dc86b8d2e9fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -176,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -337,51 +347,52 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f764ab5ac292b3ee",
+  "active": "e440dc86b8d2e9fc",
   "lastOpenFiles": [
-    "01.BlockChain/BAY/BAY Review.md",
-    "01.BlockChain/BAY/bay 자기 소개.md",
-    "01.BlockChain/BAY/bay0715.md",
+    "30.JOB/GO_GET_A_JOB/영어공부.md",
+    "41.Scrap/Scrap Review.md",
+    "41.Scrap/해킹방법.md",
+    "41.Scrap",
+    "40.Project/Dapp제작해보기.md",
+    "40.Project/Project Review.md",
+    "40.Project/Truffle Project01.md",
+    "40.Project/Project01.md",
+    "30.JOB/Apply/프로젝트 정리.md",
+    "07.Web/session과 jwt비교.md",
+    "06.ComputerArchitecture/Computer Architecture Review.md",
+    "05.Crypto/SHA-3.md",
+    "05.Crypto/Modified Merkle Patricia Trie(MPT).md",
+    "05.Crypto/Keccak.md",
+    "05.Crypto/Casper Protocol.md",
+    "04.Security/What is Security.md",
+    "06.ComputerArchitecture/DLL(Dynamic-Link Library).md",
+    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
+    "01.BlockChain/블록체인공부/Ethereum/Meta Mask.md",
+    "20.YEAR/2025-1/영미문학강독/영미문학강독 시험.md",
+    "20.YEAR/2025-1/영미문학강독/영미문학강독 Review.md",
+    "20.YEAR/2025-1/영미문학강독/영미문학강독.md",
+    "20.YEAR/2025-1/영미문학강독/2주차.md",
+    "03.SoftwareEngineering/Software Engineering Review.md",
+    "20.YEAR/2025-1/소공과제/과제 2.md",
+    "02.Network/Network Review.md",
+    "05.Crypto/Crypto Review.md",
+    "99.Attachment/Pasted image 20250718155438.png",
+    "99.Attachment/Pasted image 20250718154541.png",
     "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
-    "01.BlockChain/BAY/BAY 0717.md",
-    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
-    "90.Templetes/BAY Templete.md",
-    "10.DailyNote/2025-07-17.md",
-    "11.WeeklyPlan/2025-Weekly Review.md",
-    "10.DailyNote/2025-07-18.md",
-    "30.JOB/Apply/0604_bay.md",
     "99.Attachment/Pasted image 20250717193642.png",
-    "90.Templetes/Daily Note Templete.md",
-    "01.BlockChain/블록체인공부/Ethereum/Pos.md",
-    "10.DailyNote/2025-07-15.md",
-    "10.DailyNote/2025-07-16.md",
-    "90.Templetes/Weekly Plan Templete.md",
-    "00.inbox/Casper Protocol.md",
     "99.Attachment/Pasted image 20250716231436.png",
-    "00.inbox/Beacon Chain.md",
-    "00.inbox/샤드체인.md",
     "99.Attachment/Pasted image 20250716230751.png",
     "99.Attachment/Pasted image 20250716230641.png",
     "99.Attachment/Pasted image 20250716230345.png",
-    "00.inbox/합의 메커니즘.md",
-    "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
     "99.Attachment/Pasted image 20250716222746.png",
-    "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
     "99.Attachment/Pasted image 20250716222433.png",
-    "01.BlockChain/블록체인공부/Ethereum/What is Ethereum.md",
-    "00.inbox/Modified Merkle Patricia Trie(MPT).md",
-    "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
     "99.Attachment/Pasted image 20250716220914.png",
-    "99.Attachment/Pasted image 20250716220718.png",
-    "99.Attachment/Pasted image 20250716220511.png",
-    "01.BlockChain/블록체인공부/Ethereum/Contract Account (CA).md",
     "01.BlockChain/BAY",
     "40.Project",
     "30.JOB/Apply/Upside_WriteUp.pdf",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "07.Web",
     "06.ComputerArchitecture",
-    "Untitled",
     "Untitled.canvas",
     "01.BlockChain/Solidity",
     "05.Crypto",
