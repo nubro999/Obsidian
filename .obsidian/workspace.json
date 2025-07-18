@@ -331,7 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,6 +349,7 @@
   },
   "active": "e440dc86b8d2e9fc",
   "lastOpenFiles": [
+    "06.ComputerArchitecture/Computer Architecture Review.md",
     "30.JOB/GO_GET_A_JOB/영어공부.md",
     "41.Scrap/Scrap Review.md",
     "41.Scrap/해킹방법.md",
@@ -359,7 +360,6 @@
     "40.Project/Project01.md",
     "30.JOB/Apply/프로젝트 정리.md",
     "07.Web/session과 jwt비교.md",
-    "06.ComputerArchitecture/Computer Architecture Review.md",
     "05.Crypto/SHA-3.md",
     "05.Crypto/Modified Merkle Patricia Trie(MPT).md",
     "05.Crypto/Keccak.md",
