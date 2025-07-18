@@ -8,132 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41337a4347eb0067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.BlockChain/블록체인공부/Ethereum/SmartContract.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SmartContract"
-            }
-          },
-          {
-            "id": "b463bd9886925254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What is EVM"
-            }
-          },
-          {
-            "id": "dd45b52cc7cd7ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Modified Merkle Patricia Trie(MPT).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Modified Merkle Patricia Trie(MPT)"
-            }
-          },
-          {
-            "id": "907bd784aa127820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.BlockChain/블록체인공부/Ethereum/Transaction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transaction"
-            }
-          },
-          {
-            "id": "4733a85b3a81d857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90.Templetes/BAY Templete.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BAY Templete"
-            }
-          },
-          {
             "id": "f764ab5ac292b3ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/프로젝트 정리.md",
+                "file": "10.DailyNote/2025-07-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "프로젝트 정리"
-            }
-          },
-          {
-            "id": "e440dc86b8d2e9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40.Project/Gemini+Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gemini+Obsidian"
-            }
-          },
-          {
-            "id": "07aa17142317d315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Beacon Chain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Beacon Chain"
+              "title": "2025-07-18"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "s",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -361,10 +193,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e440dc86b8d2e9fc",
+  "active": "f764ab5ac292b3ee",
   "lastOpenFiles": [
-    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
+    "00.inbox/Inheritance.md",
+    "99.Attachment/Pasted image 20250718210355.png",
+    "01.BlockChain/Solidity/Solidity.md",
+    "00.inbox/Constructor.md",
+    "00.inbox/TimeLock.md",
+    "00.inbox/Event.md",
+    "99.Attachment/Pasted image 20250718205227.png",
+    "99.Attachment/Pasted image 20250718205215.png",
+    "99.Attachment/Pasted image 20250718205204.png",
+    "00.inbox/Modifier.md",
+    "99.Attachment/Pasted image 20250718203742.png",
+    "99.Attachment/Pasted image 20250718203734.png",
+    "00.inbox/Error.md",
+    "01.BlockChain/블록체인공부/Ethereum/Gas.md",
+    "99.Attachment/Pasted image 20250718203328.png",
+    "99.Attachment/Pasted image 20250718203254.png",
+    "99.Attachment/Pasted image 20250718203222.png",
+    "40.Project/Dapp제작해보기.md",
+    "01.BlockChain/Solidity/Enum.md",
+    "01.BlockChain/Solidity/Struct.md",
+    "01.BlockChain/Solidity/Array.md",
+    "01.BlockChain/Solidity/Syntax.md",
+    "01.BlockChain/Solidity/가시성_solidity.md",
+    "80.Information/Hidden.md",
+    "10.DailyNote/2025-07-18.md",
+    "01.BlockChain/블록체인공부/Ethereum/Dapp.md",
     "40.Project/Gemini+Obsidian.md",
+    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
     "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
     "01.BlockChain/블록체인공부/Ethereum/What is Ethereum.md",
     "06.ComputerArchitecture/Computer Architecture Review.md",
@@ -372,35 +230,8 @@
     "41.Scrap/Scrap Review.md",
     "41.Scrap/해킹방법.md",
     "41.Scrap",
-    "40.Project/Dapp제작해보기.md",
-    "40.Project/Project Review.md",
-    "40.Project/Truffle Project01.md",
-    "40.Project/Project01.md",
-    "30.JOB/Apply/프로젝트 정리.md",
-    "07.Web/session과 jwt비교.md",
-    "05.Crypto/SHA-3.md",
-    "05.Crypto/Modified Merkle Patricia Trie(MPT).md",
-    "05.Crypto/Keccak.md",
-    "05.Crypto/Casper Protocol.md",
-    "04.Security/What is Security.md",
-    "06.ComputerArchitecture/DLL(Dynamic-Link Library).md",
-    "01.BlockChain/블록체인공부/Ethereum/Meta Mask.md",
-    "20.YEAR/2025-1/영미문학강독/영미문학강독 시험.md",
-    "20.YEAR/2025-1/영미문학강독/영미문학강독 Review.md",
-    "20.YEAR/2025-1/영미문학강독/영미문학강독.md",
-    "20.YEAR/2025-1/영미문학강독/2주차.md",
-    "03.SoftwareEngineering/Software Engineering Review.md",
     "99.Attachment/Pasted image 20250718155438.png",
-    "99.Attachment/Pasted image 20250718154541.png",
     "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
-    "99.Attachment/Pasted image 20250717193642.png",
-    "99.Attachment/Pasted image 20250716231436.png",
-    "99.Attachment/Pasted image 20250716230751.png",
-    "99.Attachment/Pasted image 20250716230641.png",
-    "99.Attachment/Pasted image 20250716230345.png",
-    "99.Attachment/Pasted image 20250716222746.png",
-    "99.Attachment/Pasted image 20250716222433.png",
-    "99.Attachment/Pasted image 20250716220914.png",
     "01.BlockChain/BAY",
     "40.Project",
     "30.JOB/Apply/Upside_WriteUp.pdf",
