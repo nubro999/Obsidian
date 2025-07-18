@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-18.md",
+                "file": "00.inbox/Interface.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-18"
+              "title": "Interface"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "Solidity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,9 +195,17 @@
   },
   "active": "f764ab5ac292b3ee",
   "lastOpenFiles": [
+    "99.Attachment/Pasted image 20250718212525.png",
+    "01.BlockChain/Solidity/Solidity.md",
+    "00.inbox/Interface.md",
+    "01.BlockChain/Solidity/Solidity Visibility.md",
+    "99.Attachment/Pasted image 20250718212005.png",
+    "99.Attachment/Pasted image 20250718211945.png",
+    "99.Attachment/Pasted image 20250718211915.png",
+    "99.Attachment/Pasted image 20250718211903.png",
+    "10.DailyNote/2025-07-18.md",
     "00.inbox/Inheritance.md",
     "99.Attachment/Pasted image 20250718210355.png",
-    "01.BlockChain/Solidity/Solidity.md",
     "00.inbox/Constructor.md",
     "00.inbox/TimeLock.md",
     "00.inbox/Event.md",
@@ -209,17 +217,12 @@
     "99.Attachment/Pasted image 20250718203734.png",
     "00.inbox/Error.md",
     "01.BlockChain/블록체인공부/Ethereum/Gas.md",
-    "99.Attachment/Pasted image 20250718203328.png",
-    "99.Attachment/Pasted image 20250718203254.png",
-    "99.Attachment/Pasted image 20250718203222.png",
     "40.Project/Dapp제작해보기.md",
     "01.BlockChain/Solidity/Enum.md",
     "01.BlockChain/Solidity/Struct.md",
     "01.BlockChain/Solidity/Array.md",
     "01.BlockChain/Solidity/Syntax.md",
-    "01.BlockChain/Solidity/가시성_solidity.md",
     "80.Information/Hidden.md",
-    "10.DailyNote/2025-07-18.md",
     "01.BlockChain/블록체인공부/Ethereum/Dapp.md",
     "40.Project/Gemini+Obsidian.md",
     "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
@@ -228,9 +231,7 @@
     "06.ComputerArchitecture/Computer Architecture Review.md",
     "30.JOB/GO_GET_A_JOB/영어공부.md",
     "41.Scrap/Scrap Review.md",
-    "41.Scrap/해킹방법.md",
     "41.Scrap",
-    "99.Attachment/Pasted image 20250718155438.png",
     "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
     "01.BlockChain/BAY",
     "40.Project",
