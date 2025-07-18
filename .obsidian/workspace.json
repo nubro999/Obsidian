@@ -155,10 +155,24 @@
             "id": "e440dc86b8d2e9fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ethereum Review"
             }
           },
           {
@@ -349,6 +363,9 @@
   },
   "active": "e440dc86b8d2e9fc",
   "lastOpenFiles": [
+    "01.BlockChain/블록체인공부/Ethereum/What is EVM.md",
+    "01.BlockChain/블록체인공부/Ethereum/What is Ethereum.md",
+    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
     "06.ComputerArchitecture/Computer Architecture Review.md",
     "30.JOB/GO_GET_A_JOB/영어공부.md",
     "41.Scrap/Scrap Review.md",
@@ -366,7 +383,6 @@
     "05.Crypto/Casper Protocol.md",
     "04.Security/What is Security.md",
     "06.ComputerArchitecture/DLL(Dynamic-Link Library).md",
-    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
     "01.BlockChain/블록체인공부/Ethereum/Meta Mask.md",
     "20.YEAR/2025-1/영미문학강독/영미문학강독 시험.md",
     "20.YEAR/2025-1/영미문학강독/영미문학강독 Review.md",
@@ -374,8 +390,6 @@
     "20.YEAR/2025-1/영미문학강독/2주차.md",
     "03.SoftwareEngineering/Software Engineering Review.md",
     "20.YEAR/2025-1/소공과제/과제 2.md",
-    "02.Network/Network Review.md",
-    "05.Crypto/Crypto Review.md",
     "99.Attachment/Pasted image 20250718155438.png",
     "99.Attachment/Pasted image 20250718154541.png",
     "01.BlockChain/BAY/Bay-OnboardingOT 250715.pdf",
