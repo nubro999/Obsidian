@@ -15,8 +15,9 @@ What is Solidity?
 [[Constructor]]
 [[Inheritance]]
 [[Interface]]
-
-
+[[Datatype]]
+[[Variables]]
+[[Data location]]
 
 
 

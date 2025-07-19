@@ -3,5 +3,6 @@
   "attachmentFolderPath": "99.Attachment",
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00.inbox"
+  "newFileFolderPath": "00.inbox",
+  "spellcheck": false
 }
