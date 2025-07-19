@@ -1,0 +1,6 @@
+/* custom-background.css */
+body {
+  --background-primary: #1a1a2e !important; 
+  --background-secondary: #22223b !important;
+  --background-modifier-cover: #1a1a2e !important;
+}
