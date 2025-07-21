@@ -110,4 +110,52 @@ export class ContractController {
 ![[Pasted image 20250721191134.png]]
 성공! 컨트랙의 함수를 호출하여 값을 받아옴
 
+# React-pj
+이제 ui를 제작해보자
+
+npx create-react-app react-pj
+npm start
+
+## App.js 수정
+```js
+import React, { useEffect, useState } from 'react';
+
+function App() {
+
+  const [greeting, setGreeting] = useState('');
+
+  useEffect(() => {
+
+    fetch('http://localhost:3000/contract/greeting')
+
+      .then(res => res.json())
+
+      .then(data => setGreeting(data.greeting));
+
+  }, []);
+
+  return (
+
+    <div style={{ padding: 32 }}>
+
+      <h1>Greeting from Smart Contract</h1>
+
+      <p>{greeting}</p>
+
+    </div>
+
+  );
+
+}
+
+export default App;
+```
+
+이제 nest.js의 CORS설정을 main.ts에서 허락해주면
+-> app.enableCors();
+
+![[Pasted image 20250721192632.png]]
+
+3001번에 뜸
+성공!
 
