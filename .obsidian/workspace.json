@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/블록체인공부/Ethereum/USDT.md",
+                "file": "10.DailyNote/2025-07-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "USDT"
+              "title": "2025-07-21"
             }
           },
           {
@@ -340,6 +340,8 @@
   },
   "active": "53b71af1956ec817",
   "lastOpenFiles": [
+    "01.BlockChain/블록체인공부/Ethereum/USDT.md",
+    "10.DailyNote/2025-07-21.md",
     "01.BlockChain/Solidity/Variables.md",
     "01.BlockChain/Solidity/TimeLock.md",
     "01.BlockChain/Solidity/Modifier.md",
@@ -354,7 +356,6 @@
     "01.BlockChain/블록체인공부/Ethereum/CDBC.md",
     "01.BlockChain/블록체인공부/Ethereum/Alchemy.md",
     "10.DailyNote/2025-07-19.md",
-    "01.BlockChain/블록체인공부/Ethereum/USDT.md",
     "01.BlockChain/블록체인공부/Ethereum/Pos.md",
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
@@ -371,7 +372,6 @@
     "04.Security/Hacking/Upside/문제 K.md",
     "04.Security/Hacking/Upside/문제 H.md",
     "05.Crypto/JWT 토큰.md",
-    "05.Crypto/ECDSA.md",
     "99.Attachment/Pasted image 20250718212525.png",
     "99.Attachment/Pasted image 20250718212005.png",
     "99.Attachment/Pasted image 20250718211945.png",
