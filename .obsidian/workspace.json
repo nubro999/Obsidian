@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-29.md",
+                "file": "50.Work/BAY/bay0715.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-29"
+              "title": "bay0715"
             }
           },
           {
-            "id": "32772030f3bf4c02",
+            "id": "4f170cffa4b676dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/아이디어.md",
+                "file": "00.inbox/이더리움은 어떻게 동작하는가_질문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "아이디어"
+              "title": "이더리움은 어떻게 동작하는가_질문"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bay",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,12 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -219,10 +218,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32772030f3bf4c02",
+  "active": "4f170cffa4b676dc",
   "lastOpenFiles": [
-    "10.DailyNote/2025-07-29.md",
+    "50.Work/BAY/bay0715.md",
+    "00.inbox/이더리움은 어떻게 동작하는가_질문.md",
+    "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
+    "50.Work/BAY/BAY Review.md",
     "50.Work/BAY/BAY0724.md",
+    "10.DailyNote/2025-07-29.md",
+    "10.DailyNote/2025-07-17.md",
     "00.inbox/아이디어.md",
     "01.BlockChain/블록체인공부/블록체인보안/PASS원리.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
@@ -249,10 +253,6 @@
     "01.BlockChain/Solidity/Event.md",
     "01.BlockChain/Solidity/Error.md",
     "01.BlockChain/블록체인공부/Ethereum/ERC-20.md",
-    "01.BlockChain/블록체인공부/Ethereum/Datatype.md",
-    "01.BlockChain/블록체인공부/Ethereum/Data location.md",
-    "01.BlockChain/블록체인공부/Ethereum/Constructor.md",
-    "01.BlockChain/블록체인공부/Ethereum/CDBC.md",
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
     "99.Attachment/Pasted image 20250719220836.png",
@@ -261,7 +261,6 @@
     "99.Attachment/Pasted image 20250719213051.png",
     "99.Attachment/Pasted image 20250718212525.png",
     "41.Scrap",
-    "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "50.Work/BAY",
     "40.Project",
     "30.JOB/Apply/Upside_WriteUp.pdf",
