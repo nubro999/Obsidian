@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Work/BAY/BAY0724.md",
+                "file": "10.DailyNote/2025-07-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BAY0724"
+              "title": "2025-07-29"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "아이디어"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +219,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c4cbe5dc710c83d",
+  "active": "32772030f3bf4c02",
   "lastOpenFiles": [
-    "00.inbox/아이디어.md",
+    "10.DailyNote/2025-07-29.md",
     "50.Work/BAY/BAY0724.md",
+    "00.inbox/아이디어.md",
     "01.BlockChain/블록체인공부/블록체인보안/PASS원리.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "10.DailyNote/2025-07-24.md",
@@ -251,7 +253,6 @@
     "01.BlockChain/블록체인공부/Ethereum/Data location.md",
     "01.BlockChain/블록체인공부/Ethereum/Constructor.md",
     "01.BlockChain/블록체인공부/Ethereum/CDBC.md",
-    "01.BlockChain/블록체인공부/Ethereum/Alchemy.md",
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
     "99.Attachment/Pasted image 20250719220836.png",
