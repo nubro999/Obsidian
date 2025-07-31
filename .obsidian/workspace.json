@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80.Information/Hidden.md",
+                "file": "10.DailyNote/2025-07-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hidden"
+              "title": "2025-07-30"
             }
           },
           {
-            "id": "4f170cffa4b676dc",
+            "id": "e159a4113fd97f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-29.md",
+                "file": "10.DailyNote/2025-07-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-29"
+              "title": "2025-07-31"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,42 +218,43 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c4cbe5dc710c83d",
+  "active": "e159a4113fd97f9b",
   "lastOpenFiles": [
-    "README.md",
+    "10.DailyNote/2025-07-30.md",
+    "10.DailyNote/2025-07-31.md",
+    "00.inbox/엄마가 준 건강관리법 정리노트.md",
+    "01.BlockChain/블록체인공부/Ethereum/Uniswap.md",
+    "Untitled.canvas",
+    "00.inbox/아이디어.md",
+    "00.inbox/샤드체인.md",
+    "50.Work/BAY/이더리움은 어떻게 동작하는가_질문.md",
+    "40.Project/Hard Hat HelloWorld.md",
+    "40.Project/Project01.md",
+    "40.Project/Truffle Project01.md",
+    "40.Project/Project Review.md",
+    "40.Project/Dapp제작해보기.md",
+    "40.Project/자동매매 시스템.md",
+    "40.Project/Gemini+Obsidian.md",
+    "10.DailyNote/2025-07-29.md",
     "80.Information/Hidden.md",
+    "README.md",
     "99.Attachment/Pasted image 20250729195555.png",
-    "00.inbox/이더리움은 어떻게 동작하는가_질문.md",
     "50.Work/BAY/BAY0724.md",
     "50.Work/BAY/bay0715.md",
-    "10.DailyNote/2025-07-29.md",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "50.Work/BAY/BAY Review.md",
     "10.DailyNote/2025-07-17.md",
-    "00.inbox/아이디어.md",
     "01.BlockChain/블록체인공부/블록체인보안/PASS원리.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "10.DailyNote/2025-07-24.md",
     "50.Work",
-    "00.inbox/자동매매 시스템.md",
     "12.Investing/OHLCV.md",
     "12.Investing",
     "10.DailyNote/2025-07-23.md",
-    "01.BlockChain/블록체인공부/Ethereum/Uniswap.md",
     "10.DailyNote/2025-07-22.md",
-    "10.DailyNote/2025-07-21.md",
-    "00.inbox/Hard Hat HelloWorld.md",
     "99.Attachment/Pasted image 20250721192632.png",
     "99.Attachment/Pasted image 20250721191134.png",
     "99.Attachment/Pasted image 20250721184510.png",
-    "01.BlockChain/블록체인공부/Ethereum/USDT.md",
-    "01.BlockChain/Solidity/Variables.md",
-    "01.BlockChain/Solidity/TimeLock.md",
-    "01.BlockChain/Solidity/Modifier.md",
-    "01.BlockChain/Solidity/Interface.md",
-    "01.BlockChain/Solidity/Inheritance.md",
-    "01.BlockChain/Solidity/Event.md",
-    "01.BlockChain/Solidity/Error.md",
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
     "99.Attachment/Pasted image 20250719220836.png",
@@ -265,7 +267,6 @@
     "30.JOB/Apply/Upside_WriteUp.pdf",
     "07.Web",
     "06.ComputerArchitecture",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

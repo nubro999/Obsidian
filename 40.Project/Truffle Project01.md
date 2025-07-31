@@ -54,3 +54,5 @@ module.exports = function(deployer) {
   → Truffle이 자동으로 실행하는, **배포(마이그레이션) 작업을 정의하는 함수**입니다.
 - `deployer`는 **배포를 도와주는 도구**입니다.
 - 이 패턴 덕분에 Truffle은 다양한 배포 시나리오를 유연하게 처리할 수 있습니다.
+
+[[Project Review]]
