@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c4cbe5dc710c83d",
+            "id": "66025324a0d85670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-30.md",
+                "file": "40.Project/자동매매 시스템.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-30"
+              "title": "자동매매 시스템"
             }
           },
           {
-            "id": "e159a4113fd97f9b",
+            "id": "5da73edfa0ecc967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-07-31.md",
+                "file": "00.inbox/netcat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "netcat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hidden",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,29 +211,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e159a4113fd97f9b",
+  "active": "66025324a0d85670",
   "lastOpenFiles": [
+    "00.inbox/netcat.md",
+    "40.Project/자동매매 시스템.md",
+    "10.DailyNote/2025-08-01.md",
+    "00.inbox/BAY 0731.md",
     "10.DailyNote/2025-07-30.md",
+    "00.inbox/아이디어.md",
+    "40.Project/Hard Hat HelloWorld.md",
+    "40.Project/Gemini+Obsidian.md",
+    "40.Project/Dapp제작해보기.md",
+    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
     "10.DailyNote/2025-07-31.md",
     "00.inbox/엄마가 준 건강관리법 정리노트.md",
     "01.BlockChain/블록체인공부/Ethereum/Uniswap.md",
     "Untitled.canvas",
-    "00.inbox/아이디어.md",
     "00.inbox/샤드체인.md",
     "50.Work/BAY/이더리움은 어떻게 동작하는가_질문.md",
-    "40.Project/Hard Hat HelloWorld.md",
     "40.Project/Project01.md",
     "40.Project/Truffle Project01.md",
     "40.Project/Project Review.md",
-    "40.Project/Dapp제작해보기.md",
-    "40.Project/자동매매 시스템.md",
-    "40.Project/Gemini+Obsidian.md",
     "10.DailyNote/2025-07-29.md",
     "80.Information/Hidden.md",
     "README.md",
@@ -246,12 +249,8 @@
     "10.DailyNote/2025-07-17.md",
     "01.BlockChain/블록체인공부/블록체인보안/PASS원리.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
-    "10.DailyNote/2025-07-24.md",
     "50.Work",
-    "12.Investing/OHLCV.md",
     "12.Investing",
-    "10.DailyNote/2025-07-23.md",
-    "10.DailyNote/2025-07-22.md",
     "99.Attachment/Pasted image 20250721192632.png",
     "99.Attachment/Pasted image 20250721191134.png",
     "99.Attachment/Pasted image 20250721184510.png",
