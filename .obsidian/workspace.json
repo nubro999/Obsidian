@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40.Project/자동매매 시스템.md",
+                "file": "10.DailyNote/2025-08-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "자동매매 시스템"
+              "title": "2025-08-02"
             }
           },
           {
@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "netcat"
             }
+          },
+          {
+            "id": "9d15ffe11d5ff328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40.Project/자동매매 시스템.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "자동매매 시스템"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66025324a0d85670",
+  "active": "9d15ffe11d5ff328",
   "lastOpenFiles": [
-    "00.inbox/netcat.md",
+    "00.inbox/0802 BNB.md",
     "40.Project/자동매매 시스템.md",
+    "10.DailyNote/2025-08-02.md",
+    "00.inbox/netcat.md",
     "10.DailyNote/2025-08-01.md",
     "00.inbox/BAY 0731.md",
     "10.DailyNote/2025-07-30.md",
@@ -246,8 +273,6 @@
     "50.Work/BAY/bay0715.md",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "50.Work/BAY/BAY Review.md",
-    "10.DailyNote/2025-07-17.md",
-    "01.BlockChain/블록체인공부/블록체인보안/PASS원리.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "50.Work",
     "12.Investing",
