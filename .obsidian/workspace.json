@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66025324a0d85670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-08-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-02"
-            }
-          },
-          {
             "id": "5da73edfa0ecc967",
             "type": "leaf",
             "state": {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40.Project/자동매매 시스템.md",
+                "file": "10.DailyNote/2025-08-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "자동매매 시스템"
+              "title": "2025-08-03"
+            }
+          },
+          {
+            "id": "6f495c07776baeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/0803 Solana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0803 Solana"
             }
           }
         ],
@@ -242,16 +242,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d15ffe11d5ff328",
+  "active": "6f495c07776baeda",
   "lastOpenFiles": [
-    "00.inbox/0802 BNB.md",
+    "10.DailyNote/2025-08-03.md",
+    "00.inbox/0803 Solana.md",
     "40.Project/자동매매 시스템.md",
-    "10.DailyNote/2025-08-02.md",
+    "00.inbox/0802 BNB.md",
+    "00.inbox/아이디어.md",
     "00.inbox/netcat.md",
+    "10.DailyNote/2025-08-02.md",
     "10.DailyNote/2025-08-01.md",
     "00.inbox/BAY 0731.md",
     "10.DailyNote/2025-07-30.md",
-    "00.inbox/아이디어.md",
     "40.Project/Hard Hat HelloWorld.md",
     "40.Project/Gemini+Obsidian.md",
     "40.Project/Dapp제작해보기.md",
@@ -270,9 +272,7 @@
     "README.md",
     "99.Attachment/Pasted image 20250729195555.png",
     "50.Work/BAY/BAY0724.md",
-    "50.Work/BAY/bay0715.md",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
-    "50.Work/BAY/BAY Review.md",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "50.Work",
     "12.Investing",
