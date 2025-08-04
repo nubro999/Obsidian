@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/0803 Solana.md",
+                "file": "10.DailyNote/2025-08-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0803 Solana"
+              "title": "2025-08-03"
+            }
+          },
+          {
+            "id": "fd90a5843de2ff70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-08-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-04"
+            }
+          },
+          {
+            "id": "aa549b60bcea089c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.Security/Hacking/picoCTF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "picoCTF"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,24 +290,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f495c07776baeda",
+  "active": "aa549b60bcea089c",
   "lastOpenFiles": [
+    "04.Security/netcat.md",
+    "40.Project/아이디어.md",
+    "50.Work/BAY/0804 Sui session.md",
+    "50.Work/BAY/0803 Solana.md",
+    "50.Work/BAY/0802 BNB.md",
+    "50.Work/BAY 0731.md",
+    "41.Scrap/엄마가 준 건강관리법 정리노트.md",
+    "10.DailyNote/2025-08-04.md",
+    "04.Security/Hacking/picoCTF.md",
     "10.DailyNote/2025-08-03.md",
-    "00.inbox/0803 Solana.md",
     "40.Project/자동매매 시스템.md",
-    "00.inbox/0802 BNB.md",
-    "00.inbox/아이디어.md",
-    "00.inbox/netcat.md",
     "10.DailyNote/2025-08-02.md",
     "10.DailyNote/2025-08-01.md",
-    "00.inbox/BAY 0731.md",
     "10.DailyNote/2025-07-30.md",
     "40.Project/Hard Hat HelloWorld.md",
     "40.Project/Gemini+Obsidian.md",
     "40.Project/Dapp제작해보기.md",
     "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
     "10.DailyNote/2025-07-31.md",
-    "00.inbox/엄마가 준 건강관리법 정리노트.md",
     "01.BlockChain/블록체인공부/Ethereum/Uniswap.md",
     "Untitled.canvas",
     "00.inbox/샤드체인.md",
@@ -268,10 +319,7 @@
     "40.Project/Truffle Project01.md",
     "40.Project/Project Review.md",
     "10.DailyNote/2025-07-29.md",
-    "80.Information/Hidden.md",
-    "README.md",
     "99.Attachment/Pasted image 20250729195555.png",
-    "50.Work/BAY/BAY0724.md",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "50.Work",
