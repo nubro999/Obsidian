@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Work/BAY/0804 Sui session.md",
+                "file": "10.DailyNote/2025-08-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0804 Sui session"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "a061cfb28103b597",
   "lastOpenFiles": [
-    "80.Information/Hidden.md",
     "50.Work/BAY/0804 Sui session.md",
+    "10.DailyNote/2025-08-05.md",
+    "80.Information/Hidden.md",
     "99.Attachment/Pasted image 20250804162305.png",
     "04.Security/Hacking/picoCTF.md",
     "04.Security/netcat.md",
@@ -222,7 +223,6 @@
     "50.Work/BAY/이더리움은 어떻게 동작하는가_질문.md",
     "40.Project/Project01.md",
     "40.Project/Truffle Project01.md",
-    "40.Project/Project Review.md",
     "99.Attachment/Pasted image 20250729195555.png",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
