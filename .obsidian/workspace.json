@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "767caa672b162456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/SUI Hackerton 준비.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SUI Hackerton 준비"
-            }
-          },
-          {
             "id": "d09987157898f7a8",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "아이디어"
+            }
+          },
+          {
+            "id": "52da93e41beaebc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Walrus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Walrus"
             }
           },
           {
@@ -150,9 +150,80 @@
               "icon": "lucide-file",
               "title": "Sui voting system"
             }
+          },
+          {
+            "id": "137b2bde1bbf0b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/DAG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DAG"
+            }
+          },
+          {
+            "id": "c883cc673e15c7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Sui reference.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sui reference"
+            }
+          },
+          {
+            "id": "61d2a744c2bf1e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "아이디어",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,7 +276,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -314,10 +386,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "957976c3637a86a7",
+  "active": "d09987157898f7a8",
   "lastOpenFiles": [
-    "00.inbox/Sui Finality.md",
+    "00.inbox/Walrus.md",
+    "40.Project/아이디어.md",
+    "40.Project/SUI Hackerton 준비.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/Sui reference.md",
+    "00.inbox/DAG.md",
     "00.inbox/Sui voting system.md",
+    "00.inbox/Sui Finality.md",
     "00.inbox/Sui Review.md",
     "00.inbox/Mysticeti.md",
     "00.inbox/Epoch.md",
@@ -326,14 +404,12 @@
     "40.Project/Hard Hat HelloWorld.md",
     "10.DailyNote/2025-08-06.md",
     "40.Project/Truffle Project01.md",
-    "40.Project/SUI Hackerton 준비.md",
     "01.BlockChain/Mint.md",
     "01.BlockChain/Bridge.md",
     "01.BlockChain/Solana",
     "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
     "01.BlockChain/SuiNetwork",
     "01.BlockChain/Ethereum/에어드롭.md",
-    "40.Project/아이디어.md",
     "10.DailyNote/2025-08-05.md",
     "50.Work/BAY/0804 Sui session.md",
     "80.Information/Hidden.md",
@@ -341,10 +417,6 @@
     "04.Security/Hacking/picoCTF.md",
     "04.Security/netcat.md",
     "50.Work/BAY/0803 Solana.md",
-    "50.Work/BAY/0802 BNB.md",
-    "50.Work/BAY 0731.md",
-    "41.Scrap/엄마가 준 건강관리법 정리노트.md",
-    "10.DailyNote/2025-08-04.md",
     "Untitled.canvas",
     "99.Attachment/Pasted image 20250729195555.png",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
