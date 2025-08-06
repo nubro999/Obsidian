@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-08-05.md",
+                "file": "40.Project/아이디어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-05"
+              "title": "아이디어"
+            }
+          },
+          {
+            "id": "767caa672b162456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/SUI Hackerton 준비.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SUI Hackerton 준비"
+            }
+          },
+          {
+            "id": "5ff821aebca105d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sui Network_Technical_Architecture_Complete_Protocol_Analysis"
+            }
+          },
+          {
+            "id": "d09987157898f7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40.Project/아이디어.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "아이디어"
+            }
+          },
+          {
+            "id": "b628d765b3e01904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-08-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-06"
+            }
+          },
+          {
+            "id": "4def60b859db7c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40.Project/Hard Hat HelloWorld.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hard Hat HelloWorld"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,15 +314,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a061cfb28103b597",
+  "active": "4def60b859db7c5d",
   "lastOpenFiles": [
-    "50.Work/BAY/0804 Sui session.md",
+    "40.Project/Truffle Project01.md",
+    "40.Project/SUI Hackerton 준비.md",
+    "01.BlockChain/Mint.md",
+    "01.BlockChain/Bridge.md",
+    "01.BlockChain/Solana",
+    "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
+    "01.BlockChain/SuiNetwork",
+    "01.BlockChain/Ethereum/에어드롭.md",
+    "10.DailyNote/2025-08-06.md",
+    "40.Project/아이디어.md",
     "10.DailyNote/2025-08-05.md",
+    "50.Work/BAY/0804 Sui session.md",
     "80.Information/Hidden.md",
     "99.Attachment/Pasted image 20250804162305.png",
     "04.Security/Hacking/picoCTF.md",
     "04.Security/netcat.md",
-    "40.Project/아이디어.md",
     "50.Work/BAY/0803 Solana.md",
     "50.Work/BAY/0802 BNB.md",
     "50.Work/BAY 0731.md",
@@ -215,14 +345,7 @@
     "40.Project/Hard Hat HelloWorld.md",
     "40.Project/Gemini+Obsidian.md",
     "40.Project/Dapp제작해보기.md",
-    "01.BlockChain/블록체인공부/Ethereum/Ethereum Review.md",
-    "10.DailyNote/2025-07-31.md",
-    "01.BlockChain/블록체인공부/Ethereum/Uniswap.md",
     "Untitled.canvas",
-    "00.inbox/샤드체인.md",
-    "50.Work/BAY/이더리움은 어떻게 동작하는가_질문.md",
-    "40.Project/Project01.md",
-    "40.Project/Truffle Project01.md",
     "99.Attachment/Pasted image 20250729195555.png",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
@@ -240,8 +363,6 @@
     "50.Work/BAY",
     "40.Project",
     "30.JOB/Apply/Upside_WriteUp.pdf",
-    "07.Web",
-    "06.ComputerArchitecture",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
