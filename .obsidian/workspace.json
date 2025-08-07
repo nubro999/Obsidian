@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/재진입공격.md",
+                "file": "00.inbox/Sui Review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "재진입공격"
+              "title": "Sui Review"
             }
           },
           {
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "아이디어",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +253,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,22 +364,24 @@
   },
   "active": "94dfdd3383ede0d1",
   "lastOpenFiles": [
-    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "00.inbox/재진입공격.md",
     "00.inbox/Slippage.md",
+    "00.inbox/Sui Review.md",
+    "00.inbox/Sui voting system.md",
+    "00.inbox/DAG.md",
+    "10.DailyNote/2025-08-07.md",
+    "03.SoftwareEngineering/디자인패턴.md",
+    "03.SoftwareEngineering/의존성 주입.md",
+    "00.inbox/재진입공격.md",
+    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
     "00.inbox/MEV.md",
     "10.DailyNote/2025-08-06.md",
-    "00.inbox/Sui voting system.md",
     "40.Project/아이디어.md",
     "00.inbox/Untitled.md",
     "00.inbox/Sui reference.md",
-    "00.inbox/DAG.md",
     "00.inbox/Sui Finality.md",
     "00.inbox/Blockchain Explorer.md",
     "00.inbox/Walrus.md",
-    "10.DailyNote/2025-08-07.md",
     "40.Project/SUI Hackerton 준비.md",
-    "00.inbox/Sui Review.md",
     "00.inbox/Mysticeti.md",
     "00.inbox/Epoch.md",
     "00.inbox/How to maintain Gas Fee.md",
@@ -391,8 +392,6 @@
     "01.BlockChain/Solana",
     "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
     "01.BlockChain/SuiNetwork",
-    "01.BlockChain/Ethereum/에어드롭.md",
-    "10.DailyNote/2025-08-05.md",
     "99.Attachment/Pasted image 20250804162305.png",
     "Untitled.canvas",
     "99.Attachment/Pasted image 20250729195555.png",
