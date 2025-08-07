@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40.Project/아이디어.md",
+                "file": "10.DailyNote/2025-08-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "아이디어"
+              "title": "2025-08-07"
             }
           },
           {
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "ca264951e7a7e568",
+            "id": "f292f81a566e5320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Blockchain Explorer.md",
+                "file": "00.inbox/MEV.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blockchain Explorer"
+              "title": "MEV"
             }
           },
           {
-            "id": "d52dbabdfd2a30a0",
+            "id": "9a392e8a998c84e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Sui Finality.md",
+                "file": "00.inbox/Slippage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sui Finality"
+              "title": "Slippage"
             }
           },
           {
-            "id": "957976c3637a86a7",
+            "id": "d5c2413dd2880df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Sui voting system.md",
+                "file": "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sui voting system"
+              "title": "EVM and Solidity Security_Attack Vectors and Defense Strategies"
             }
           },
           {
-            "id": "137b2bde1bbf0b70",
+            "id": "94dfdd3383ede0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/DAG.md",
+                "file": "00.inbox/재진입공격.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,31 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DAG"
-            }
-          },
-          {
-            "id": "c883cc673e15c7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Sui reference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sui reference"
+              "title": "재진입공격"
             }
           },
           {
@@ -205,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Untitled.md",
+                "file": "40.Project/아이디어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,10 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "아이디어"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -386,23 +363,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d09987157898f7a8",
+  "active": "94dfdd3383ede0d1",
   "lastOpenFiles": [
-    "00.inbox/Walrus.md",
+    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
+    "00.inbox/재진입공격.md",
+    "00.inbox/Slippage.md",
+    "00.inbox/MEV.md",
+    "10.DailyNote/2025-08-06.md",
+    "00.inbox/Sui voting system.md",
     "40.Project/아이디어.md",
-    "40.Project/SUI Hackerton 준비.md",
     "00.inbox/Untitled.md",
     "00.inbox/Sui reference.md",
     "00.inbox/DAG.md",
-    "00.inbox/Sui voting system.md",
     "00.inbox/Sui Finality.md",
+    "00.inbox/Blockchain Explorer.md",
+    "00.inbox/Walrus.md",
+    "10.DailyNote/2025-08-07.md",
+    "40.Project/SUI Hackerton 준비.md",
     "00.inbox/Sui Review.md",
     "00.inbox/Mysticeti.md",
     "00.inbox/Epoch.md",
-    "00.inbox/Blockchain Explorer.md",
     "00.inbox/How to maintain Gas Fee.md",
     "40.Project/Hard Hat HelloWorld.md",
-    "10.DailyNote/2025-08-06.md",
     "40.Project/Truffle Project01.md",
     "01.BlockChain/Mint.md",
     "01.BlockChain/Bridge.md",
@@ -411,12 +393,7 @@
     "01.BlockChain/SuiNetwork",
     "01.BlockChain/Ethereum/에어드롭.md",
     "10.DailyNote/2025-08-05.md",
-    "50.Work/BAY/0804 Sui session.md",
-    "80.Information/Hidden.md",
     "99.Attachment/Pasted image 20250804162305.png",
-    "04.Security/Hacking/picoCTF.md",
-    "04.Security/netcat.md",
-    "50.Work/BAY/0803 Solana.md",
     "Untitled.canvas",
     "99.Attachment/Pasted image 20250729195555.png",
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
