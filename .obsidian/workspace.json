@@ -155,9 +155,19 @@
             "id": "94dfdd3383ede0d1",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ea367e3fb64dc632",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Sui Review.md",
+                "file": "00.inbox/0807 BAY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +182,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sui Review"
+              "title": "0807 BAY"
+            }
+          },
+          {
+            "id": "b0a04ffd91cff9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-08-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-11"
             }
           },
           {
@@ -200,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -362,10 +396,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94dfdd3383ede0d1",
+  "active": "b0a04ffd91cff9a3",
   "lastOpenFiles": [
-    "00.inbox/Slippage.md",
+    "00.inbox/flag-hunters.md",
+    "10.DailyNote/2025-08-11.md",
+    "00.inbox/picoCTF 2025.md",
+    "00.inbox/head-dump.md",
+    "00.inbox/n0s4n1ty 1.md",
+    "10.DailyNote/2025-08-08.md",
+    "00.inbox/PIETIME.md",
+    "99.Attachment/Pasted image 20250808165206.png",
+    "99.Attachment/Pasted image 20250808164752.png",
+    "00.inbox/SSTL1.md",
+    "00.inbox/ERC1155.md",
+    "00.inbox/0807 BAY.md",
+    "90.Templetes/BAY Templete.md",
     "00.inbox/Sui Review.md",
+    "00.inbox/Slippage.md",
     "00.inbox/Sui voting system.md",
     "00.inbox/DAG.md",
     "10.DailyNote/2025-08-07.md",
@@ -379,18 +426,7 @@
     "00.inbox/Untitled.md",
     "00.inbox/Sui reference.md",
     "00.inbox/Sui Finality.md",
-    "00.inbox/Blockchain Explorer.md",
-    "00.inbox/Walrus.md",
-    "40.Project/SUI Hackerton 준비.md",
-    "00.inbox/Mysticeti.md",
-    "00.inbox/Epoch.md",
-    "00.inbox/How to maintain Gas Fee.md",
-    "40.Project/Hard Hat HelloWorld.md",
-    "40.Project/Truffle Project01.md",
-    "01.BlockChain/Mint.md",
-    "01.BlockChain/Bridge.md",
     "01.BlockChain/Solana",
-    "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
     "01.BlockChain/SuiNetwork",
     "99.Attachment/Pasted image 20250804162305.png",
     "Untitled.canvas",
@@ -405,8 +441,6 @@
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
     "99.Attachment/Pasted image 20250719220836.png",
-    "99.Attachment/Pasted image 20250719220646.png",
-    "99.Attachment/Pasted image 20250719220415.png",
     "41.Scrap",
     "50.Work/BAY",
     "40.Project",
