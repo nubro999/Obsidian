@@ -1,6 +1,6 @@
 [[How to maintain Gas Fee]]
 [[Sui Network_Technical_Architecture_Complete_Protocol_Analysis]]
-[[SUI Hackerton 준비]]
+[[SUI Hackathon 준비]]
 [[0804 Sui session]]
 [[Distribution Rule]]
 [[DAG]]

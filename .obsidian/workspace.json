@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-08-11.md",
+                "file": "04.Security/Hacking/SSTL1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-11"
+              "title": "SSTL1"
+            }
+          },
+          {
+            "id": "9ed51f9083ede6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-08-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-12"
+            }
+          },
+          {
+            "id": "81e733f2720e867a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Sui Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sui Review"
             }
           },
           {
@@ -234,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -266,7 +314,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "아이디어",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -287,7 +335,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -396,10 +445,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0a04ffd91cff9a3",
+  "active": "81e733f2720e867a",
   "lastOpenFiles": [
-    "00.inbox/flag-hunters.md",
+    "00.inbox/How to maintain Gas Fee.md",
+    "00.inbox/Sui Review.md",
+    "40.Project/아이디어.md",
+    "00.inbox/MEV.md",
+    "11.WeeklyPlan/2025-Weekly Review.md",
+    "80.Information/Hidden.md",
+    "40.Project/SUI Hackathon 준비.md",
+    "00.inbox/Untitled 1.md",
+    "10.DailyNote/2025-08-12.md",
+    "00.inbox/flag hunters.md",
+    "04.Security/Hacking/SSTL1.md",
     "10.DailyNote/2025-08-11.md",
+    "00.inbox/flag-hunters.md",
     "00.inbox/picoCTF 2025.md",
     "00.inbox/head-dump.md",
     "00.inbox/n0s4n1ty 1.md",
@@ -407,25 +467,14 @@
     "00.inbox/PIETIME.md",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
-    "00.inbox/SSTL1.md",
     "00.inbox/ERC1155.md",
     "00.inbox/0807 BAY.md",
     "90.Templetes/BAY Templete.md",
-    "00.inbox/Sui Review.md",
     "00.inbox/Slippage.md",
     "00.inbox/Sui voting system.md",
     "00.inbox/DAG.md",
     "10.DailyNote/2025-08-07.md",
     "03.SoftwareEngineering/디자인패턴.md",
-    "03.SoftwareEngineering/의존성 주입.md",
-    "00.inbox/재진입공격.md",
-    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "00.inbox/MEV.md",
-    "10.DailyNote/2025-08-06.md",
-    "40.Project/아이디어.md",
-    "00.inbox/Untitled.md",
-    "00.inbox/Sui reference.md",
-    "00.inbox/Sui Finality.md",
     "01.BlockChain/Solana",
     "01.BlockChain/SuiNetwork",
     "99.Attachment/Pasted image 20250804162305.png",
