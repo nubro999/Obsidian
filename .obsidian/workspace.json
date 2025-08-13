@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d09987157898f7a8",
+            "id": "dfc51f7e6fb3a79a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-08-07.md",
+                "file": "00.inbox/MiningSUI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,261 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-07"
-            }
-          },
-          {
-            "id": "52da93e41beaebc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Walrus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Walrus"
-            }
-          },
-          {
-            "id": "b628d765b3e01904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-08-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-06"
-            }
-          },
-          {
-            "id": "f292f81a566e5320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/MEV.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MEV"
-            }
-          },
-          {
-            "id": "9a392e8a998c84e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Slippage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Slippage"
-            }
-          },
-          {
-            "id": "d5c2413dd2880df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EVM and Solidity Security_Attack Vectors and Defense Strategies"
-            }
-          },
-          {
-            "id": "94dfdd3383ede0d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ea367e3fb64dc632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/0807 BAY.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0807 BAY"
-            }
-          },
-          {
-            "id": "b0a04ffd91cff9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.Security/Hacking/SSTL1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SSTL1"
-            }
-          },
-          {
-            "id": "9ed51f9083ede6a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-08-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-12"
-            }
-          },
-          {
-            "id": "81e733f2720e867a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Sui Review.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sui Review"
-            }
-          },
-          {
-            "id": "61d2a744c2bf1e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40.Project/아이디어.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "아이디어"
+              "title": "MiningSUI"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "아이디어",
+                "query": "Sui",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -445,36 +194,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81e733f2720e867a",
+  "active": "dfc51f7e6fb3a79a",
   "lastOpenFiles": [
-    "00.inbox/How to maintain Gas Fee.md",
-    "00.inbox/Sui Review.md",
+    "40.Project/SUI Hackathon 준비.md",
+    "00.inbox/MiningSUI.md",
+    "10.DailyNote/2025-08-13.md",
     "40.Project/아이디어.md",
+    "10.DailyNote/2025-08-12.md",
+    "04.Security/Hacking/SSTL1.md",
+    "00.inbox/0807 BAY.md",
+    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
+    "00.inbox/Slippage.md",
     "00.inbox/MEV.md",
+    "10.DailyNote/2025-08-06.md",
+    "00.inbox/Walrus.md",
+    "10.DailyNote/2025-08-07.md",
+    "00.inbox/BAY 0812.md",
+    "00.inbox/Sui Review.md",
+    "00.inbox/How to maintain Gas Fee.md",
     "11.WeeklyPlan/2025-Weekly Review.md",
     "80.Information/Hidden.md",
-    "40.Project/SUI Hackathon 준비.md",
     "00.inbox/Untitled 1.md",
-    "10.DailyNote/2025-08-12.md",
     "00.inbox/flag hunters.md",
-    "04.Security/Hacking/SSTL1.md",
     "10.DailyNote/2025-08-11.md",
     "00.inbox/flag-hunters.md",
     "00.inbox/picoCTF 2025.md",
     "00.inbox/head-dump.md",
     "00.inbox/n0s4n1ty 1.md",
     "10.DailyNote/2025-08-08.md",
-    "00.inbox/PIETIME.md",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
-    "00.inbox/ERC1155.md",
-    "00.inbox/0807 BAY.md",
-    "90.Templetes/BAY Templete.md",
-    "00.inbox/Slippage.md",
-    "00.inbox/Sui voting system.md",
-    "00.inbox/DAG.md",
-    "10.DailyNote/2025-08-07.md",
-    "03.SoftwareEngineering/디자인패턴.md",
     "01.BlockChain/Solana",
     "01.BlockChain/SuiNetwork",
     "99.Attachment/Pasted image 20250804162305.png",
