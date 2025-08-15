@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/MiningSUI.md",
+                "file": "10.DailyNote/2025-08-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MiningSUI"
+              "title": "2025-08-15"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "dfc51f7e6fb3a79a",
   "lastOpenFiles": [
     "40.Project/SUI Hackathon 준비.md",
+    "10.DailyNote/2025-08-15.md",
     "00.inbox/MiningSUI.md",
     "10.DailyNote/2025-08-13.md",
     "40.Project/아이디어.md",
@@ -221,7 +222,6 @@
     "00.inbox/picoCTF 2025.md",
     "00.inbox/head-dump.md",
     "00.inbox/n0s4n1ty 1.md",
-    "10.DailyNote/2025-08-08.md",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
     "01.BlockChain/Solana",
