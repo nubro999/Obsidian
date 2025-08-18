@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f498a2231490ea5a",
+        "id": "bdac051af4195a65",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc51f7e6fb3a79a",
+            "id": "88759c167cc47d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-08-16.md",
+                "file": "40.Project/아이디어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
-            }
-          },
-          {
-            "id": "a8b6f00ea9074ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/SUI grammer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SUI grammer"
+              "title": "아이디어"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sui",
+                "query": "아이디어",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -219,13 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8b6f00ea9074ee3",
+  "active": "88759c167cc47d8f",
   "lastOpenFiles": [
+    "10.DailyNote/2025-08-18.md",
+    "80.Information/Hidden.md",
+    "00.inbox/MiningSUI.md",
+    "40.Project/SUI Hackathon 준비.md",
+    "00.inbox/Sui reference.md",
+    "10.DailyNote/2025-08-17.md",
     "10.DailyNote/2025-08-16.md",
     "00.inbox/SUI grammer.md",
     "10.DailyNote/2025-08-15.md",
-    "40.Project/SUI Hackathon 준비.md",
-    "00.inbox/MiningSUI.md",
     "10.DailyNote/2025-08-13.md",
     "40.Project/아이디어.md",
     "10.DailyNote/2025-08-12.md",
@@ -241,12 +220,8 @@
     "00.inbox/Sui Review.md",
     "00.inbox/How to maintain Gas Fee.md",
     "11.WeeklyPlan/2025-Weekly Review.md",
-    "80.Information/Hidden.md",
     "00.inbox/Untitled 1.md",
     "00.inbox/flag hunters.md",
-    "10.DailyNote/2025-08-11.md",
-    "00.inbox/flag-hunters.md",
-    "00.inbox/picoCTF 2025.md",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
     "01.BlockChain/Solana",
