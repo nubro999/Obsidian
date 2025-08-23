@@ -2,6 +2,8 @@
 김민겸 지원서 : https://claude.ai/public/artifacts/5c692f79-ed59-4a37-8a27-cbe2a8cac74a
 
 [[보강된 지원서(gpt)]]
+
+
  **Briefly describe any experience related to your field of interest.**
 
 컴퓨터공학과를 수료하며 컴퓨터 과학에 대한 기본적인 지식을 습득했고, mvc아키텍처 기반의 사이드 프로젝트들을 진행하면서 web2에서 실용적인 소프트웨어 지식을 배웠습니다.
