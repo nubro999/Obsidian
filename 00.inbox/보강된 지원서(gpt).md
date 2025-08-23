@@ -11,38 +11,18 @@ Mina 체인에서 zk-SNARKs 기반 NFT 경매 웹 애플리케이션 ‘SilentAu
 이후 연세대학교 블록체인 학회(Block Chain at Yonsei)에 참여해 Sui, Ethereum, Solana 등 서로 다른 체인의 객체 모델, 계정 모델, 트랜잭션 처리 차이를 비교 학습하며 소규모 실습 프로젝트를 진행하고 있습니다. 주요 실습으로는
 
 - Solidity를 이용한 Uniswap 스타일 DEX 풀 생성 및 유동성 예치·스왑 트랜잭션 실행,
-- Move 언어(Object 모델)를 활용한 실시간 멀티플레이 게임 프로토타입을 Sui 네트워크에 구현하여 BlockBlock Hackathon에 출품
+- Move 언어(Object 모델)를 활용한 실시간 멀티플레이 게임을 Sui 네트워크에 구현하여 Blockthon(Block Block Hackathon)에 출품하였고 2등을 수상했습니다.
 
 Web3 보안에도 관심이 커 PicoCTF, DreamHack 플랫폼의 문제를 풀며
 
-- 재진입(Reentrancy), 정수 오버플로/언더플로, 접근 제어 미스컨피그, 서명 위조(ECDSA), rawtranstaction 분석
-    같은 패턴을 실습했고, 문제 풀이 후 취약점 재현과 패치 방법을 자체 리포트 템플릿에 문서화했습니다. 주 1~2회 이상 지속 학습 사이클을 유지하고 있습니다.
+- 재진입(Reentrancy), 정수 오버플로/언더플로, 웹해킹, Pawnable, Reversing, 서명 위조(ECDSA), rawtranstaction 같은 패턴을 실습했고, 문제 풀이 후 취약점 재현과 패치 방법을 자체 리포트 템플릿에 문서화했습니다. 주 1~2회 이상 지속 학습 사이클을 유지하고 있습니다.
 
-이러한 경험을 통해 리서치 → 실습 → 기록 → 리팩토링과 같은 반복 루프가 제 학습 효율을 가장 높인다는 것을 확인했고, 이를 Web3 제품 및 보안 영역 양쪽에 적용 중입니다.
-
-### (영문 정리 버전)
-
-While completing my Computer Science curriculum, I built a solid foundation in operating systems, networks, data structures, and databases, and reinforced it through MVC-based side projects that taught me practical Web2 service architecture, deployment, and maintenance.  
-Reading the Bitcoin whitepaper was a turning point—understanding that decentralized trust can be mathematically guaranteed led me to self-directed research on consensus models, scalability techniques, Merkle trees, UTXO vs. account models, zk-SNARKs, and L2 rollups. I maintain structured notes and an internal wiki to reinforce long-term retention.
-
-In the zk-SNARKs–driven NFT auction project “SilentAuction” on the Mina chain, I owned the frontend implementation and designed the interaction flow between off-chain proof generation and on-chain verification, optimizing asynchronous UX to reduce perceived latency.
-
-Through the Blockchain at Yonsei club, I compared ecosystems across Sui, Ethereum, and Solana—studying differences in object vs. account models, transaction semantics, and developer tooling—while building small experimental projects. Hands-on work includes:
-
-- Recreating core Uniswap flows (pool creation, liquidity provision, swap) in Solidity.
-- Implementing a real-time multiplayer game prototype on Sui using the object model and submitting it to [Hackathon name / year], stress-tested locally to ~[X] concurrent simulated players.
-
-My growing interest in Web3 security led me to regularly solve challenges on PicoCTF and DreamHack (≈[N] problems so far), focusing on reentrancy, integer arithmetic vulnerabilities, access control flaws, and signature forgery. For each challenge, I produce a short internal post-mortem with exploitation steps and secure patterns.
-
-These iterative cycles—research → implementation → documentation → refactoring—have become my core learning engine across both decentralized application development and security analysis.
 
 ---
 
 ## 2. 문항 2
 
 ### Share your motivation in applying for Protocol Camp.
-
-### (보강된 한국어 버전)
 
 프로토콜캠프는 단기간(intensive) 안에 실제 ‘프로덕션 수준’ 결과물을 설계·구현·배포까지 경험할 수 있는 구조라는 점에서 제가 원하는 환경과 정확히 맞닿아 있습니다. 올해 졸업 후 정식 취업 전까지 제 역량을 구조적으로 재정비하는 기간에서 프로토콜캠프를 최적으로 활용하고자 합니다.
 
@@ -91,12 +71,7 @@ These iterative cycles—research → implementation → documentation → refac
 
 
 장기적으로는 두 영역이 상호 보완된다고 봅니다. 강건한 보안 판단 능력은 프로덕트 실험 속도를 높이고, 실제 사용자 문제를 해결하는 제품 감각은 보안 리뷰 시 “현실적 위협” 우선순위를 제대로 잡게 합니다.  
-최종적으로는:
-
-- 오픈소스 레퍼런스 구현(라이브러리/템플릿) 기여
-- 학습 자료(한국어↔영어) 이중화 번역/정리
-- Hackathon / Audit 레포트 공개로 커뮤니티 지식 레벨 상승에 기여  
-    하는 ‘지식-제품-보안’ 삼각 구조에서 교차 점을 가지는 엔지니어가 되는 것이 제 비전입니다.
+최종적으로는  ‘지식-제품-보안’ 삼각 구조에서 교차 점을 가지는 엔지니어가 되는 것이 제 비전입니다.
 
 
 ---
@@ -116,22 +91,74 @@ These iterative cycles—research → implementation → documentation → refac
 |진로 탐색 플랜|포함|의사결정 타임라인(예: 캠프 종료 전 2주)에 표기|
 |장기 비전|포함|오픈소스 구체 Repo 목표 추가 가능|
 
+While completing my Computer Science major, I systematically learned core concepts such as operating systems, networks, data structures, and databases. By directly designing side projects based on the MVC architecture, I accumulated experience in structuring, deploying, and maintaining services in a Web2 environment. Through practical exercises such as an AI-powered trading bot and a note-taking app
+
+When I first read the Bitcoin whitepaper closely, I was struck by the fact that “trustless consensus” can be achieved mathematically. Since then, I have self‑researched concepts in the blockchain ecosystem related to consensus, scalability, and cryptography (Merkle trees, the UTXO model, filnalization, zk-SNARKs), and have been steadily documenting what I learn in a personal wiki.
+
+Serving as the frontend lead for the zk-SNARKs–based NFT auction web application “SilentAuction” on the Mina chain, I:
+
+- Mapped how on-chain and off-chain proof flows connect to UI interactions
+- Designed and applied asynchronous processing/loading strategies to minimize user experience friction (latency and proof verification waiting)
+
+Through this, I directly felt what differentiates blockchain UX.
+
+Afterward, I joined the Yonsei University blockchain club (Block Chain at Yonsei), where we are running practice projects while comparing differences in object models, account models, and transaction processing across chains such as Sui, Ethereum, and Solana. Key exercises include:
+
+- Creating a Uniswap-style DEX pool with Solidity and executing liquidity deposit and swap transactions
+- Implementing a real-time multiplayer game on the Sui network using the Move language (object model), submitting it to Blockthon (Block Block Hackathon), and winning second place
+
+I am also highly interested in Web3 security. By solving challenges on PicoCTF and the DreamHack platform, I have:
+
+- Practiced patterns such as reentrancy, integer overflow/underflow, web hacking, pawnable scenarios, reversing, signature forgery (ECDSA), and raw transaction manipulation, and after each solve I reproduced the vulnerability and documented patch methods in a custom report template. I am maintaining a learning cycle of at least 1–2 sessions per week.
+
 ---
 
-## 6. 다음 액션 제안
+## 2. Question 2
 
-1. 위 초안에서 대괄호 [ ] 부분 수치/링크 채우기
-2. 한/영 최종 교차 검수 (용어 일관성: reentrancy ↔ 재진입, frontrunning ↔ 프런트러닝)
-3. 분량 제한 있다면 우선순위: 경험 → 동기 → 목표 (임팩트 키워드 유지)
-4. 제출 전 Grammarly / 한국어 맞춤법 검사 한 번 (영어·한국어 모두 품질 상승)
+### Share your motivation in applying for Protocol Camp.
+
+Protocol Camp matches exactly the environment I seek: an intensive structure that enables designing, implementing, and deploying genuinely production-grade deliverables in a short period. After graduating this year and before full-time employment, I want to leverage Protocol Camp to systematically realign and sharpen my capabilities.
+
+In particular, the fact that all collaboration occurs in English ties directly to my global career goals. Repeatedly handling technical decision discussions, code review feedback, and architectural debates in English will become a core asset for future international hackathons or multinational team settings.
+
+It also aligns with my learning philosophy “Progress in blockchain requires cross-pollination of perspectives and experimentation.” I want to work with participants of diverse backgrounds to discuss:
+
+- Reasons behind different chain/tool selections
+- Security, and governance design trade-offs
+- User onboarding / UX patterns
+
+and translate my abstract understanding into concrete architectural patterns.
+
+During the camp, my personal targets are:
+
+1. End-to-end deployment of at least one usable dApp / protocol
+2. Documentation of at least one internal or self-initiated smart contract security review (audit-lite)
+3. English postings for technical blog/notes
+4. Architecture refactoring driven by mentor feedback
+
+Through these explicit objectives, I aim to quantify my strengths and weaknesses and gather experimental data for subsequent career decisions.
 
 ---
 
-필요하시면:
+## 3. Question 3
 
-- “SilentAuction” 세부 기술 스택 정리 템플릿
-- Sui 실시간 게임 성능 측정 문단 샘플
-- CTF 리포트 템플릿  
-    도 추가 제작해 드릴 수 있습니다.
+### Share your future goals and visions regarding your career in blockchain.
 
-더 요청 주시면 바로 도와드릴게요!
+I want to remain in and keep contributing to the Web3 space. My current career candidates branch into two tracks: (1) security-focused (smart contract auditing / offensive testing) and (2) product/protocol development-focused (expanding the ecosystem through social, gaming, and consumer applications). in the exploration phase, and I plan to reach a structured decision through verifiable experiments and mentor feedback.
+
+If I choose the product/protocol development track:
+
+- Design services that expand real utility beyond a “finance-heavy” focus (e.g., interoperable in-game assets, signed/reputation-based social graphs, creator compensation structures)
+- Establish hybrid architectural patterns that efficiently balance on-chain/off-chain boundaries (data availability, indexing, messaging)
+- Research multichain interoperability (including bridge risk models) and user experience simplification (wallet abstraction, gas sponsorship) so broader user groups can benefit from blockchain without consciously noticing it
+
+If I choose the security track:
+
+- Systematically classify the attack surface of EVM-, Move-, and Rust-based contracts
+- Standardize checklists for vulnerability patterns such as reentrancy, front-running, price manipulation, signature forgery, and storage layout collisions
+- Build proficiency with formal verification tools (e.g., SMT solvers / symbolic execution)
+- Establish a fuzzing plus differential testing pipeline to preemptively identify potential zero-days as a mid-term objective
+
+Long term, I view the two domains as mutually reinforcing. Strong security judgment accelerates product experimentation, while product intuition grounded in real user problems helps prioritize “practical threats” during security reviews.  
+Ultimately, my vision is to become an engineer positioned at the intersection of the knowledge–product–security triangle.
+
