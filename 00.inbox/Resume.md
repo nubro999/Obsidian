@@ -2,19 +2,18 @@
 이름: HYEONG SEOB SHIN | Email: zcb167@gmail.com | GitHub: github.com/nubro999 | Phone: 010-8910-3563
 
 프로필
-웹 & 블록체인 애플리케이션 개발과 스마트 컨트랙트 보안 재현/문서화 경험을 가진Computer Science 전공자.
+웹 & 블록체인 애플리케이션 개발경험과 Sui 및 EVM 환경의 스마트 컨트랙트 문서화 경험을 가진 Computer Science 전공자.
 
 기술 스택
-Languages: Java, TypeScript, Python, Solidity, Move
-Backend: Spring Boot, REST API, JPA, WebSocket
-Frontend: React, Next.js, Tailwind CSS
+Languages: TypeScript, Python, C++, Java, Solidity, Move
+Backend: REST API, JPA, Java Spring, WebSocket, nest.js, Kotlin
+Frontend: React, Next.js, Tailwind CSS, Kotlin
 DevOps: Docker, Nginx, AWS EC2
-Security: Pawnabel, Web, Reversing
+Security: Pawnabel, Web, Reversing, Web3
 Tools: Git
 
 교육
 
-디자인 및 예술 공부 (2017 ~ 2020 )
 홍익대학교 컴퓨터공학 / 영어영문학 복수전공 (2019.03–2025.08)
 
 수상/활동
@@ -24,7 +23,7 @@ Tools: Git
 국군 포스터 공모전 수상
 국내 대회 및 전시회 포스터 다수 제작
 
-해킹학회 IHHH (2023)
+정보보안학회 (IHHH) 2023
 Yonsei Blockchain Club (Comparative Chain Study) 2024–
 Blockthon 2위 수상 (Tile Rush) 2025
 

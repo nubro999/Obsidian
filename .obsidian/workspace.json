@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "Resume"
             }
+          },
+          {
+            "id": "192f59b6fe53205a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/보강된 지원서(gpt).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "보강된 지원서(gpt)"
+            }
           }
         ],
         "currentTab": 1
@@ -243,16 +267,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0783b702048750e",
+  "active": "e4ef966ff5728954",
   "lastOpenFiles": [
-    "30.JOB/Apply/프로젝트 정리.md",
-    "00.inbox/Project List.md",
-    "00.inbox/Protocol Camp 지원서 내용.md",
     "00.inbox/Resume.md",
+    "00.inbox/보강된 지원서(gpt).md",
+    "00.inbox/Project List.md",
+    "30.JOB/Apply/프로젝트 정리.md",
+    "00.inbox/Protocol Camp 지원서 내용.md",
     "80.Information/Hidden.md",
     "10.DailyNote/2025-08-24.md",
     "40.Project/Project Review.md",
-    "00.inbox/보강된 지원서(gpt).md",
     "10.DailyNote/2025-08-23.md",
     "10.DailyNote/2025-08-21.md",
     "00.inbox/BAY 0821.md",
