@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Protocol Camp 지원서 내용.md",
+                "file": "00.inbox/Project List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protocol Camp 지원서 내용"
+              "title": "Project List"
             }
           },
           {
-            "id": "2bb2d22189acec91",
+            "id": "907cdcc2c2e641dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "Resume"
             }
-          },
-          {
-            "id": "1f66332932d27e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Project List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project List"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hidd",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,11 +243,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f66332932d27e91",
+  "active": "a0783b702048750e",
   "lastOpenFiles": [
-    "00.inbox/Resume.md",
+    "30.JOB/Apply/프로젝트 정리.md",
     "00.inbox/Project List.md",
     "00.inbox/Protocol Camp 지원서 내용.md",
+    "00.inbox/Resume.md",
+    "80.Information/Hidden.md",
+    "10.DailyNote/2025-08-24.md",
+    "40.Project/Project Review.md",
     "00.inbox/보강된 지원서(gpt).md",
     "10.DailyNote/2025-08-23.md",
     "10.DailyNote/2025-08-21.md",
@@ -284,7 +263,6 @@
     "10.DailyNote/2025-08-20.md",
     "00.inbox/Protocol Camp 지원.md",
     "40.Project/SUI Hackathon 준비.md",
-    "80.Information/Hidden.md",
     "00.inbox/Sui_Structure.md",
     "10.DailyNote/2025-08-18.md",
     "40.Project/아이디어.md",
@@ -293,9 +271,6 @@
     "10.DailyNote/2025-08-17.md",
     "10.DailyNote/2025-08-16.md",
     "00.inbox/SUI grammer.md",
-    "10.DailyNote/2025-08-15.md",
-    "10.DailyNote/2025-08-13.md",
-    "10.DailyNote/2025-08-12.md",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
     "01.BlockChain/Solana",

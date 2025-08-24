@@ -14,7 +14,7 @@ Tools: Git
 
 교육
 
-디자인 및 예술 공부 (2018 ~ 2023 )
+디자인 및 예술 공부 (2017 ~ 2020 )
 홍익대학교 컴퓨터공학 / 영어영문학 복수전공 (2019.03–2025.08)
 
 수상/활동
@@ -24,8 +24,9 @@ Tools: Git
 국군 포스터 공모전 수상
 국내 대회 및 전시회 포스터 다수 제작
 
-Blockthon 2위 (Tile Rush) 2024
+해킹학회 IHHH (2023)
 Yonsei Blockchain Club (Comparative Chain Study) 2024–
+Blockthon 2위 수상 (Tile Rush) 2025
 
 언어
 한국어(모국어),

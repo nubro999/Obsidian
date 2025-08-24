@@ -2,6 +2,8 @@
 김민겸 지원서 : https://claude.ai/public/artifacts/5c692f79-ed59-4a37-8a27-cbe2a8cac74a
 
 [[보강된 지원서(gpt)]]
+[[Resume]]
+[[Project List]]
 
 
  **Briefly describe any experience related to your field of interest.**
