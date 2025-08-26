@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88759c167cc47d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-08-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-23"
-            }
-          },
-          {
-            "id": "e4ef966ff5728954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Project List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project List"
-            }
-          },
-          {
             "id": "907cdcc2c2e641dd",
             "type": "leaf",
             "state": {
@@ -83,24 +35,10 @@
             "id": "192f59b6fe53205a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/보강된 지원서(gpt).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "보강된 지원서(gpt)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -267,34 +205,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4ef966ff5728954",
+  "active": "192f59b6fe53205a",
   "lastOpenFiles": [
-    "00.inbox/Resume.md",
-    "00.inbox/보강된 지원서(gpt).md",
-    "00.inbox/Project List.md",
-    "30.JOB/Apply/프로젝트 정리.md",
-    "00.inbox/Protocol Camp 지원서 내용.md",
-    "80.Information/Hidden.md",
-    "10.DailyNote/2025-08-24.md",
-    "40.Project/Project Review.md",
-    "10.DailyNote/2025-08-23.md",
-    "10.DailyNote/2025-08-21.md",
-    "00.inbox/BAY 0821.md",
-    "30.JOB/Apply/업사이드아카데미 자기소개서.md",
-    "00.inbox/Rust.md",
-    "00.inbox/발표자료.md",
-    "00.inbox/설명자료.md",
-    "10.DailyNote/2025-08-20.md",
-    "00.inbox/Protocol Camp 지원.md",
-    "40.Project/SUI Hackathon 준비.md",
-    "00.inbox/Sui_Structure.md",
-    "10.DailyNote/2025-08-18.md",
-    "40.Project/아이디어.md",
+    "01.BlockChain/Epoch.md",
+    "01.BlockChain/Blockchain Explorer.md",
+    "00.inbox/DAG.md",
+    "50.Work/BAY/BAY 0812.md",
+    "50.Work/BAY/BAY 0821.md",
+    "50.Work/BAY/0807 BAY.md",
+    "50.Work/Hackerthon/설명자료.md",
+    "50.Work/Hackerthon/발표자료.md",
+    "00.inbox/PIETIME.md",
+    "00.inbox/MEV.md",
+    "01.BlockChain/SuiNetwork/How to maintain Gas Fee.md",
+    "00.inbox/Mysticeti.md",
     "00.inbox/MiningSUI.md",
-    "00.inbox/Sui reference.md",
-    "10.DailyNote/2025-08-17.md",
-    "10.DailyNote/2025-08-16.md",
-    "00.inbox/SUI grammer.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "01.BlockChain/SuiNetwork/Walrus.md",
+    "01.BlockChain/SuiNetwork/Sui_Structure.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/Untitled 1.md",
+    "01.BlockChain/SuiNetwork/Sui voting system.md",
+    "01.BlockChain/SuiNetwork/Sui Review.md",
+    "01.BlockChain/SuiNetwork/Sui reference.md",
+    "01.BlockChain/SuiNetwork/SUI grammer.md",
+    "01.BlockChain/SuiNetwork/Sui Finality.md",
+    "00.inbox/Slippage.md",
+    "50.Work/Hackerthon/Project List.md",
+    "50.Work/Hackerthon",
+    "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
     "99.Attachment/Pasted image 20250808164752.png",
     "01.BlockChain/Solana",
@@ -314,8 +254,6 @@
     "99.Attachment/Pasted image 20250719220836.png",
     "41.Scrap",
     "50.Work/BAY",
-    "40.Project",
-    "30.JOB/Apply/Upside_WriteUp.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

@@ -106,6 +106,7 @@ SE_2_2
 https://github.com/nubro999/SE_2_2
 Requirement list > UseCase Diagram & description > communication diagram의 과정을 거쳐 소프트웨어 공학적으로 설계부터 구현까지의 과정을 거친 프로젝트입니다.
 requirement capturing을 하여 도출된 결과물을 기반으로 requirement analysis 단계를 수행하고detailed design과 implementation을 수행했습니다.
+
 기능적 구현
 1. 회원가입
 2. 로그인/로그아웃
@@ -118,3 +119,111 @@ https://github.com/mmingyeomm/silent-auction
 Silent auction is a private auction platform where auction participant and amount is concealed until the round results is published. Anyone can put up their digital item on the auction and the settlement happens for every round of the auction
 저는 이프로젝트에서 프론트엔드(UI, UX)와 서버를 맡았고 nginx의 roadbalancing을 담당했습니다.
 
+Tile Rush
+
+Tech Stack: Sui Move / Mysten dapp-kit & Sui / React / Vercel  
+https://github.com/nubro999/BB_sui_hackathon  
+A Sui blockchain–based on-chain strategy game where players experience real-time competition and immediate rewards. Two players race on a 10x10 board to collect tiles containing SUI tokens, competing in speed and strategy. All assets and game state are managed with Sui’s Object model, and every player action is recorded on-chain. Fast turn progression (3-second timeout), instant token distribution, and real-time state reflection maximize Sui’s technical advantages. The Enoki Wallet with zk-login is used to enhance usability. I led the project overall in roles spanning PM, Move contracts, and frontend.
+
+Functional Implementation
+1. Real-time 1v1 competition with immediate token rewards  
+2. Strategic path selection and rapid turn flow  
+3. Intuitive gameplay via a minimal interface  
+4. On-chain asset management and transparent game history  
+
+Technical Implementation
+1. Object-Centric Design–based on-chain data structures  
+2. Parallel transaction processing and fast finality (average 400 ms)  
+3. Event-driven real-time state updates  
+4. Use of the Move language and Sui Dynamic Fields  
+
+Recordii  
+Tech Stack: Kotlin / Ktor / Koin / Coroutines / Android API / Clean Architecture  
+https://github.com/nubro999/kotlin_record  
+An Android application that helps users engage actively with the medium of recording. Core features include STT (speech-to-text) and AI question assistance, allowing users to create markdown-formatted files via voice. Users can expand content by receiving supplementary AI-generated questions and responding. Additional AI features include formatting and grammar correction. AI and STT communicate through APIs, using Google Speech, Gemini, and GPT.  
+
+Functional Implementation
+1. Convenient voice recording – STT (speech to text)  
+2. Reduces difficulty in generating creative ideas (AI proactive questioning)  
+3. Reduces tedious actions (UI simplification)  
+4. Data security (personalized record content)  
+
+Technical Implementation
+1. Clean architecture  
+2. Thread optimization  
+3. MVVM structure  
+4. Latency minimization  
+
+Auto Trading  
+https://github.com/nubro999/AutoTrading  
+Tech Stack: Python / Upbit, Serp, Fear & Greed APIs / GPT API / FastAPI / React / AWS EC2 / Nginx / Docker & Compose  
+
+An automated cryptocurrency trading system leveraging AI and data analysis.  
+It aggregates and analyzes diverse inputs such as market data, news, and investor sentiment to make autonomous trading decisions, with real-time monitoring through a web dashboard. It currently uses the Upbit exchange API, with plans to integrate a DEX later.
+
+Functional Implementation
+
+1. AI Automated Trading  
+- Analysis of 15 major coins; automatic selection of symbols and trade timing  
+- Fusion of market data, news, and sentiment indices (Fear & Greed)  
+- Dynamic portfolio and risk management (allocation, stop-loss / take-profit)  
+
+2. Single-Coin Focus Mode  
+- In-depth analysis of a specific coin  
+- AI or manual target setting with technical analysis support  
+
+3. Real-Time Data Collection & Analysis  
+- Upbit real-time quotes, historical OHLCV, volume  
+- Market condition analysis and sentiment scoring based on Google News  
+- Integrated market sentiment index (0–100)  
+
+4. Web Dashboard  
+- Real-time asset status, trade history, performance visualization  
+- Trade / analysis logs and statistics  
+
+API-Based AI Integration  
+- Integration with OpenAI GPT-4, SerpAPI, PyUpbit, and others  
+- Real-time updates via REST API and WebSocket  
+
+RecorD  
+Tech Stack: TypeScript / Next.js / Nest.js / GPT real-time WebRTC  
+https://github.com/nubro999/nest_record  
+A TypeScript-based web application developed prior to the Recordii project. It adopted a traditional Model-View-Controller web application structure. Using WebRTC, it enabled real-time conversations with an AI that records content, summarizes it, and proactively identifies missing elements to ask the user clarifying questions. Due to physical usability constraints in achieving the goal of convenient recording, it was transitioned into the Kotlin-based Android project above.
+
+Functional Implementation
+1. Voice recording: Speak thoughts, ideas, and impressions directly into the app.  
+2. AI processing: Advanced speech recognition converts voice to text.  
+3. Summarization: AI extracts key points and provides concise summaries.  
+4. Storage & review: Entries are stored securely and can be revisited anytime.  
+
+myhome  
+Tech Stack: TypeScript / Docker / React / Nginx / AWS EC2, S3  
+https://github.com/nubro999/myhome  
+A personal blog deployed on EC2. Built with TypeScript and React; Nginx used as the server.
+
+Functional Implementation
+1. Bulletin board  
+2. Gallery  
+3. Portfolio  
+4. Recent posts  
+
+CS wiki  
+Tech Stack: Obsidian / Git  
+https://github.com/nubro999/Obsidian  
+A wiki-style collection of files organized in Obsidian containing studied and researched technical material. Continually updated with resources on blockchain, security, networking, and more.
+
+Rent Bicycle
+Tech Stack: C++  
+https://github.com/nubro999/SE_2_2  
+A project that went through a software engineering lifecycle: Requirement list > Use Case diagram & description > Communication diagram, followed by design and implementation. After capturing requirements, requirement analysis was performed, then detailed design and implementation.
+
+Functional Implementation
+1. User registration  
+2. Login / logout  
+3. Bicycle registration  
+4. Bicycle rental  
+5. Bicycle rental information lookup  
+
+Silent-Auction  
+https://github.com/mmingyeomm/silent-auction  
+Silent Auction is a private auction platform where both participant identity and bid amounts are concealed until the round results are published. Anyone can list a digital item for auction, and settlement occurs for each auction round. I was responsible for the frontend (UI/UX) and server, and handled Nginx load balancing.

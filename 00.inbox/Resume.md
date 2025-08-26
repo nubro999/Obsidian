@@ -31,3 +31,34 @@ Blockthon 2위 수상 (Tile Rush) 2025
 한국어(모국어),
 English(Working Proficiency – 기술 토론/문서 작성 경험)
 
+
+
+Name: HYEONG SEOB SHIN | Email: zcb167@gmail.com | GitHub: github.com/nubro999 | Phone: 010-8910-3563
+
+Profile
+Computer Science major with experience in web and blockchain application development and in documenting computer science, smart contracts in Sui and EVM environments.
+
+Technical Stack
+Languages: TypeScript, Python, C++, Java, Solidity, Move
+Backend: REST API, JPA, Java Spring, WebSocket, Nest.js, Kotlin
+Frontend: React, Next.js, Tailwind CSS, Kotlin
+DevOps: Docker, Nginx, AWS EC2
+Security: Pwnable, Web, Reversing, Web3
+Tools: Git
+
+Education
+Hongik University – Double Major in Computer Engineering and English Language & Literature (Mar 2019 – Aug 2025)
+
+Awards / Activities
+Designed album art for hip-hop artist Lee Young-ji’s “Just”
+Created cover art for Naver web novel “Gallanty Show”
+Award winner in the Korean Armed Forces poster contest
+Produced numerous posters for domestic competitions and exhibitions
+
+Information Security Society (IHHH) 2023
+Yonsei Blockchain Club (Comparative Chain Study) 2024–
+Blockthon 2nd Place (Tile Rush) 2025
+
+Languages
+Korean (Native)
+English (Working Proficiency – experience in technical discussion and documentation)
