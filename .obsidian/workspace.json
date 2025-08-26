@@ -4,20 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "c0253f8fff8fd9c3",
+        "id": "8a915c86d27b9ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "9e8f446e8b23ae2b",
+            "id": "e895091695df057b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/Apply/면접 필수 질문 10가지.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "면접 필수 질문 10가지"
+            }
+          },
+          {
+            "id": "266e63dfa05a6a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Preparing protocol camp Interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Preparing protocol camp Interview"
+            }
+          },
+          {
+            "id": "aeda9839868d2679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "보강된 지원서"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,14 +244,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e8f446e8b23ae2b",
+  "active": "266e63dfa05a6a74",
   "lastOpenFiles": [
-    "40.Project/아이디어.md",
-    "30.JOB/Apply/Protocolcamp/Project List.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
     "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "30.JOB/Apply/면접 필수 질문 10가지.md",
+    "00.inbox/Preparing protocol camp Interview.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "30.JOB/Apply/업사이드아카데미 자기소개서.md",
+    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
     "30.JOB/Apply/Protocolcamp/Resume.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "40.Project/아이디어.md",
     "12.Investing/OHLCV.md",
     "07.Web/session과 jwt비교.md",
     "80.Information/Hidden.md",
@@ -205,10 +272,6 @@
     "00.inbox/head-dump.md",
     "00.inbox/ERC1155.md",
     "00.inbox/picoCTF 2025.md",
-    "04.Security/Hacking/SSTL1.md",
-    "01.BlockChain/Epoch.md",
-    "01.BlockChain/Blockchain Explorer.md",
-    "50.Work/BAY/BAY 0812.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
