@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e895091695df057b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Apply/면접 필수 질문 10가지.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "면접 필수 질문 10가지"
-            }
-          },
-          {
-            "id": "266e63dfa05a6a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Preparing protocol camp Interview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Preparing protocol camp Interview"
-            }
-          },
-          {
             "id": "aeda9839868d2679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+                "file": "30.JOB/Apply/Protocolcamp/Project List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "보강된 지원서"
+              "title": "Project List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prepar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -244,17 +195,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266e63dfa05a6a74",
+  "active": "c784a1655cea7b7e",
   "lastOpenFiles": [
-    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
-    "30.JOB/Apply/면접 필수 질문 10가지.md",
-    "00.inbox/Preparing protocol camp Interview.md",
     "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "30.JOB/Apply/Protocolcamp/Preparing protocol camp Interview.md",
+    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "30.JOB/Apply/Protocolcamp/Resume.md",
+    "10.DailyNote/2025-08-27.md",
+    "10.DailyNote/2025-08-28.md",
+    "00.inbox/Solana Deep Dive Week 3.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "00.inbox/mic test.md",
+    "00.inbox/silentauction_ui.md",
+    "99.Attachment/Recording 20250709045813.m4a",
+    "99.Attachment/Recording 20250827004317.m4a",
+    "99.Attachment/Recording 20250827004303.m4a",
+    "00.inbox/Rust.md",
+    "00.inbox/PIETIME.md",
+    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
+    "30.JOB/Apply/면접 필수 질문 10가지.md",
+    "30.JOB/Apply/업사이드 아카데미 면접준비 스크랩.md",
     "30.JOB/Apply/업사이드아카데미 자기소개서.md",
     "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
-    "30.JOB/Apply/Protocolcamp/Resume.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
-    "30.JOB/Apply/Protocolcamp/Project List.md",
     "40.Project/아이디어.md",
     "12.Investing/OHLCV.md",
     "07.Web/session과 jwt비교.md",
@@ -263,15 +226,6 @@
     "41.Scrap/해킹방법.md",
     "41.Scrap/엄마가 준 건강관리법 정리노트.md",
     "10.DailyNote/2025-08-26.md",
-    "00.inbox/PIETIME.md",
-    "01.BlockChain/Ethereum/MEV.md",
-    "04.Security/Hacking/flag-hunters.md",
-    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "01.BlockChain/SuiNetwork/DAG.md",
-    "04.Security/Hacking/재진입공격.md",
-    "00.inbox/head-dump.md",
-    "00.inbox/ERC1155.md",
-    "00.inbox/picoCTF 2025.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
@@ -284,15 +238,12 @@
     "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
     "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
     "50.Work",
-    "12.Investing",
     "99.Attachment/Pasted image 20250721192632.png",
     "99.Attachment/Pasted image 20250721191134.png",
     "99.Attachment/Pasted image 20250721184510.png",
     "99.Attachment/Pasted image 20250719221626.png",
     "99.Attachment/Pasted image 20250719220847.png",
     "99.Attachment/Pasted image 20250719220836.png",
-    "41.Scrap",
-    "50.Work/BAY",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
