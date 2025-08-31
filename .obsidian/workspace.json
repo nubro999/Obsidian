@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/Protocolcamp/Project List.md",
+                "file": "10.DailyNote/2025-08-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project List"
+              "title": "2025-08-29"
+            }
+          },
+          {
+            "id": "2b25d0335ee985b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Go-Pirates.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Go-Pirates"
+            }
+          },
+          {
+            "id": "04925586bc702435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Solana 학습방법.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Solana 학습방법"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,17 +245,20 @@
   },
   "active": "c784a1655cea7b7e",
   "lastOpenFiles": [
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "00.inbox/Go-Pirates.md",
+    "00.inbox/Solana 학습방법.md",
+    "10.DailyNote/2025-08-29.md",
     "30.JOB/Apply/Protocolcamp/Preparing protocol camp Interview.md",
+    "00.inbox/silentauction_ui.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
     "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
     "30.JOB/Apply/Protocolcamp/Resume.md",
     "10.DailyNote/2025-08-27.md",
     "10.DailyNote/2025-08-28.md",
     "00.inbox/Solana Deep Dive Week 3.md",
-    "30.JOB/Apply/Protocolcamp/Project List.md",
     "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
     "00.inbox/mic test.md",
-    "00.inbox/silentauction_ui.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
@@ -223,9 +274,6 @@
     "07.Web/session과 jwt비교.md",
     "80.Information/Hidden.md",
     "41.Scrap/Scrap Review.md",
-    "41.Scrap/해킹방법.md",
-    "41.Scrap/엄마가 준 건강관리법 정리노트.md",
-    "10.DailyNote/2025-08-26.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
