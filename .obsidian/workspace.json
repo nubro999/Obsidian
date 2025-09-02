@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Solana 학습방법.md",
+                "file": "80.Information/Hidden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Solana 학습방법"
+              "title": "Hidden"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prepar",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -243,10 +243,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c784a1655cea7b7e",
+  "active": "a0783b702048750e",
   "lastOpenFiles": [
-    "00.inbox/Go-Pirates.md",
+    "10.DailyNote/2025-09-02.md",
+    "00.inbox/Rust.md",
+    "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
     "00.inbox/Solana 학습방법.md",
+    "00.inbox/Go-Pirates.md",
     "10.DailyNote/2025-08-29.md",
     "30.JOB/Apply/Protocolcamp/Preparing protocol camp Interview.md",
     "00.inbox/silentauction_ui.md",
@@ -262,7 +265,6 @@
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
-    "00.inbox/Rust.md",
     "00.inbox/PIETIME.md",
     "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
     "30.JOB/Apply/면접 필수 질문 10가지.md",
@@ -272,8 +274,6 @@
     "40.Project/아이디어.md",
     "12.Investing/OHLCV.md",
     "07.Web/session과 jwt비교.md",
-    "80.Information/Hidden.md",
-    "41.Scrap/Scrap Review.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
