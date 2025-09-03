@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8a915c86d27b9ceb",
+        "id": "08d5cce8985575f5",
         "type": "tabs",
         "children": [
           {
-            "id": "aeda9839868d2679",
+            "id": "1389f54c78f38414",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-09-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-03"
-            }
-          },
-          {
-            "id": "a5684960d5adea4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Solana Hackathon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Solana Hackathon"
-            }
-          },
-          {
-            "id": "04925586bc702435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Protocol Camp 지원서 내용"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5684960d5adea4f",
+  "active": "1389f54c78f38414",
   "lastOpenFiles": [
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
     "10.DailyNote/2025-09-03.md",
-    "00.inbox/Solana Hackathon.md",
+    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
+    "00.inbox/Untitled.md",
     "10.DailyNote/2025-08-29.md",
     "00.inbox/Go-Pirates.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
     "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
     "30.JOB/Apply/Protocolcamp/Preparing protocol camp Interview.md",
     "10.DailyNote/2025-09-02.md",
@@ -273,7 +211,6 @@
     "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
     "30.JOB/Apply/면접 필수 질문 10가지.md",
     "30.JOB/Apply/업사이드 아카데미 면접준비 스크랩.md",
-    "30.JOB/Apply/업사이드아카데미 자기소개서.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
