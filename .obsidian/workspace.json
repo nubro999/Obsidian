@@ -11,10 +11,24 @@
             "id": "1389f54c78f38414",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rust"
             }
           }
         ]
@@ -182,12 +196,17 @@
   },
   "active": "1389f54c78f38414",
   "lastOpenFiles": [
+    "00.inbox/head-dump.md",
+    "00.inbox/mic test.md",
+    "50.Work/Hackerthon/Go-Pirates.md",
+    "01.BlockChain/Ethereum/ERC1155.md",
+    "01.BlockChain/Ethereum/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
+    "10.DailyNote/2025-09-04.md",
     "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
     "10.DailyNote/2025-09-03.md",
     "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "00.inbox/Untitled.md",
     "10.DailyNote/2025-08-29.md",
-    "00.inbox/Go-Pirates.md",
     "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
     "30.JOB/Apply/Protocolcamp/Preparing protocol camp Interview.md",
     "10.DailyNote/2025-09-02.md",
@@ -203,14 +222,9 @@
     "10.DailyNote/2025-08-28.md",
     "00.inbox/Solana Deep Dive Week 3.md",
     "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
-    "00.inbox/mic test.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
-    "00.inbox/PIETIME.md",
-    "00.inbox/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "30.JOB/Apply/면접 필수 질문 10가지.md",
-    "30.JOB/Apply/업사이드 아카데미 면접준비 스크랩.md",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "99.Attachment/Pasted image 20250808165206.png",
