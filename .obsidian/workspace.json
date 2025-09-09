@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/solana rust basic.md",
+                "file": "10.DailyNote/2025-09-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "solana rust basic"
+              "title": "2025-09-09"
+            }
+          },
+          {
+            "id": "1d69a4be40db2bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40.Project/아이디어.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "아이디어"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sui ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,15 +268,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e097906160fcc710",
+  "active": "1d69a4be40db2bd0",
   "lastOpenFiles": [
-    "01.BlockChain/Solana/Solana 학습방법.md",
-    "00.inbox/solana rust basic.md",
-    "50.Work/BAY/0803 Solana.md",
-    "10.DailyNote/2025-09-08.md",
+    "01.BlockChain/SuiNetwork/Sui Review.md",
+    "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
+    "01.BlockChain/SuiNetwork/Sui voting system.md",
     "80.Information/Hidden.md",
-    "10.DailyNote/2025-09-06.md",
+    "01.BlockChain/SuiNetwork/seal.md",
+    "10.DailyNote/2025-09-09.md",
     "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
+    "10.DailyNote/2025-09-08.md",
+    "00.inbox/solana rust basic.md",
+    "01.BlockChain/Solana/Solana 학습방법.md",
+    "50.Work/BAY/0803 Solana.md",
+    "10.DailyNote/2025-09-06.md",
     "10.DailyNote/2025-09-02.md",
     "01.BlockChain/Solana/Rust.md",
     "50.Work/Hackerthon/Go-Pirates.md",
@@ -267,11 +296,6 @@
     "01.BlockChain/Solana/Solana Deep Dive Week 3.md",
     "40.Project/silentauction_ui.md",
     "00.inbox/mic test.md",
-    "01.BlockChain/Ethereum/ERC1155.md",
-    "01.BlockChain/Ethereum/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
-    "10.DailyNote/2025-09-03.md",
-    "10.DailyNote/2025-08-29.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",

@@ -14,3 +14,4 @@
 [[아이디어]]
 [[Sui reference]]
 [[Walrus]]
+[[seal]]

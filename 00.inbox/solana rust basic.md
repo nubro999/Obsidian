@@ -51,3 +51,5 @@ fn main() {
     draw_shape(&s); // Drawing a Square!
 }
 ```
+
+anchor 셋팅은 홈페이지 따라서 하자 왜 우크라이나로 라우팅되는겨
