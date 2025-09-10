@@ -48,3 +48,23 @@ Even though Seal is supposed to be a generic and flexible secret management serv
 ## Upgrade policy[¶](https://seal-docs.wal.app/#upgrade-policy "Anchor link to this section for reference")
 
 Seal strives to maintain backward compatibility. Any breaking changes to the Key Server API or the TypeScript SDK will be communicated in advance on both GitHub and in the Seal Discord channel. We will provide a clear migration path for existing users to upgrade to new versions. New versions of the Key Server will be published under [GitHub Releases](https://github.com/MystenLabs/seal/releases) and tagged with the appropriate version number. Both the [SDK](https://github.com/MystenLabs/ts-sdks/blob/main/packages/seal/src/key-server.ts#L31) and the [Key Server](https://github.com/MystenLabs/seal/blob/main/crates/key-server/src/server.rs#L85) are configured to expect specific versions from each other. Either component may reject messages from outdated or deprecated counterparties.
+
+
+- 중앙집중식 키 관리에 의존하지 않고 사용자 데이터를 보호
+- 크리에이터, NFT 소유자, DAO 또는 비공개 커뮤니티를 위한 콘텐츠 접근 제어
+- dApp을 위한 안전한 비공개 메시징
+- 암호화 기반 인계로 시간 잠금 자산 이전 활성화
+
+개발자를 위한 설계  
+Seal은 플러그 앤 플레이 방식으로 설계되었습니다. SDK를 통해 개발자는 다음을 얻을 수 있습니다:
+
+- 확장성 — 임계값 암호화로 단일 실패 지점 없음
+- 투명성 — 온체인 접근 제어
+- 유연성 — 정책이 다양한 사용 사례에 적용 가능
+
+사용 예시
+
+- 접근 제어 콘텐츠 — 온체인 프리미엄 콘텐츠 수익화
+- 게임 로직 — 암호화된 자산과 접근 제어 스토리 진행
+- Web3 메시징 — 종단 간 암호화된 채팅
+- 안전한 NFT 이전 — 시간 잠금 또는 동적 접근 규칙 설정
