@@ -11,10 +11,24 @@
             "id": "4afe4e7c89a495e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Kubernetes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kubernetes"
             }
           }
         ]
@@ -183,13 +197,13 @@
   },
   "active": "4afe4e7c89a495e5",
   "lastOpenFiles": [
-    "00.inbox/DSRV 해커톤 아이디어회의.md",
+    "00.inbox/컨테이너 어플리케이션.md",
+    "00.inbox/Kubernetes.md",
     "10.DailyNote/2025-09-11.md",
+    "00.inbox/DSRV 해커톤 아이디어회의.md",
     "10.DailyNote/2025-09-09.md",
     "01.BlockChain/Solana/Solana 학습방법.md",
     "10.DailyNote/2025-07-29.md",
-    "00.inbox/컨테이너 어플리케이션.md",
-    "00.inbox/Kubernetes.md",
     "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "01.BlockChain/Solana/Solana Deep Dive Week 3.md",
     "00.inbox/solana rust basic.md",
