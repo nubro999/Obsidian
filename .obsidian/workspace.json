@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "1d69a4be40db2bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40.Project/아이디어.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "아이디어"
-            }
-          },
-          {
             "id": "bc8f037727ba95d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.BlockChain/SuiNetwork/seal.md",
+                "file": "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "seal"
+              "title": "Solana Hackathon"
             }
           },
           {
@@ -152,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -316,34 +292,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74cb80f24669df91",
+  "active": "bc8f037727ba95d0",
   "lastOpenFiles": [
-    "10.DailyNote/2025-09-10.md",
-    "00.inbox/0909 BAY vibe coding.md",
-    "00.inbox/DSRV 해커톤 아이디어회의.md",
+    "01.BlockChain/Solana/Solana Deep Dive Week 3.md",
+    "01.BlockChain/Solana/Solana 학습방법.md",
+    "00.inbox/solana rust basic.md",
+    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "01.BlockChain/SuiNetwork/seal.md",
+    "00.inbox/DSRV 해커톤 아이디어회의.md",
+    "10.DailyNote/2025-09-10.md",
+    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "00.inbox/공부계획.md",
+    "10.DailyNote/2025-09-02.md",
     "10.DailyNote/2025-09-09.md",
-    "50.Work/Hackerthon/Go-Pirates.md",
     "40.Project/아이디어.md",
+    "00.inbox/0909 BAY vibe coding.md",
+    "50.Work/Hackerthon/Go-Pirates.md",
     "01.BlockChain/SuiNetwork/Sui Review.md",
     "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
     "01.BlockChain/SuiNetwork/Sui voting system.md",
     "80.Information/Hidden.md",
-    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "10.DailyNote/2025-09-08.md",
-    "00.inbox/solana rust basic.md",
-    "01.BlockChain/Solana/Solana 학습방법.md",
     "50.Work/BAY/0803 Solana.md",
     "10.DailyNote/2025-09-06.md",
-    "10.DailyNote/2025-09-02.md",
     "01.BlockChain/Solana/Rust.md",
     "10.DailyNote/2025-09-04.md",
-    "00.inbox/공부계획.md",
     "01.BlockChain/블록체인공부/what is block chain(학습계획).md",
     "04.Security/Hacking/head-dump.md",
-    "04.Security/Hacking/n0s4n1ty 1.md",
-    "04.Security/Hacking/picoCTF 2025.md",
-    "04.Security/Hacking/PIETIME.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
