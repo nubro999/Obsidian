@@ -11,6 +11,17 @@
       "ctime": 1756969476953,
       "path": "00.inbox/공부계획.md",
       "title": "25/9 공부할 것"
+    },
+    {
+      "type": "file",
+      "ctime": 1757685766544,
+      "path": "00.inbox/Kubernetes.md",
+      "title": "sui hackathon"
+    },
+    {
+      "type": "file",
+      "ctime": 1757685792696,
+      "path": "00.inbox/Daas-vader.md"
     }
   ]
 }
