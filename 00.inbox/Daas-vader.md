@@ -12,3 +12,6 @@ npm을 위주로 작동하는 것이 목표
 김경훈 : git - wallas 구현해보기
 
 영민 : 프런트, cicd
+
+[[Kubernetes]]
+
