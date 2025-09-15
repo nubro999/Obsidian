@@ -7,9 +7,19 @@ attention으로 음악산업에도 검증이 가능할까?
 	- self needs
 	- Observe the phenomena
 		- researh & Reasoning 필수
+
+
 - Productization: a user-frinedly solution that credibly meets
+	- user flow > product ui > key feat >
+
 - Validation
+	- Function testing
+	- ui/ux testing
+	- internal testing
+	- external testing
 
 documentation !! > one page summary
 아이디어 저분한테 검증해도 좋을듯
+Tx Fee? Token Launch? Service Fee? -- service fee
+
 

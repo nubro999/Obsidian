@@ -11,9 +11,21 @@
             "id": "ef0baf9625fff0a3",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "30.JOB/Apply/Upside_WriteUp.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Upside_WriteUp"
+            }
+          },
+          {
+            "id": "ce6e4af021af60f5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/세부구조.md",
+                "file": "10.DailyNote/2025-09-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +40,20 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "세부구조"
+              "title": "2025-09-14"
             }
           },
           {
             "id": "be58766603ba4648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/sonic (solana).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sonic (solana)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "daas",
+                "query": "upside",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,10 +217,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be58766603ba4648",
+  "active": "ef0baf9625fff0a3",
   "lastOpenFiles": [
-    "00.inbox/세부구조.md",
+    "04.Security/Hacking/Upside/업사이드아카데미 실기시험.md",
+    "10.DailyNote/2025-09-15.md",
+    "00.inbox/SounDao frontend.md",
     "00.inbox/sonic (solana).md",
+    "10.DailyNote/2025-09-14.md",
+    "00.inbox/세부구조.md",
+    "11.WeeklyPlan/2025-Weekly Review.md",
+    "01.BlockChain/Ethereum/Data field.md",
     "00.inbox/Kubernetes.md",
     "00.inbox/Daas-vader.md",
     "00.inbox/DSRV 해커톤 아이디어회의.md",
@@ -242,12 +245,6 @@
     "10.DailyNote/2025-09-11.md",
     "01.BlockChain/SuiNetwork/Sui_Structure.md",
     "01.BlockChain/SuiNetwork/Sui voting system.md",
-    "01.BlockChain/SuiNetwork/Sui Review.md",
-    "01.BlockChain/SuiNetwork/Sui reference.md",
-    "01.BlockChain/SuiNetwork/Sui Network_Technical_Architecture_Complete_Protocol_Analysis.md",
-    "01.BlockChain/SuiNetwork/SUI grammer.md",
-    "50.Work/BAY/0804 Sui session.md",
-    "01.BlockChain/SuiNetwork/Sui Finality.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
