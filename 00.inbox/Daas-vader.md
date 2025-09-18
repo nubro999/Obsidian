@@ -15,3 +15,8 @@ npm을 위주로 작동하는 것이 목표
 
 [[Kubernetes]]
 
+docker 
+
+토큰 + rpc
+마스터노드 - 노틸러스에서 warlus 접근 > 이미지 받아서 < seal > worker 노드 전달
+	= 이거 뜯어보기 / deamos, containerd -- deamons

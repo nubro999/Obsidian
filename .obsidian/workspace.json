@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f94404a94ed6b5c4",
+        "id": "4ed8f6a1e81d51a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0baf9625fff0a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "30.JOB/Apply/Upside_WriteUp.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Upside_WriteUp"
-            }
-          },
-          {
-            "id": "ce6e4af021af60f5",
+            "id": "7593f82d42211045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-09-14.md",
+                "file": "10.DailyNote/2025-09-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,20 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "2025-09-17"
             }
           },
           {
-            "id": "be58766603ba4648",
+            "id": "36457856552f74e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/solayer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "solayer"
+            }
+          },
+          {
+            "id": "cf64474563f48d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Attestation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Attestation"
+            }
+          },
+          {
+            "id": "bf3d795bf504604b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Daas-vader.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daas-vader"
+            }
+          },
+          {
+            "id": "248b5d4e28731981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-09-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-19"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upside",
+                "query": "sui ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.inbox/bay 자기 소개.md",
+                "file": "00.inbox/startup village announcement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bay 자기 소개"
+              "title": "Outgoing links from startup village announcement"
             }
           },
           {
@@ -175,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.inbox/bay 자기 소개.md",
+                "file": "10.DailyNote/2025-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bay 자기 소개"
+              "title": "Outline of 2025-09-19"
             }
           },
           {
@@ -199,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,55 +292,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef0baf9625fff0a3",
+  "active": "c784a1655cea7b7e",
   "lastOpenFiles": [
-    "04.Security/Hacking/Upside/업사이드아카데미 실기시험.md",
-    "10.DailyNote/2025-09-15.md",
-    "00.inbox/SounDao frontend.md",
-    "00.inbox/sonic (solana).md",
+    "00.inbox/startup village announcement.md",
+    "10.DailyNote/2025-09-19.md",
+    "00.inbox/Daas-vader.md",
+    "Screenshots/스크린샷 2025-09-17 183509.png",
+    "Screenshots/스크린샷 2025-09-17 172427.png",
+    "Screenshots/스크린샷 2025-09-15 195308.png",
+    "Screenshots/스크린샷 2025-09-15 195137.png",
+    "Screenshots/스크린샷 2025-09-15 193317.png",
+    "Screenshots/스크린샷 2025-09-15 193244.png",
+    "Screenshots/스크린샷 2025-09-15 152105.png",
+    "Screenshots/스크린샷 2025-09-15 152057.png",
+    "Screenshots/스크린샷 2025-09-15 152009.png",
+    "Screenshots/스크린샷 2025-09-15 150606.png",
+    "Screenshots/desktop.ini",
+    "Screenshots",
+    "00.inbox/SEAL 암호화.md",
+    "00.inbox/Attestation.md",
+    "00.inbox/solayer.md",
+    "10.DailyNote/2025-09-17.md",
+    "00.inbox/Kubernetes.md",
+    "01.BlockChain/SuiNetwork/Walrus.md",
+    "10.DailyNote/2025-09-16.md",
+    "00.inbox/LST.md",
+    "00.inbox/Untitled.md",
     "10.DailyNote/2025-09-14.md",
+    "10.DailyNote/2025-09-15.md",
+    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
+    "00.inbox/SounDao frontend.md",
+    "30.JOB/Apply/Upside_WriteUp.pdf",
+    "04.Security/Hacking/Upside/업사이드아카데미 실기시험.md",
+    "00.inbox/sonic (solana).md",
     "00.inbox/세부구조.md",
     "11.WeeklyPlan/2025-Weekly Review.md",
     "01.BlockChain/Ethereum/Data field.md",
-    "00.inbox/Kubernetes.md",
-    "00.inbox/Daas-vader.md",
     "00.inbox/DSRV 해커톤 아이디어회의.md",
     "40.Project/SUI Hackathon 준비.md",
     "10.DailyNote/2025-09-13.md",
-    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "10.DailyNote/2025-09-03.md",
     "00.inbox/컨테이너 어플리케이션.md",
-    "00.inbox/0911 BAY-Kaia.md",
-    "00.inbox/0909 BAY vibe coding.md",
-    "10.DailyNote/2025-09-12.md",
-    "00.inbox/solana rust basic.md",
-    "00.inbox/공부계획.md",
-    "10.DailyNote/2025-09-10.md",
-    "10.DailyNote/2025-09-09.md",
-    "10.DailyNote/2025-09-11.md",
-    "01.BlockChain/SuiNetwork/Sui_Structure.md",
-    "01.BlockChain/SuiNetwork/Sui voting system.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
-    "99.Attachment/Pasted image 20250808165206.png",
-    "99.Attachment/Pasted image 20250808164752.png",
     "01.BlockChain/Solana",
     "01.BlockChain/SuiNetwork",
-    "99.Attachment/Pasted image 20250804162305.png",
     "Untitled.canvas",
-    "99.Attachment/Pasted image 20250729195555.png",
-    "50.Work/BAY/Bay-OnboardingOT 250715.pdf",
-    "01.BlockChain/블록체인공부/bitcoin/bitcoin.pdf",
-    "50.Work",
-    "99.Attachment/Pasted image 20250721192632.png",
-    "99.Attachment/Pasted image 20250721191134.png",
-    "99.Attachment/Pasted image 20250721184510.png",
-    "99.Attachment/Pasted image 20250719221626.png",
-    "99.Attachment/Pasted image 20250719220847.png",
-    "99.Attachment/Pasted image 20250719220836.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
