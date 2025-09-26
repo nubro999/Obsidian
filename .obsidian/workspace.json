@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/DAAS발표자료.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DAAS발표자료"
-            }
-          },
-          {
-            "id": "54c523b7d2543c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/kubenetes.md",
+                "file": "10.DailyNote/2025-09-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kubenetes"
+              "title": "2025-09-25"
+            }
+          },
+          {
+            "id": "358ca8a8f6403aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Zk validating.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zk validating"
+            }
+          },
+          {
+            "id": "b664677ac0e08af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/닷넷(.NET).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "닷넷(.NET)"
+            }
+          },
+          {
+            "id": "1cf62aa21bae0716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.BlockChain/SuiNetwork/DAG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DAG"
+            }
+          },
+          {
+            "id": "84bde6b89012bf08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/B-harvest 인턴 공고.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B-harvest 인턴 공고"
+            }
+          },
+          {
+            "id": "fde941971e0ca9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/LoRA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LoRA"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "daas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,8 +205,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,16 +315,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfea05a34e072e7",
+  "active": "fde941971e0ca9aa",
   "lastOpenFiles": [
-    "00.inbox/Daas-vader.md",
+    "00.inbox/B-harvest 인턴 공고.md",
+    "00.inbox/LoRA.md",
+    "01.BlockChain/SuiNetwork/DAG.md",
+    "00.inbox/ELP.md",
+    "00.inbox/닷넷(.NET).md",
+    "00.inbox/Zk validating.md",
+    "10.DailyNote/2025-09-25.md",
+    "00.inbox/kubenetes.md",
+    "10.DailyNote/2025-09-24.md",
+    "80.Information/Hidden.md",
+    "10.DailyNote/2025-09-23.md",
     "00.inbox/DAAS발표자료.md",
+    "00.inbox/Daas-vader.md",
     "10.DailyNote/2025-09-20.md",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
     "50.Work/Hackerthon/발표자료.md",
     "10.DailyNote/2025-09-19.md",
-    "00.inbox/kubenetes.md",
     "00.inbox/Certic parttime job.md",
     "00.inbox/suimming.md",
     "00.inbox/startup village announcement.md",
@@ -249,17 +355,7 @@
     "00.inbox/SEAL 암호화.md",
     "00.inbox/Kubernetes.md",
     "01.BlockChain/SuiNetwork/Walrus.md",
-    "10.DailyNote/2025-09-16.md",
-    "00.inbox/LST.md",
-    "00.inbox/Untitled.md",
-    "10.DailyNote/2025-09-14.md",
-    "10.DailyNote/2025-09-15.md",
-    "00.inbox/SounDao frontend.md",
     "30.JOB/Apply/Upside_WriteUp.pdf",
-    "04.Security/Hacking/Upside/업사이드아카데미 실기시험.md",
-    "00.inbox/sonic (solana).md",
-    "00.inbox/세부구조.md",
-    "11.WeeklyPlan/2025-Weekly Review.md",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",

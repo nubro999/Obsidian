@@ -1,6 +1,68 @@
 
 DaaS-Vader는 사용자가 Docker Image를 Walrus 분산 스토리지에 업로드하고 SEAL을 통해 보안 파일(.env, 설정 파일, API 키 등)을 하드웨어 수준에서 암호화하면, Sui 네트워크에 토큰을 스테이킹하여 검증된 Kubernetes Operator들이 보안 환경에서 컨테이너를 실행하는 탈중앙화 플랫폼입니다. Backend Server가 포크된 K3s Control Plane을 라이브러리 형태로 내장하여 기존 kubectl과 호환되는 표준 Kubernetes API를 제공하고, Seal Token 인증 시스템이 Ed25519 서명과 타임스탬프, 스테이킹 상태를 삼중 검증하여 노드 접근을 제어합니다. Sui 스마트 컨트랙트가 사용자 요청과 Operator를 자동 매칭하고 실행 결과에 따른 보상 분배를 처리하여 투명하고 신뢰할 수 있는 실행 환경을 보장하며, 스테이킹 양에 따른 차등 권한 부여와 슬래싱 메커니즘을 통해 경제적 인센티브 기반의 자생적 분산 인프라 네트워크를 구축합니다.
 
+
+
+Think about this for a moment - right now, millions of laptops and personal computers around the world are sitting idle, using only a fraction of their computing power. Meanwhile, developers and businesses are paying enormous costs for centralized cloud services that often face reliability issues and vendor lock-in problems.
+
+DAAS-VADER solves this by creating a peer-to-peer computing network where SUI powers the entire ecosystem. SUI serves as our native currency for staking, payments for computing resources, and automated rewards distribution, while our smart contracts handle trustless escrow and TEE-verified result validation.
+다음
+
+"Here's the problem: Companies spend billions on cloud resources while millions of personal computers sit idle, wasting 60-80% of their computing power. This creates a massive barrier for smaller developers who can't afford expensive infrastructure.
+
+We have abundant unused resources on one side, and innovation being limited by high costs on the other. That's exactly what DAAS-VADER fixes."
+다음
+
+"DAAS-VADER flips the cloud model completely. Instead of centralized data centers, personal computers provide computing resources while blockchain handles orchestration and trust verification on-chain.
+
+Our Sui smart contracts manage everything - resource allocation, payments, and reputation systems. Resource providers stake SUI tokens as proof-of-stake for quality assurance, while consumers pay with SUI for actual resource consumption.
+
+We integrate four powerful technologies: Kubernetes orchestrates containers across distributed nodes, Walrus provides decentralized storage, Seal handles secure authentication, and Nautilus ensures tamper-proof execution through TEE-based verification. for now, sui network and backend server substitute controlplain by event driven method. we will change backend to nautilus to aquire complete security
+다음
+
+This is the complete process we are envisioning.
+다음
+
+This is our currently implemented demo project. We have separated the functions of the existing Kubernetes master node and worker nodes, placing the master node in the backend and creating an environment where resource providers can run only worker nodes.
+
+let me show our demo
+- 데모영상
+다음
+
+Our vision is simple but transformative Making every computer a cloud provider, every developer a cloud consumer, and every application truly decentralized.
+
+When that time comes, someone will say "I am your program."
+
+
+
+
+**DAAS-VADER: 90-Second Pitch Script**
+
+nice to meet you, we are DAAS-VADER and building a cloudcomputing infrastructure on sui lets get start
+
+"Companies spend billions on cloud resources while millions of personal computers sit idle, wasting 60-80% of their computing power. This creates barriers for developers who can't afford expensive infrastructure.
+다음
+
+DAAS-VADER flips this model. Instead of centralized data centers, personal computers provide computing resources while Sui blockchain handles orchestration and trust verification on-chain.
+다음 
+
+Our platform integrates four key technologies: Kubernetes orchestrates containers across distributed nodes, Walrus provides decentralized storage, Seal handles secure authentication, and Nautilus ensures tamper-proof execution through TEE verification.
+다음
+
+SUI powers everything - staking for resource providers, payments for consumption, and automated rewards distribution. Our smart contracts manage resource allocation, payments, and reputation systems automatically.
+다음
+
+We've implemented a demo where we separated Kubernetes master and worker nodes, placing the control plane in our backend while resource providers run only worker nodes. 
+다음
+
+[Demo moment]
+
+Our vision is transformative: making every computer a cloud provider, every developer a cloud consumer, and every application truly decentralized. When that time comes, someone will say 'I am your program.'
+다음
+
+Thank you."
+
+
 ### **Deployment Process**
 
 ```
@@ -349,4 +411,7 @@ kubenetes > 실행
 >
 
 계약체결 > 모니터링
+
+
+
 
