@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cfea05a34e072e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/B-harvest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-harvest"
-            }
-          },
-          {
             "id": "358ca8a8f6403aef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/Zk validating.md",
+                "file": "50.Work/BAY/0909 BAY vibe coding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zk validating"
+              "title": "0909 BAY vibe coding"
             }
           },
           {
-            "id": "908b383110fd992d",
+            "id": "056d12e8539598e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/B-harvest 인턴 공고.md",
+                "file": "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "B-harvest 인턴 공고"
+              "title": "Protocol Camp 지원"
+            }
+          },
+          {
+            "id": "b26da9347088e283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "보강된 지원서"
+            }
+          },
+          {
+            "id": "af5752a5217446fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/이력서(전체).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "이력서(전체)"
+            }
+          },
+          {
+            "id": "aeaed1fbdb5b0d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/Apply/Protocolcamp/Project List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project List"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,34 +292,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfea05a34e072e7",
+  "active": "af5752a5217446fa",
   "lastOpenFiles": [
-    "10.DailyNote/2025-09-27.md",
+    "30.JOB/Apply/Protocolcamp/Resume.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "50.Work/BAY/0909 BAY vibe coding.md",
+    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "00.inbox/이력서(전체).md",
     "00.inbox/B-harvest.md",
-    "10.DailyNote/2025-09-25.md",
-    "00.inbox/Zk validating.md",
     "00.inbox/B-harvest 인턴 공고.md",
-    "00.inbox/닷넷(.NET).md",
-    "01.BlockChain/SuiNetwork/DAG.md",
-    "10.DailyNote/2025-09-24.md",
-    "80.Information/Hidden.md",
-    "00.inbox/SounDao frontend.md",
-    "00.inbox/sonic (solana).md",
-    "00.inbox/solayer.md",
-    "00.inbox/SEAL 암호화.md",
-    "00.inbox/LST.md",
-    "00.inbox/LoRA.md",
-    "00.inbox/ELP.md",
-    "01.BlockChain/Solidity/자주쓰이는 함수.md",
-    "01.BlockChain/Ethereum/EVM and Solidity Security_Attack Vectors and Defense Strategies.md",
-    "50.Work/BAY/BAY 0717.md",
-    "30.JOB/Apply/면접 질문 준비_GPT&YOUTUBE.md",
-    "50.Work/Hackerthon/발표자료.md",
+    "01.BlockChain/Solana/LST.md",
+    "05.Crypto/Zk validating.md",
+    "08.Infra/Kubernetes.md",
     "00.inbox/kubenetes.md",
-    "10.DailyNote/2025-09-23.md",
-    "00.inbox/DAAS발표자료.md",
-    "00.inbox/Daas-vader.md",
-    "10.DailyNote/2025-09-20.md",
+    "00.inbox/ELP.md",
+    "40.Project/DSRV 해커톤 아이디어회의.md",
+    "40.Project/startup village announcement.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/Untitled 1.md",
+    "40.Project/suimming.md",
+    "40.Project/SounDao frontend.md",
+    "01.BlockChain/Solana/solana rust basic.md",
+    "01.BlockChain/SuiNetwork/SEAL 암호화.md",
+    "01.BlockChain/Solana/sonic (solana).md",
+    "01.BlockChain/Solana/solayer.md",
+    "40.Project/Daas-vader.md",
+    "40.Project/DAAS발표자료.md",
+    "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
     "Screenshots/스크린샷 2025-09-17 183509.png",
@@ -289,7 +340,6 @@
     "50.Work/Hackerthon",
     "30.JOB/Apply/Protocolcamp",
     "01.BlockChain/Solana",
-    "01.BlockChain/SuiNetwork",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
