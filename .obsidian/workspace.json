@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "056d12e8539598e9",
+            "id": "dd814ec82af79d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+                "file": "00.inbox/Sui-Dev-Korea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protocol Camp 지원"
-            }
-          },
-          {
-            "id": "b26da9347088e283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "보강된 지원서"
-            }
-          },
-          {
-            "id": "af5752a5217446fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/이력서(전체).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "이력서(전체)"
-            }
-          },
-          {
-            "id": "aeaed1fbdb5b0d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Apply/Protocolcamp/Project List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project List"
+              "title": "Sui-Dev-Korea"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resume",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,15 +220,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af5752a5217446fa",
+  "active": "dd814ec82af79d1d",
   "lastOpenFiles": [
-    "30.JOB/Apply/Protocolcamp/Resume.md",
-    "30.JOB/Apply/Protocolcamp/Project List.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
     "50.Work/BAY/0909 BAY vibe coding.md",
-    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "00.inbox/Sui-Dev-Korea.md",
     "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
+    "40.Project/startup village announcement.md",
+    "10.DailyNote/2025-09-29.md",
+    "80.Information/Hidden.md",
     "00.inbox/이력서(전체).md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "30.JOB/Apply/Protocolcamp/Resume.md",
     "00.inbox/B-harvest.md",
     "00.inbox/B-harvest 인턴 공고.md",
     "01.BlockChain/Solana/LST.md",
@@ -309,8 +241,6 @@
     "00.inbox/kubenetes.md",
     "00.inbox/ELP.md",
     "40.Project/DSRV 해커톤 아이디어회의.md",
-    "40.Project/startup village announcement.md",
-    "00.inbox/Untitled.md",
     "00.inbox/Untitled 1.md",
     "40.Project/suimming.md",
     "40.Project/SounDao frontend.md",
@@ -318,8 +248,6 @@
     "01.BlockChain/SuiNetwork/SEAL 암호화.md",
     "01.BlockChain/Solana/sonic (solana).md",
     "01.BlockChain/Solana/solayer.md",
-    "40.Project/Daas-vader.md",
-    "40.Project/DAAS발표자료.md",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
