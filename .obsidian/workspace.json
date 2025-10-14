@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "10.DailyNote/2025-10-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-12"
+            }
+          },
+          {
+            "id": "144cac1603371d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "80.Information/Hidden.md",
                 "mode": "source",
                 "source": false,
@@ -30,8 +54,33 @@
               "icon": "lucide-file",
               "title": "Hidden"
             }
+          },
+          {
+            "id": "48c49c5b2e5d70f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/백엔드 로드맵.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "백엔드 로드맵"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hidd",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,35 +243,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c91ac6f362f842d1",
+  "active": "48c49c5b2e5d70f2",
   "lastOpenFiles": [
+    "80.Information/Hidden.md",
+    "00.inbox/백엔드 로드맵.md",
+    "00.inbox/거래소 용어.md",
+    "10.DailyNote/2025-10-12.md",
+    "40.Project/Truffle Project01.md",
+    "40.Project/suimming.md",
+    "40.Project/SUI Hackathon 준비.md",
+    "40.Project/startup village announcement.md",
+    "40.Project/Project01.md",
+    "41.Scrap/Scrap Review.md",
+    "41.Scrap/해킹방법.md",
+    "41.Scrap/엄마가 준 건강관리법 정리노트.md",
+    "00.inbox/자기소개서(잡코리아).md",
+    "00.inbox/Untitled.base",
+    "00.inbox/B-harvest.md",
+    "00.inbox/B-harvest 인턴 공고.md",
+    "00.inbox/BAY DSRV.md",
+    "00.inbox/ELP.md",
+    "00.inbox/LoRA.md",
+    "00.inbox/Sui-Dev-Korea.md",
     "00.inbox/하이퍼리즘 면접준비.md",
+    "00.inbox/이력서(전체).md",
     "30.JOB/Apply/업사이드아카데미 자기소개서.md",
     "50.Work/BAY/0909 BAY vibe coding.md",
     "10.DailyNote/2025-10-01.md",
-    "00.inbox/B-harvest.md",
     "10.DailyNote/2025-10-03.md",
-    "00.inbox/Untitled.base",
-    "10.DailyNote/2025-10-12.md",
-    "80.Information/Hidden.md",
     "10.DailyNote/2025-10-11.md",
-    "30.JOB/Apply/Protocolcamp/보강된 지원서.md",
-    "07.Web/session과 jwt비교.md",
-    "06.ComputerArchitecture/x64 어셈블러 기본.md",
-    "06.ComputerArchitecture/DLL(Dynamic-Link Library).md",
-    "06.ComputerArchitecture/Computer Architecture Review.md",
-    "06.ComputerArchitecture/자료형.md",
-    "01.BlockChain/Solana/Solana 학습방법.md",
-    "01.BlockChain/SuiNetwork/Sui reference.md",
-    "01.BlockChain/블록체인공부/심층분석/검증과정.md",
-    "01.BlockChain/블록체인공부/심층분석/가장긴체인.md",
-    "00.inbox/ricochet robot sui.md",
-    "00.inbox/LoRA.md",
-    "00.inbox/ELP.md",
-    "00.inbox/BAY DSRV.md",
-    "00.inbox/자기소개서(잡코리아).md",
-    "40.Project/Daas-vader.md",
-    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
