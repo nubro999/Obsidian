@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/백엔드 로드맵.md",
+                "file": "00.inbox/하이퍼리즘 면접준비.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "백엔드 로드맵"
+              "title": "하이퍼리즘 면접준비"
             }
           }
         ],
@@ -245,8 +245,9 @@
   },
   "active": "48c49c5b2e5d70f2",
   "lastOpenFiles": [
-    "80.Information/Hidden.md",
+    "10.DailyNote/2025-10-15.md",
     "00.inbox/백엔드 로드맵.md",
+    "80.Information/Hidden.md",
     "00.inbox/거래소 용어.md",
     "10.DailyNote/2025-10-12.md",
     "40.Project/Truffle Project01.md",
@@ -271,7 +272,6 @@
     "50.Work/BAY/0909 BAY vibe coding.md",
     "10.DailyNote/2025-10-01.md",
     "10.DailyNote/2025-10-03.md",
-    "10.DailyNote/2025-10-11.md",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
