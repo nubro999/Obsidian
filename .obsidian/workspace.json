@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4f592ee31d429e",
+        "id": "56776af1a4398ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "84cd1d0ead9b82a8",
+            "id": "2dd59738429d8904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-10-17.md",
+                "file": "00.inbox/nodit cheat sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-17"
+              "title": "nodit cheat sheet"
+            }
+          },
+          {
+            "id": "f332d1a4ef0f0d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/Nodit 리서치.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nodit 리서치"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "자기소개서",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,13 +218,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84cd1d0ead9b82a8",
+  "active": "2dd59738429d8904",
   "lastOpenFiles": [
-    "30.JOB/이력서(전체).md",
-    "80.Information/Hidden.md",
-    "30.JOB/하이퍼리즘 면접준비.md",
+    "10.DailyNote/2025-10-21.md",
+    "00.inbox/Nodit 리서치.md",
+    "00.inbox/nodit cheat sheet.md",
+    "00.inbox/sui-docs-korea1020.md",
+    "00.inbox/Untitled 1.md",
+    "10.DailyNote/2025-10-18.md",
+    "10.DailyNote/2025-10-19.md",
     "10.DailyNote/2025-10-17.md",
     "30.JOB/자기소개서(잡코리아).md",
+    "40.Project/아이디어.md",
+    "30.JOB/하이퍼리즘 면접준비.md",
+    "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
+    "00.inbox/THEO YAP.md",
+    "99.Attachment/Pasted image 20251018215814.png",
+    "99.Attachment/Pasted image 20251018212859.png",
+    "80.Information/Hidden.md",
+    "30.JOB/이력서(전체).md",
     "30.JOB/백엔드 로드맵.md",
     "30.JOB/B-harvest.md",
     "30.JOB/Sui-Dev-Korea.md",
@@ -214,16 +249,7 @@
     "09.AI",
     "04.Security/Hacking/ELP.md",
     "30.JOB/Apply/업사이드아카데미 자기소개서.md",
-    "40.Project/아이디어.md",
     "10.DailyNote/2025-10-12.md",
-    "10.DailyNote/2025-10-16.md",
-    "10.DailyNote/2025-10-15.md",
-    "40.Project/Truffle Project01.md",
-    "40.Project/suimming.md",
-    "40.Project/SUI Hackathon 준비.md",
-    "40.Project/startup village announcement.md",
-    "40.Project/Project01.md",
-    "41.Scrap/Scrap Review.md",
     "00.inbox/Untitled.base",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
@@ -234,15 +260,12 @@
     "Screenshots/스크린샷 2025-09-15 195137.png",
     "Screenshots/스크린샷 2025-09-15 193317.png",
     "Screenshots/스크린샷 2025-09-15 193244.png",
-    "Screenshots/스크린샷 2025-09-15 152105.png",
-    "Screenshots/스크린샷 2025-09-15 152057.png",
     "Screenshots/desktop.ini",
     "Screenshots",
     "30.JOB/Apply/Upside_WriteUp.pdf",
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
-    "50.Work/Hackerthon",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
