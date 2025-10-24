@@ -8,79 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dd59738429d8904",
+            "id": "57e2dfc27e9e9875",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/nodit cheat sheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "nodit cheat sheet"
-            }
-          },
-          {
-            "id": "eae69a31a243fca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/js,ts 코딩표준.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js,ts 코딩표준"
-            }
-          },
-          {
-            "id": "f332d1a4ef0f0d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Nodit 리서치.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nodit 리서치"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,11 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae69a31a243fca6",
+  "active": "57e2dfc27e9e9875",
   "lastOpenFiles": [
-    "00.inbox/nodit cheat sheet.md",
-    "00.inbox/js,ts 코딩표준.md",
     "00.inbox/Nodit 리서치.md",
+    "00.inbox/nodit cheat sheet.md",
+    "10.DailyNote/2025-10-23.md",
+    "00.inbox/먼지님.md",
+    "02.Network/P2P.md",
+    "02.Network/Network Review.md",
+    "01.BlockChain/SuiNetwork/Sui_Structure.md",
+    "01.BlockChain/SuiNetwork/Sui Review.md",
+    "01.BlockChain/SuiNetwork/Sui Finality.md",
+    "01.BlockChain/SuiNetwork/SEAL 암호화.md",
+    "01.BlockChain/SuiNetwork/ricochet robot sui.md",
+    "01.BlockChain/블록체인공부/심층분석/이더리움에서 지갑,컨트랙트 주소 생성방식.md",
+    "00.inbox/js,ts 코딩표준.md",
+    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
+    "01.BlockChain/블록체인공부/아이디어/지문 - 해시값 암호검증.md",
+    "01.BlockChain/블록체인공부/심층분석/가장긴체인.md",
+    "01.BlockChain/블록체인공부/심층분석/고아블록.md",
     "00.inbox/THEO YAP.md",
     "00.inbox/Untitled 1.md",
     "10.DailyNote/2025-10-21.md",
@@ -257,24 +208,10 @@
     "10.DailyNote/2025-10-17.md",
     "30.JOB/자기소개서(잡코리아).md",
     "40.Project/아이디어.md",
-    "30.JOB/하이퍼리즘 면접준비.md",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
-    "80.Information/Hidden.md",
-    "30.JOB/이력서(전체).md",
-    "30.JOB/백엔드 로드맵.md",
-    "30.JOB/B-harvest.md",
-    "30.JOB/Sui-Dev-Korea.md",
-    "30.JOB/BAY DSRV.md",
-    "30.JOB/B-harvest 인턴 공고.md",
-    "12.Investing/거래소 용어.md",
-    "01.BlockChain/SuiNetwork/ricochet robot sui.md",
-    "09.AI/LoRA.md",
     "09.AI",
-    "04.Security/Hacking/ELP.md",
-    "30.JOB/Apply/업사이드아카데미 자기소개서.md",
-    "10.DailyNote/2025-10-12.md",
     "00.inbox/Untitled.base",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
