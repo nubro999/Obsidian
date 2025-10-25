@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/sui-docs-korea1020.md",
+                "file": "30.JOB/sui-docs-korea1020.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/데이터베이스.md",
+                "file": "30.JOB/THEO YAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "데이터베이스"
+              "title": "THEO YAP"
             }
           }
         ],
@@ -221,12 +221,12 @@
   },
   "active": "d11944e2437693c6",
   "lastOpenFiles": [
-    "00.inbox/sui-docs-korea1020.md",
-    "00.inbox/데이터베이스.md",
-    "00.inbox/THEO YAP.md",
-    "00.inbox/nodit cheat sheet.md",
-    "00.inbox/Nodit 리서치.md",
-    "00.inbox/js,ts 코딩표준.md",
+    "30.JOB/sui-docs-korea1020.md",
+    "30.JOB/nodit cheat sheet.md",
+    "30.JOB/Nodit 리서치.md",
+    "03.SoftwareEngineering/js,ts 코딩표준.md",
+    "08.Infra/데이터베이스.md",
+    "30.JOB/THEO YAP.md",
     "10.DailyNote/2025-10-25.md",
     "00.inbox/먼지님.md",
     "10.DailyNote/2025-10-23.md",
