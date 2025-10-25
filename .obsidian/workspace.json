@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-10-25.md",
+                "file": "00.inbox/sui-docs-korea1020.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-25"
+              "title": "sui-docs-korea1020"
+            }
+          },
+          {
+            "id": "d11944e2437693c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/데이터베이스.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "데이터베이스"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,14 +219,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a25d5fa225ed336",
+  "active": "d11944e2437693c6",
   "lastOpenFiles": [
-    "00.inbox/Untitled.md",
-    "10.DailyNote/2025-10-25.md",
-    "00.inbox/Nodit 리서치.md",
+    "00.inbox/sui-docs-korea1020.md",
+    "00.inbox/데이터베이스.md",
+    "00.inbox/THEO YAP.md",
     "00.inbox/nodit cheat sheet.md",
-    "10.DailyNote/2025-10-23.md",
+    "00.inbox/Nodit 리서치.md",
+    "00.inbox/js,ts 코딩표준.md",
+    "10.DailyNote/2025-10-25.md",
     "00.inbox/먼지님.md",
+    "10.DailyNote/2025-10-23.md",
     "02.Network/P2P.md",
     "02.Network/Network Review.md",
     "01.BlockChain/SuiNetwork/Sui_Structure.md",
@@ -210,15 +238,12 @@
     "01.BlockChain/SuiNetwork/SEAL 암호화.md",
     "01.BlockChain/SuiNetwork/ricochet robot sui.md",
     "01.BlockChain/블록체인공부/심층분석/이더리움에서 지갑,컨트랙트 주소 생성방식.md",
-    "00.inbox/js,ts 코딩표준.md",
     "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
     "01.BlockChain/블록체인공부/아이디어/지문 - 해시값 암호검증.md",
     "01.BlockChain/블록체인공부/심층분석/가장긴체인.md",
     "01.BlockChain/블록체인공부/심층분석/고아블록.md",
-    "00.inbox/THEO YAP.md",
     "00.inbox/Untitled 1.md",
     "10.DailyNote/2025-10-21.md",
-    "00.inbox/sui-docs-korea1020.md",
     "10.DailyNote/2025-10-18.md",
     "10.DailyNote/2025-10-19.md",
     "10.DailyNote/2025-10-17.md",
