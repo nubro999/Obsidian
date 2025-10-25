@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "56776af1a4398ad6",
+        "id": "b6a589766e107ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "57e2dfc27e9e9875",
+            "id": "8a25d5fa225ed336",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-10-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-25"
             }
           }
         ]
@@ -180,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e2dfc27e9e9875",
+  "active": "8a25d5fa225ed336",
   "lastOpenFiles": [
+    "00.inbox/Untitled.md",
+    "10.DailyNote/2025-10-25.md",
     "00.inbox/Nodit 리서치.md",
     "00.inbox/nodit cheat sheet.md",
     "10.DailyNote/2025-10-23.md",
@@ -206,8 +222,6 @@
     "10.DailyNote/2025-10-18.md",
     "10.DailyNote/2025-10-19.md",
     "10.DailyNote/2025-10-17.md",
-    "30.JOB/자기소개서(잡코리아).md",
-    "40.Project/아이디어.md",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
