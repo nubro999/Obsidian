@@ -31,6 +31,16 @@
       "ctime": 1760705802569,
       "path": "10.DailyNote/2025-10-17.md",
       "title": "10월 계획"
+    },
+    {
+      "type": "file",
+      "ctime": 1761630254046,
+      "path": "10.DailyNote/2025-10-28.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1761649400049,
+      "path": "08.Infra/kubenetes학습.md"
     }
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a589766e107ed8",
+        "id": "3157cea3283a4ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "8a25d5fa225ed336",
+            "id": "6c9f7c5eea179428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/sui-docs-korea1020.md",
+                "file": "08.Infra/kubenetes학습.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sui-docs-korea1020"
+              "title": "kubenetes학습"
             }
           },
           {
-            "id": "d11944e2437693c6",
+            "id": "a3a2a3b110b47de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.JOB/THEO YAP.md",
+                "file": "10.DailyNote/2025-10-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "THEO YAP"
+              "title": "2025-10-28"
             }
           },
           {
-            "id": "33c0eab37a54547a",
+            "id": "908c6b264141f789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-10-27.md",
+                "file": "10.DailyNote/2025-10-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "2025-10-28"
             }
           },
           {
-            "id": "85d8a6ae53cd8396",
+            "id": "3f2b48dbb2eed481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Forrest1027.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Forrest1027"
-            }
-          },
-          {
-            "id": "8c79086ba1e0aac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/EIP2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EIP2025"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hidde",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,12 +143,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -292,34 +253,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85d8a6ae53cd8396",
+  "active": "a3a2a3b110b47de3",
   "lastOpenFiles": [
-    "10.DailyNote/2025-10-27.md",
-    "00.inbox/Forrest1027.md",
-    "00.inbox/EIP2025.md",
-    "80.Information/Hidden.md",
-    "10.DailyNote/2025-10-26.md",
     "00.inbox/zkPASS Yap.md",
-    "30.JOB/THEO YAP.md",
+    "08.Infra/kubenetes학습.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/Untitled 1.md",
+    "00.inbox/cluster.md",
+    "08.Infra/kube기본개념.md",
+    "08.Infra/pod.md",
+    "10.DailyNote/2025-10-28.md",
+    "10.DailyNote/2025-10-17.md",
+    "00.inbox/Forrest1027.md",
+    "08.Infra/Kubernetes.md",
+    "30.JOB/자기소개서(잡코리아).md",
+    "80.Information/Hidden.md",
+    "30.JOB/하이퍼리즘 면접준비.md",
+    "40.Project/아이디어.md",
+    "30.JOB/이력서(전체).md",
+    "10.DailyNote/2025-10-27.md",
     "30.JOB/sui-docs-korea1020.md",
+    "00.inbox/EIP2025.md",
+    "10.DailyNote/2025-10-26.md",
+    "30.JOB/THEO YAP.md",
     "30.JOB/nodit cheat sheet.md",
     "30.JOB/Nodit 리서치.md",
     "03.SoftwareEngineering/js,ts 코딩표준.md",
     "08.Infra/데이터베이스.md",
     "10.DailyNote/2025-10-25.md",
-    "00.inbox/먼지님.md",
-    "10.DailyNote/2025-10-23.md",
-    "02.Network/P2P.md",
-    "02.Network/Network Review.md",
-    "01.BlockChain/SuiNetwork/Sui_Structure.md",
-    "01.BlockChain/SuiNetwork/Sui Review.md",
-    "01.BlockChain/SuiNetwork/Sui Finality.md",
-    "01.BlockChain/SuiNetwork/SEAL 암호화.md",
-    "01.BlockChain/SuiNetwork/ricochet robot sui.md",
-    "01.BlockChain/블록체인공부/심층분석/이더리움에서 지갑,컨트랙트 주소 생성방식.md",
-    "01.BlockChain/블록체인공부/아이디어/Solana Hackathon.md",
-    "01.BlockChain/블록체인공부/아이디어/지문 - 해시값 암호검증.md",
-    "01.BlockChain/블록체인공부/심층분석/가장긴체인.md",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
