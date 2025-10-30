@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.Infra/kubenetes학습.md",
+                "file": "00.inbox/zkPASS Yap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kubenetes학습"
+              "title": "zkPASS Yap"
             }
           },
           {
-            "id": "a3a2a3b110b47de3",
+            "id": "7635e7bc27b9fc30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-10-28.md",
+                "file": "00.inbox/runpod IR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "runpod IR"
+            }
+          },
+          {
+            "id": "af86ea709b128985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/riverbandIR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "riverbandIR"
+            }
+          },
+          {
+            "id": "b615da760d9cb2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/podIR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "podIR"
+            }
+          },
+          {
+            "id": "2c1c03507a9ae47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/BAY1030.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BAY1030"
             }
           },
           {
@@ -61,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-10-28.md",
+                "file": "00.inbox/리버밴드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,21 +148,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "리버밴드"
+            }
+          },
+          {
+            "id": "589773179bc514e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.Infra/pod.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pod"
             }
           },
           {
             "id": "3f2b48dbb2eed481",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/BAY1030.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BAY1030"
+            }
+          },
+          {
+            "id": "63707da640fba7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50.Work/BAY/BAY Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BAY Review"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,39 +387,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3a2a3b110b47de3",
+  "active": "3f2b48dbb2eed481",
   "lastOpenFiles": [
-    "00.inbox/zkPASS Yap.md",
+    "50.Work/BAY/BAY Review.md",
+    "00.inbox/BAY1030.md",
+    "00.inbox/podIR.md",
+    "00.inbox/riverbandIR.md",
+    "00.inbox/runpod IR.md",
+    "00.inbox/리버밴드.md",
+    "00.inbox/Forrest1027.md",
+    "10.DailyNote/2025-10-26.md",
+    "10.DailyNote/2025-10-27.md",
+    "10.DailyNote/2025-10-28.md",
+    "10.DailyNote/2025-10-30.md",
+    "00.inbox/Untitled.base",
     "08.Infra/kubenetes학습.md",
-    "00.inbox/Untitled.md",
+    "10.DailyNote/2025-10-17.md",
+    "08.Infra/pod.md",
+    "00.inbox/serverless.md",
+    "00.inbox/zkPASS Yap.md",
+    "Untitled.canvas",
     "00.inbox/Untitled 1.md",
     "00.inbox/cluster.md",
     "08.Infra/kube기본개념.md",
-    "08.Infra/pod.md",
-    "10.DailyNote/2025-10-28.md",
-    "10.DailyNote/2025-10-17.md",
-    "00.inbox/Forrest1027.md",
     "08.Infra/Kubernetes.md",
     "30.JOB/자기소개서(잡코리아).md",
     "80.Information/Hidden.md",
     "30.JOB/하이퍼리즘 면접준비.md",
     "40.Project/아이디어.md",
     "30.JOB/이력서(전체).md",
-    "10.DailyNote/2025-10-27.md",
     "30.JOB/sui-docs-korea1020.md",
-    "00.inbox/EIP2025.md",
-    "10.DailyNote/2025-10-26.md",
-    "30.JOB/THEO YAP.md",
-    "30.JOB/nodit cheat sheet.md",
-    "30.JOB/Nodit 리서치.md",
-    "03.SoftwareEngineering/js,ts 코딩표준.md",
-    "08.Infra/데이터베이스.md",
-    "10.DailyNote/2025-10-25.md",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
     "09.AI",
-    "00.inbox/Untitled.base",
     "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
@@ -301,7 +436,6 @@
     "99.Attachment/Recording 20250709045813.m4a",
     "99.Attachment/Recording 20250827004317.m4a",
     "99.Attachment/Recording 20250827004303.m4a",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
