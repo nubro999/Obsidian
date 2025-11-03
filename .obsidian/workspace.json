@@ -181,7 +181,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/BAY1030.md",
+                "file": "00.inbox/리버밴드_MVP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "리버밴드_MVP"
+            }
+          },
+          {
+            "id": "c70757eb1efe2826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/serverless.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "serverless"
+            }
+          },
+          {
+            "id": "cf032e30f242d5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50.Work/BAY/BAY1030.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -205,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Work/BAY/BAY Review.md",
+                "file": "30.JOB/Forrest1027.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +268,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BAY Review"
+              "title": "Forrest1027"
+            }
+          },
+          {
+            "id": "a17158f138240fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-11-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-03"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -277,7 +349,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -387,36 +460,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f2b48dbb2eed481",
+  "active": "a17158f138240fa0",
   "lastOpenFiles": [
+    "30.JOB/forrest crew.md",
+    "10.DailyNote/2025-11-03.md",
+    "30.JOB/이력서(전체).md",
+    "40.Project/아이디어.md",
+    "30.JOB/runpod IR.md",
+    "10.DailyNote/2025-10-28.md",
+    "08.Infra/kubenetes학습.md",
+    "30.JOB/하이퍼리즘 면접준비.md",
+    "10.DailyNote/2025-10-17.md",
+    "00.inbox/forrest chore.md",
+    "00.inbox/Untitled.md",
+    "01.BlockChain/Ethereum/EIP2025.md",
+    "50.Work/BAY/BAY1030.md",
+    "30.JOB/리버밴스_MVP.md",
+    "30.JOB/zkPASS Yap.md",
+    "08.Infra/serverless.md",
+    "30.JOB/riverbandIR.md",
+    "30.JOB/podIR.md",
+    "30.JOB/Forrest1027.md",
+    "10.DailyNote/2025-11-01.md",
     "50.Work/BAY/BAY Review.md",
-    "00.inbox/BAY1030.md",
-    "00.inbox/podIR.md",
-    "00.inbox/riverbandIR.md",
-    "00.inbox/runpod IR.md",
-    "00.inbox/리버밴드.md",
-    "00.inbox/Forrest1027.md",
+    "10.DailyNote/2025-10-31.md",
     "10.DailyNote/2025-10-26.md",
     "10.DailyNote/2025-10-27.md",
-    "10.DailyNote/2025-10-28.md",
     "10.DailyNote/2025-10-30.md",
     "00.inbox/Untitled.base",
-    "08.Infra/kubenetes학습.md",
-    "10.DailyNote/2025-10-17.md",
     "08.Infra/pod.md",
-    "00.inbox/serverless.md",
-    "00.inbox/zkPASS Yap.md",
     "Untitled.canvas",
-    "00.inbox/Untitled 1.md",
-    "00.inbox/cluster.md",
-    "08.Infra/kube기본개념.md",
-    "08.Infra/Kubernetes.md",
-    "30.JOB/자기소개서(잡코리아).md",
-    "80.Information/Hidden.md",
-    "30.JOB/하이퍼리즘 면접준비.md",
-    "40.Project/아이디어.md",
-    "30.JOB/이력서(전체).md",
-    "30.JOB/sui-docs-korea1020.md",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
