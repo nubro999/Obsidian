@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c9f7c5eea179428",
+            "id": "6be295bedf689290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/zkPASS Yap.md",
+                "file": "10.DailyNote/2025-11-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "zkPASS Yap"
+              "title": "2025-11-06"
             }
           },
           {
-            "id": "7635e7bc27b9fc30",
+            "id": "5797fadada6bd91d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/runpod IR.md",
+                "file": "10.DailyNote/2025-11-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "runpod IR"
+              "title": "2025-11-07"
             }
           },
           {
-            "id": "af86ea709b128985",
+            "id": "2217426f54bdfe55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/riverbandIR.md",
+                "file": "00.inbox/1107 단어정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,227 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "riverbandIR"
-            }
-          },
-          {
-            "id": "b615da760d9cb2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/podIR.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "podIR"
-            }
-          },
-          {
-            "id": "2c1c03507a9ae47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/BAY1030.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BAY1030"
-            }
-          },
-          {
-            "id": "908c6b264141f789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/리버밴드.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "리버밴드"
-            }
-          },
-          {
-            "id": "589773179bc514e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.Infra/pod.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pod"
-            }
-          },
-          {
-            "id": "3f2b48dbb2eed481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/리버밴드_MVP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "리버밴드_MVP"
-            }
-          },
-          {
-            "id": "c70757eb1efe2826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/serverless.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "serverless"
-            }
-          },
-          {
-            "id": "cf032e30f242d5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50.Work/BAY/BAY1030.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BAY1030"
-            }
-          },
-          {
-            "id": "63707da640fba7be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/Forrest1027.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Forrest1027"
-            }
-          },
-          {
-            "id": "a17158f138240fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-11-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-03"
+              "title": "1107 단어정리"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "자기소개서",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -349,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -460,35 +243,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a17158f138240fa0",
+  "active": "5797fadada6bd91d",
   "lastOpenFiles": [
-    "30.JOB/forrest crew.md",
+    "00.inbox/1107 단어정리.md",
+    "10.DailyNote/2025-11-07.md",
+    "00.inbox/11월 할일.md",
+    "10.DailyNote/2025-11-06.md",
     "10.DailyNote/2025-11-03.md",
-    "30.JOB/이력서(전체).md",
-    "40.Project/아이디어.md",
-    "30.JOB/runpod IR.md",
-    "10.DailyNote/2025-10-28.md",
-    "08.Infra/kubenetes학습.md",
-    "30.JOB/하이퍼리즘 면접준비.md",
-    "10.DailyNote/2025-10-17.md",
-    "00.inbox/forrest chore.md",
+    "10.DailyNote/2025-11-05.md",
+    "30.JOB/자기소개서(잡코리아).md",
     "00.inbox/Untitled.md",
-    "01.BlockChain/Ethereum/EIP2025.md",
-    "50.Work/BAY/BAY1030.md",
+    "00.inbox/forrest chore.md",
+    "00.inbox/LiverVance-cli.md",
+    "00.inbox/lamda256컬처핏 면접 준비.md",
+    "00.inbox/elevator.md",
+    "00.inbox/단어정리.md",
+    "99.Attachment/KakaoTalk_20251102_145152909.png",
+    "99.Attachment/Pasted image 20251104234614.png",
+    "30.JOB/runpod IR.md",
     "30.JOB/리버밴스_MVP.md",
-    "30.JOB/zkPASS Yap.md",
-    "08.Infra/serverless.md",
     "30.JOB/riverbandIR.md",
-    "30.JOB/podIR.md",
+    "30.JOB/zkPASS Yap.md",
+    "30.JOB/THEO YAP.md",
+    "30.JOB/sui-docs-korea1020.md",
+    "30.JOB/Nodit 리서치.md",
     "30.JOB/Forrest1027.md",
-    "10.DailyNote/2025-11-01.md",
-    "50.Work/BAY/BAY Review.md",
-    "10.DailyNote/2025-10-31.md",
-    "10.DailyNote/2025-10-26.md",
-    "10.DailyNote/2025-10-27.md",
-    "10.DailyNote/2025-10-30.md",
+    "30.JOB/Apply/Protocolcamp/Resume.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원서 내용.md",
+    "30.JOB/Apply/Protocolcamp/Protocol Camp 지원.md",
+    "30.JOB/Apply/Protocolcamp/Project List.md",
+    "10.DailyNote/2025-09-19.md",
     "00.inbox/Untitled.base",
-    "08.Infra/pod.md",
     "Untitled.canvas",
     "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
@@ -501,8 +286,6 @@
     "Screenshots/스크린샷 2025-09-17 172427.png",
     "Screenshots/스크린샷 2025-09-15 195308.png",
     "Screenshots/스크린샷 2025-09-15 195137.png",
-    "Screenshots/스크린샷 2025-09-15 193317.png",
-    "Screenshots/스크린샷 2025-09-15 193244.png",
     "Screenshots/desktop.ini",
     "Screenshots",
     "30.JOB/Apply/Upside_WriteUp.pdf",
