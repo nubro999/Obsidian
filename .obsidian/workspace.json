@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "4321da3b2dc631e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/AMM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AMM"
-            }
-          },
-          {
             "id": "eaf5dab6cb18910d",
             "type": "leaf",
             "state": {
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "9837dce0530d1131",
+            "id": "72a26cfb3d7a7149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/balancer-hacking.md",
+                "file": "00.inbox/11월 할일.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "balancer-hacking"
-            }
-          },
-          {
-            "id": "56122d36602dcb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/flash loan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "flash loan"
-            }
-          },
-          {
-            "id": "d17bb02bb6de507c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.inbox/Aave.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aave"
+              "title": "11월 할일"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -315,34 +243,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9837dce0530d1131",
+  "active": "72a26cfb3d7a7149",
   "lastOpenFiles": [
-    "11.WeeklyPlan/2025-Weekly Review.md",
-    "00.inbox/비하베스트.md",
-    "00.inbox/flash loan.md",
-    "00.inbox/balancer-hacking.md",
-    "00.inbox/balancer 분석글.md",
-    "00.inbox/bb-a-usd.md",
-    "00.inbox/Aave.md",
     "00.inbox/1107 단어정리.md",
-    "00.inbox/AMM.md",
-    "00.inbox/idle Token.md",
-    "00.inbox/DAI.md",
-    "00.inbox/LiverVance-cli.md",
-    "00.inbox/forrest chore.md",
-    "01.BlockChain/Mint.md",
-    "00.inbox/부동산.md",
-    "30.JOB/이력서 특강.md",
-    "00.inbox/mint.md",
     "00.inbox/11월 할일.md",
-    "00.inbox/Untitled.md",
+    "00.inbox/노동청Poc.md",
+    "30.JOB/flash loan.md",
+    "00.inbox/DAI.md",
+    "30.JOB/balancer 분석글.md",
+    "00.inbox/bb-a-usd.md",
+    "30.JOB/balancer-hacking.md",
+    "10.DailyNote/2025-11-10.md",
+    "00.inbox/리버밴스 자료.md",
+    "00.inbox/비하베스트.md",
+    "00.inbox/부동산.md",
     "00.inbox/단어정리.md",
+    "00.inbox/AMM.md",
+    "00.inbox/Aave.md",
+    "00.inbox/소감문.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/mint.md",
+    "00.inbox/LiverVance-cli.md",
+    "00.inbox/idle Token.md",
+    "00.inbox/forrest chore.md",
+    "80.Information/Hidden.md",
+    "11.WeeklyPlan/2025-Weekly Review.md",
+    "01.BlockChain/Mint.md",
+    "30.JOB/이력서 특강.md",
     "07.Web/session과 jwt비교.md",
-    "00.inbox/elevator.md",
-    "10.DailyNote/2025-11-06.md",
-    "10.DailyNote/2025-11-07.md",
-    "10.DailyNote/2025-11-03.md",
-    "10.DailyNote/2025-11-05.md",
     "99.Attachment/KakaoTalk_20251102_145152909.png",
     "99.Attachment/Pasted image 20251104234614.png",
     "00.inbox/Untitled.base",
