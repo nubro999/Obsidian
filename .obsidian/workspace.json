@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/11월 할일.md",
+                "file": "00.inbox/노동청Poc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11월 할일"
+              "title": "노동청Poc"
+            }
+          },
+          {
+            "id": "64dec397d6e1f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/노인돌봄DID.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "노인돌봄DID"
+            }
+          },
+          {
+            "id": "279d7c10ab1653f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/비하베스트.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "비하베스트"
+            }
+          },
+          {
+            "id": "415e3a7d2bcdefa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/비하베스트.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "비하베스트"
+            }
+          },
+          {
+            "id": "ba66b4d4f0f42bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-11-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13"
+            }
+          },
+          {
+            "id": "bd9af42329b78c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.JOB/ForrestCrew/소감문.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "소감문"
+            }
+          },
+          {
+            "id": "d35c4172a1773bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50.Chore/부동산.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "부동산"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -243,55 +387,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72a26cfb3d7a7149",
+  "active": "d35c4172a1773bcc",
   "lastOpenFiles": [
-    "00.inbox/1107 단어정리.md",
-    "00.inbox/11월 할일.md",
-    "00.inbox/노동청Poc.md",
-    "30.JOB/flash loan.md",
-    "00.inbox/DAI.md",
-    "30.JOB/balancer 분석글.md",
-    "00.inbox/bb-a-usd.md",
-    "30.JOB/balancer-hacking.md",
-    "10.DailyNote/2025-11-10.md",
-    "00.inbox/리버밴스 자료.md",
-    "00.inbox/비하베스트.md",
-    "00.inbox/부동산.md",
-    "00.inbox/단어정리.md",
-    "00.inbox/AMM.md",
-    "00.inbox/Aave.md",
-    "00.inbox/소감문.md",
-    "00.inbox/Untitled.md",
-    "00.inbox/mint.md",
-    "00.inbox/LiverVance-cli.md",
-    "00.inbox/idle Token.md",
+    "50.Chore",
+    "01.BlockChain/1107 단어정리.md",
+    "01.BlockChain/단어정리.md",
+    "50.Chore/부동산.md",
+    "11.WeeklyPlan/11월 할일.md",
+    "30.JOB/비하베스트/Aave.md",
+    "30.JOB/ForrestCrew/소감문.md",
+    "30.JOB/비하베스트/비하베스트.md",
+    "30.JOB/비하베스트/AMM.md",
+    "30.JOB/비하베스트/idle Token.md",
+    "40.Project/LiberVance/LiverVance-cli.md",
     "00.inbox/forrest chore.md",
-    "80.Information/Hidden.md",
-    "11.WeeklyPlan/2025-Weekly Review.md",
-    "01.BlockChain/Mint.md",
-    "30.JOB/이력서 특강.md",
-    "07.Web/session과 jwt비교.md",
+    "30.JOB/비하베스트/DAI.md",
+    "30.JOB/비하베스트/bb-a-usd.md",
+    "30.JOB/비하베스트/balancer 한국어.md",
+    "30.JOB/비하베스트/balancer-hacking.md",
+    "30.JOB/비하베스트",
+    "30.JOB/비하베스트/balancer 분석글.md",
+    "40.Project/비하베스트",
+    "40.Project/YAP/zkPASS Yap.md",
+    "40.Project/YAP/THEO YAP.md",
+    "30.JOB/ForrestCrew/Forrest1027.md",
+    "30.JOB/ForrestCrew/forrest crew.md",
+    "30.JOB/BAY/BAY DSRV.md",
+    "40.Project/YAP",
+    "40.Project/Sui-docs-Korea/sui-docs-korea1020.md",
+    "40.Project/Sui-docs-Korea/Sui-Dev-Korea.md",
+    "40.Project/Sui-docs-Korea",
+    "40.Project/Nodit/nodit cheat sheet.md",
+    "40.Project/Nodit",
+    "41.Scrap/Nodit 리서치.md",
+    "40.Project/Hackathon",
+    "40.Project/기타",
+    "40.Project/노동청DID",
+    "30.JOB/ForrestCrew",
+    "40.Project/MyCream",
     "99.Attachment/KakaoTalk_20251102_145152909.png",
     "99.Attachment/Pasted image 20251104234614.png",
-    "00.inbox/Untitled.base",
     "Untitled.canvas",
-    "99.Attachment/[람다256]+1차+인터뷰+사전과제_신형섭님.pdf",
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
-    "09.AI",
-    "08.Infra",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
     "99.Attachment/DAAS-VADER_architecture.png",
     "Screenshots/스크린샷 2025-09-17 183509.png",
     "Screenshots/스크린샷 2025-09-17 172427.png",
     "Screenshots/스크린샷 2025-09-15 195308.png",
     "Screenshots/스크린샷 2025-09-15 195137.png",
-    "Screenshots/desktop.ini",
-    "Screenshots",
-    "30.JOB/Apply/Upside_WriteUp.pdf",
-    "99.Attachment/Recording 20250709045813.m4a",
-    "99.Attachment/Recording 20250827004317.m4a",
-    "99.Attachment/Recording 20250827004303.m4a",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

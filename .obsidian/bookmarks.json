@@ -3,13 +3,13 @@
     {
       "type": "file",
       "ctime": 1758985593022,
-      "path": "30.JOB/이력서(전체).md",
+      "path": "30.JOB/GO_GET_A_JOB/이력서(전체).md",
       "title": ""
     },
     {
       "type": "file",
       "ctime": 1759225008143,
-      "path": "40.Project/아이디어.md"
+      "path": "40.Project/기타/아이디어.md"
     },
     {
       "type": "file",
@@ -19,7 +19,7 @@
     {
       "type": "file",
       "ctime": 1760691131746,
-      "path": "30.JOB/자기소개서(잡코리아).md"
+      "path": "30.JOB/GO_GET_A_JOB/자기소개서(잡코리아).md"
     },
     {
       "type": "file",
@@ -39,17 +39,22 @@
     {
       "type": "file",
       "ctime": 1762077652475,
-      "path": "30.JOB/forrest crew.md"
+      "path": "30.JOB/ForrestCrew/forrest crew.md"
     },
     {
       "type": "file",
       "ctime": 1762250407598,
-      "path": "00.inbox/11월 할일.md"
+      "path": "11.WeeklyPlan/11월 할일.md"
     },
     {
       "type": "file",
       "ctime": 1762594128639,
-      "path": "00.inbox/비하베스트.md"
+      "path": "30.JOB/비하베스트/비하베스트.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1763101917592,
+      "path": "30.JOB/ForrestCrew/크루 계획.md"
     }
   ]
 }
