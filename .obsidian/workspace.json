@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3157cea3283a4ac0",
+        "id": "f6a43c2680c57e59",
         "type": "tabs",
         "children": [
           {
-            "id": "5797fadada6bd91d",
+            "id": "4ee339a33749fa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/1107 단어정리.md",
+                "file": "10.DailyNote/2025-11-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1107 단어정리"
+              "title": "2025-11-15"
             }
           },
           {
-            "id": "eaf5dab6cb18910d",
+            "id": "6ed208e9a1b95af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/1107 단어정리.md",
+                "file": "30.JOB/ForrestCrew/1116성과공유.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1107 단어정리"
+              "title": "1116성과공유"
             }
           },
           {
-            "id": "72a26cfb3d7a7149",
+            "id": "d39e1758578eb757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/노동청Poc.md",
+                "file": "10.DailyNote/2025-11-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "노동청Poc"
+              "title": "2025-11-17"
             }
           },
           {
-            "id": "64dec397d6e1f1a3",
+            "id": "a8421c84831d83f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/노인돌봄DID.md",
+                "file": "00.inbox/mycream.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "노인돌봄DID"
+              "title": "mycream"
             }
           },
           {
-            "id": "279d7c10ab1653f5",
+            "id": "f24f4ceb45a3f71d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/비하베스트.md",
+                "file": "00.inbox/mycream.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,17 +124,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "비하베스트"
+              "title": "mycream"
             }
           },
           {
-            "id": "415e3a7d2bcdefa1",
+            "id": "24b6ab87da753bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/비하베스트.md",
-                "mode": "source",
+                "file": "00.inbox/아키텍처 분석.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,83 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "비하베스트"
-            }
-          },
-          {
-            "id": "ba66b4d4f0f42bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.DailyNote/2025-11-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-13"
-            }
-          },
-          {
-            "id": "bd9af42329b78c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30.JOB/ForrestCrew/소감문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "소감문"
-            }
-          },
-          {
-            "id": "d35c4172a1773bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50.Chore/부동산.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "부동산"
+              "title": "아키텍처 분석"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "3d6172d549642e84",
@@ -387,15 +316,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d35c4172a1773bcc",
+  "active": "24b6ab87da753bb5",
   "lastOpenFiles": [
+    "00.inbox/mycream.md",
+    "00.inbox/아키텍처 분석.md",
+    "10.DailyNote/2025-11-17.md",
+    "00.inbox/마이크림.md",
+    "30.JOB/ForrestCrew/1116성과공유.md",
+    "30.JOB/ForrestCrew/2025-11-16.md",
+    "00.inbox/Untitled.md",
+    "10.DailyNote/2025-11-15.md",
+    "00.inbox/모나드 해커톤.md",
+    "30.JOB/ForrestCrew/크루 계획.md",
+    "30.JOB/ForrestCrew/forrest crew.md",
+    "10.DailyNote/2025-11-13.md",
+    "30.JOB/ForrestCrew/소감문.md",
+    "90.Templetes/Daily Note Templete.md",
+    "50.Chore/부동산.md",
     "50.Chore",
     "01.BlockChain/1107 단어정리.md",
     "01.BlockChain/단어정리.md",
-    "50.Chore/부동산.md",
     "11.WeeklyPlan/11월 할일.md",
     "30.JOB/비하베스트/Aave.md",
-    "30.JOB/ForrestCrew/소감문.md",
     "30.JOB/비하베스트/비하베스트.md",
     "30.JOB/비하베스트/AMM.md",
     "30.JOB/비하베스트/idle Token.md",
@@ -403,28 +345,15 @@
     "00.inbox/forrest chore.md",
     "30.JOB/비하베스트/DAI.md",
     "30.JOB/비하베스트/bb-a-usd.md",
-    "30.JOB/비하베스트/balancer 한국어.md",
-    "30.JOB/비하베스트/balancer-hacking.md",
     "30.JOB/비하베스트",
-    "30.JOB/비하베스트/balancer 분석글.md",
     "40.Project/비하베스트",
-    "40.Project/YAP/zkPASS Yap.md",
-    "40.Project/YAP/THEO YAP.md",
-    "30.JOB/ForrestCrew/Forrest1027.md",
-    "30.JOB/ForrestCrew/forrest crew.md",
-    "30.JOB/BAY/BAY DSRV.md",
     "40.Project/YAP",
-    "40.Project/Sui-docs-Korea/sui-docs-korea1020.md",
-    "40.Project/Sui-docs-Korea/Sui-Dev-Korea.md",
     "40.Project/Sui-docs-Korea",
-    "40.Project/Nodit/nodit cheat sheet.md",
     "40.Project/Nodit",
-    "41.Scrap/Nodit 리서치.md",
     "40.Project/Hackathon",
     "40.Project/기타",
     "40.Project/노동청DID",
     "30.JOB/ForrestCrew",
-    "40.Project/MyCream",
     "99.Attachment/KakaoTalk_20251102_145152909.png",
     "99.Attachment/Pasted image 20251104234614.png",
     "Untitled.canvas",
