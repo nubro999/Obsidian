@@ -155,9 +155,19 @@
             "id": "da7e41f20ed18d83",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "383c298740c079f3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "08.Infra/docs스크랩.md",
+                "file": "00.inbox/1125선태님조언.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +182,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "docs스크랩"
+              "title": "1125선태님조언"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -339,12 +349,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da7e41f20ed18d83",
+  "active": "383c298740c079f3",
   "lastOpenFiles": [
+    "00.inbox/1125선태님조언.md",
+    "10.DailyNote/2025-08-02.md",
+    "10.DailyNote/2025-11-18.md",
+    "10.DailyNote/2025-10-28.md",
+    "11.WeeklyPlan/2025-Weekly Review.md",
+    "08.Infra/docs스크랩.md",
     "40.Project/MyCream/mycream.md",
     "40.Project/Sui-docs-Korea/sui docs korea.md",
     "08.Infra/kube공부.md",
-    "08.Infra/docs스크랩.md",
     "30.JOB/ForrestCrew/포레스트크루1124.md",
     "40.Project/LiberVance/월드랜드 미팅 1125.md",
     "30.JOB/ForrestCrew/1117ForrestCrew.md",
@@ -363,11 +378,6 @@
     "99.Attachment/Pasted image 20251123232458.png",
     "10.DailyNote/2025-11-22.md",
     "10.DailyNote/2025-11-21.md",
-    "10.DailyNote/2025-11-15.md",
-    "80.Information/Hidden.md",
-    "30.JOB/ForrestCrew/1116성과공유.md",
-    "08.Infra/Kubernetes.md",
-    "10.DailyNote/2025-11-17.md",
     "99.Attachment/Pasted image 20251119151853.png",
     "50.Chore",
     "30.JOB/비하베스트",
