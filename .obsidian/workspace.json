@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/sui docs korea.md",
+                "file": "40.Project/Sui-docs-Korea/sui docs korea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/kube공부.md",
+                "file": "08.Infra/docs스크랩.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kube공부"
+              "title": "docs스크랩"
             }
           }
         ],
@@ -341,9 +341,10 @@
   },
   "active": "da7e41f20ed18d83",
   "lastOpenFiles": [
-    "00.inbox/mycream.md",
-    "00.inbox/kube공부.md",
-    "00.inbox/sui docs korea.md",
+    "40.Project/MyCream/mycream.md",
+    "40.Project/Sui-docs-Korea/sui docs korea.md",
+    "08.Infra/kube공부.md",
+    "08.Infra/docs스크랩.md",
     "30.JOB/ForrestCrew/포레스트크루1124.md",
     "40.Project/LiberVance/월드랜드 미팅 1125.md",
     "30.JOB/ForrestCrew/1117ForrestCrew.md",
@@ -355,7 +356,6 @@
     "40.Project/Hackathon/밈코어.md",
     "40.Project/Hackathon/모나드 해커톤.md",
     "30.JOB/ForrestCrew/성훈님멘토링.md",
-    "00.inbox/docs스크랩.md",
     "40.Project/LiberVance/ManifyProtocol.md",
     "40.Project/LiberVance/리버밴스 정리.md",
     "10.DailyNote/2025-11-24.md",
