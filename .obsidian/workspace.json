@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "2025-11-26"
             }
+          },
+          {
+            "id": "34c5e5a4ce5b2aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-11-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-26"
+            }
+          },
+          {
+            "id": "6ee3a5da118d4e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.inbox/1126리버밴스.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1126리버밴스"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,8 +268,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b41ebadc07a2fb6c",
+  "active": "6ee3a5da118d4e6a",
   "lastOpenFiles": [
+    "10.DailyNote/2025-11-26.md",
+    "00.inbox/1126리버밴스.md",
     "00.inbox/리버밴스 로드맵 1세부아키텍처.md",
     "40.Project/LiberVance/ManifyProtocol.md",
     "99.Attachment/Pasted image 20251126004445.png",
@@ -229,7 +279,6 @@
     "40.Project/LiberVance/리버밴스_MVP.md",
     "40.Project/LiberVance/LiverVance-cli.md",
     "40.Project/LiberVance/리버밴스 자료.md",
-    "10.DailyNote/2025-11-26.md",
     "00.inbox/1125선태님조언.md",
     "40.Project/Hackathon/밈코어.md",
     "40.Project/LiberVance/월드랜드 미팅 1125.md",
