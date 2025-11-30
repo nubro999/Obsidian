@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b41ebadc07a2fb6c",
+            "id": "1857035c47e9741c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-11-26.md",
+                "file": "40.Project/MyCream/마이크림.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-26"
+              "title": "마이크림"
             }
           },
           {
-            "id": "34c5e5a4ce5b2aa6",
+            "id": "be57789d8e7f2757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.DailyNote/2025-11-26.md",
+                "file": "10.DailyNote/2025-11-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-26"
+              "title": "2025-11-28"
             }
           },
           {
-            "id": "6ee3a5da118d4e6a",
+            "id": "2abf0318f1618e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.inbox/1126리버밴스.md",
+                "file": "80.Information/Hidden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1126리버밴스"
+              "title": "Hidden"
+            }
+          },
+          {
+            "id": "8c70250218555232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.DailyNote/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-30"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kube",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,12 +291,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ee3a5da118d4e6a",
+  "active": "8c70250218555232",
   "lastOpenFiles": [
-    "10.DailyNote/2025-11-26.md",
-    "00.inbox/1126리버밴스.md",
+    "00.inbox/1128리버밴스.md",
+    "10.DailyNote/2025-11-30.md",
+    "00.inbox/능률올리기.md",
     "00.inbox/리버밴스 로드맵 1세부아키텍처.md",
+    "00.inbox/Untitled.md",
+    "00.inbox/GO공부.md",
+    "40.Project/MyCream/마이크림.md",
+    "10.DailyNote/2025-11-28.md",
+    "10.DailyNote/2025-11-26.md",
     "40.Project/LiberVance/ManifyProtocol.md",
+    "80.Information/Hidden.md",
+    "08.Infra/kube공부.md",
+    "08.Infra/kubenetes학습.md",
+    "00.inbox/마이크림 크리에이터.md",
+    "99.Attachment/Pasted image 20251128013721.png",
+    "99.Attachment/Pasted image 20251128013631.png",
+    "10.DailyNote/2025-11-27.md",
+    "00.inbox/1126리버밴스.md",
     "99.Attachment/Pasted image 20251126004445.png",
     "40.Project/LiberVance/리버밴스 Review.md",
     "40.Project/LiberVance/리버밴스_MVP.md",
@@ -283,20 +320,8 @@
     "40.Project/Hackathon/밈코어.md",
     "40.Project/LiberVance/월드랜드 미팅 1125.md",
     "30.JOB/ForrestCrew/크루 계획.md",
-    "00.inbox/능률올리기.md",
     "10.DailyNote/2025-11-21.md",
     "10.DailyNote/2025-11-23.md",
-    "40.Project/MyCream/마이크림.md",
-    "30.JOB/ForrestCrew/포레스트크루1124.md",
-    "40.Project/Sui-docs-Korea/sui docs korea.md",
-    "10.DailyNote/2025-08-02.md",
-    "10.DailyNote/2025-11-18.md",
-    "10.DailyNote/2025-10-28.md",
-    "11.WeeklyPlan/2025-Weekly Review.md",
-    "08.Infra/docs스크랩.md",
-    "40.Project/MyCream/mycream.md",
-    "08.Infra/kube공부.md",
-    "30.JOB/ForrestCrew/1117ForrestCrew.md",
     "99.Attachment/Pasted image 20251123232458.png",
     "99.Attachment/Pasted image 20251119151853.png",
     "50.Chore",
@@ -315,8 +340,6 @@
     "99.Attachment/Pasted image 20251018215814.png",
     "99.Attachment/Pasted image 20251018212859.png",
     "99.Attachment/DAAS-VADER 로고 디자인.png",
-    "99.Attachment/DAAS-VADER_architecture.png",
-    "Screenshots/스크린샷 2025-09-17 183509.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

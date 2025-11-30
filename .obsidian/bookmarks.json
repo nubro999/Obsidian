@@ -28,11 +28,6 @@
     },
     {
       "type": "file",
-      "ctime": 1761649400049,
-      "path": "08.Infra/kubenetes학습.md"
-    },
-    {
-      "type": "file",
       "ctime": 1761809816789,
       "path": "30.JOB/runpod IR.md"
     },
@@ -60,6 +55,11 @@
       "type": "file",
       "ctime": 1764080894455,
       "path": "40.Project/LiberVance/리버밴스 Review.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1764305770602,
+      "path": "08.Infra/kube공부.md"
     }
   ]
 }
